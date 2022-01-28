@@ -1,7 +1,7 @@
-# Garimpo
+# GarimpoCancel changes
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 5<br>
 
 ## Alunos
 |Matrícula | Aluno |
