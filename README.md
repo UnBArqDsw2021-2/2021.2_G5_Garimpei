@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Garimpo
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: XX<br>
