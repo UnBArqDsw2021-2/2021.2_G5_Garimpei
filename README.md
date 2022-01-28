@@ -1,4 +1,4 @@
-# GarimpoCancel changes
+# Garimpei
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 5<br>
