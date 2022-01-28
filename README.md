@@ -1,15 +1,3 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2021.2_G1_ProjetoPandora*. !!** 
- 
- (Apague essa seção)
-
 # Nome do Projeto
 
 **Código da Disciplina**: FGA0208<br>
@@ -18,11 +6,18 @@ Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0127641 | Matheus Afonso de Souza |
+| 18/0129058  | Paulo Victor da Silva |
+| 18/0132245 | Vinicius de Sousa Saturnino |
+| 18/0138545 | Thiago Mesquita Peres Nunes de Carvalho |
+| 18/0124099 | Juliana Pereira Valle Gonçalves |
+| 17/0101711 | Daniel Barcelos Moreira |
+| 18/0106821 | Mateus Gomes do Nascimento |
+| 18/0041592 | Denys Rógeres Leles dos Santos |
+| 18/0055241 | Victor Jorge da Silva Gonçalves |
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais. 
+Imagine uma comunidade que resolve abrir um bazar/brechó, com artigos que são doados ou mesmo confeccionados por membros da comunidade. Esses artigos acabam sendo vendidos para os próprios locais. Por que não pensar em um aplicativo ou aplicação web, e ampliar as estratégias de venda dessa iniciativa da comunidade? Estando na internet, pessoas até mesmo de outras localidades poderiam se interessar pelos artigos...
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
