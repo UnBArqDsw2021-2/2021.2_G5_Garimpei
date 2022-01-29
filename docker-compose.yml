@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  docs:
+    container_name: garimpei_docs
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/code/

@@ -1,0 +1,22 @@
+site_name: Garimpei
+
+repo_name: "2021.2-Garimpei"
+repo_url: "https://github.com/UnBArqDsw2021-2/2021.2_G5_Garimpei"
+
+theme:
+  name: material
+  language: "pt"
+  palette:
+    primary: "#fff"
+    accent: "light blue"
+  font:
+    text: "Montserrat"
+    code: "sans-serif"
+
+extra_css:
+  - stylesheets/styles.css
+
+nav:
+  - Início: index.md
+
+dev_addr: "0.0.0.0:8000"

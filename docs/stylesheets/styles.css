@@ -1,0 +1,45 @@
+p img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+p {
+  text-align: justify;
+}
+
+thead tr {
+  background: #4051B5 !important;
+  color: white;
+}
+
+tr:nth-child(odd) {
+  background: #F8F8F8;
+}
+
+td,
+th {
+  text-align: center !important;
+  vertical-align: middle !important;
+}
+
+img[alt="drawing"] {
+  width: 3rem;
+  object-fit: cover;
+}
+
+img[alt="persona"] {
+  width: 10rem;
+  object-fit: cover;
+}
+
+img[alt="caption"] {
+  width: 20rem;
+  object-fit: cover;
+}
+
+img[alt="logo"] {
+  width: 20rem;
+  object-fit: cover;
+}
