@@ -17,10 +17,10 @@
 | <img src="./assets/vinicius.jpeg" width="100" style="border-radius: 50%" /> | Vinicius Saturnino | [viniciussaturnino](https://github.com/viniciussaturnino) |
 | <img src="./assets/thiago.jpeg" width="100" style="border-radius: 50%" /> | Thiago Mesquita | [thiagompc](https://github.com/thiagompc) |
 | <img src="./assets/juliana.jpeg" width="100" style="border-radius: 50%" /> | Juliana Pereira | [julianavalle](https://github.com/julianavalle) |
-| <img src="./assets/daniel.jpeg" width="100" style="border-radius: 50%" /> | Daniel Barcelos | [](https://github.com/) |
+| <img src="./assets/daniel.jpg" width="100" style="border-radius: 50%" /> | Daniel Barcelos | [](https://github.com/) |
 | <img src="./assets/gomes.jpeg" width="100" style="border-radius: 50%" /> | Mateus Gomes | [matgomes21](https://github.com/matgomes21) |
-| <img src="./assets/denys.jpeg" width="100" style="border-radius: 50%" /> | Denys Rógeres | [](https://github.com/) |
-| <img src="./assets/victor.jpeg" width="100" style="border-radius: 50%" /> | Victor Jorge | [](https://github.com/) |
+| <img src="./assets/denys.jpg" width="100" style="border-radius: 50%" /> | Denys Rógeres | [](https://github.com/) |
+| <img src="./assets/victor.jpg" width="100" style="border-radius: 50%" /> | Victor Jorge | [](https://github.com/) |
 
 </center>
 
