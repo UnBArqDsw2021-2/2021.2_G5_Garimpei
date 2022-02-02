@@ -29,3 +29,12 @@ Mel tem 35 anos, divorciada, formada em Nutrição e possui o próprio consultó
 - Expectativas: Deseja encontrar roupas e itens diversos de baixo custo.
 
 Karen tem 53 anos, casada e trabalha como empregada doméstica. Karen mora com seus cinco filhos e marido. A família de 7 pessoas vive com pouco mais que dois salários mínimos. Por isso, Karen necessita comprar roupas para seus filhos e artefatos para casa com preço mais acessível.
+
+### Evandro Lins
+- Idade: 20 anos.
+- Sexo: Masculino.
+- Profissão: Estagiário.
+- Escolaridade: Cursando Ensino Superior.
+- Expectativas: Deseja comprar itens mais baratos e não se importa de serem de segunda mão.
+
+Evandro tem 20 anos, solteiro, é estudante de Contablidade e faz estágio na área. Evandro mora com os pais, mas quer buscar sua idependência logo. Ele já procura móveis baratos para mobiliar sua futura casa e roupas em conta para ter um guarda-roupas diversificado.
