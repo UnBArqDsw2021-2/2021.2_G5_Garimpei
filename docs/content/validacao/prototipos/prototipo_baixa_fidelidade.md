@@ -2,9 +2,14 @@
 
 ## 1. Histórico de versão
 
+<center>
+
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 02/02/2022 | Criação do documento de exposição dos protótipos elaborados | Victor Gonçalves |
+| 0.2    | 02/02/2022 | Centralização das tabelas | Matheus Afonso |
+
+</center>
 
 ## 2. Definição
 

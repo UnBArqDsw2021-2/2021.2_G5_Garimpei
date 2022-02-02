@@ -2,9 +2,14 @@
 
 ## 1. Histórico de versão
 
+<center>
+
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 01/02/2022 | Criação da documentação relacionada ao questionário | Paulo Victor |
+| 0.2    | 02/02/2022 | Centralização das tabelas | Matheus Afonso |
+
+</center>
 
 ## 2. Definição
 
@@ -24,6 +29,8 @@
 
 &emsp;&emsp;Dessa forma, foi analisado as respostas do formulário e foi documentado os seguintes requisitos:
 
+<center>
+
 |  ID  |                  Requisito                   |
 | :--: | :------------------------------------------: |
 | RF01 |     Adição de Fotos e Vídeos do produto      |
@@ -35,6 +42,8 @@
 | :---: | :---------------------------------: |
 | RNF01 | Facilidade no anúncio de um produto |
 | RNF02 | Anúncios encontrados em buscadores  |
+
+</center>
 
 &emsp;&emsp;Vale ressaltar que os requisitos aqui listados ainda precisam ser verificados e validados.
 
