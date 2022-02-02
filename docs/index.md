@@ -1,12 +1,23 @@
-## 1. Sobre o projeto
+## 1. Histórico de versão
+
+<center>
+
+| Versão | Data       | Descrição                                           | Autor        |
+| ------ | ---------- | --------------------------------------------------- | ------------ |
+| 0.1    | 28/01/2022 | Criação da página de início | Matheus Afonso |
+| 0.2    | 02/02/2022 | Adição do heatmap de horários, centralização das tabelas e mudança na ordem | Matheus Afonso |
+
+</center>
+
+## 2. Sobre o projeto
 
 &emsp;&emsp;Repositório reservado à disciplina de Arquitetura e Desenho de Software da Universidade de Brasília sobre o desenvolvimento do aplicativo Garimpei. Ele retém o armazenamento e a apresentação de artefatos e processos desenvolvidos na disciplina, como pré-rastreamento, heurística, modelagem, análise e pós-rastreamento para melhorar os requisitos não funcionais e funcionais do aplicativo.
 
-## 2. Sobre o Garimpei
+## 3. Sobre o Garimpei
 
 &emsp;&emsp;Imagine uma comunidade que resolve abrir um bazar/brechó, com artigos que são doados ou mesmo confeccionados por membros da comunidade. Esses artigos acabam sendo vendidos para os próprios locais. Por que não pensar em um aplicativo ou aplicação web, e ampliar as estratégias de venda dessa iniciativa da comunidade? Estando na internet, pessoas até mesmo de outras localidades poderiam se interessar pelos artigos.
 
-## 3. Equipe
+## 4. Equipe
 
 <center>
 
@@ -24,8 +35,12 @@
 
 </center>
 
-## 4. Histórico de versão
+## 5. Heatmap da equipe
 
-| Versão | Data       | Descrição                                           | Autor        |
-| ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 28/01/2022 | Criação da página de início | Matheus Afonso |
+&emsp;&emsp;No ínicio do planejamento do projeto a equipe se reuniou para levantar um mapa de heatmap e, assim, poder ter registrado de maneira facilitada os horários disponiveis em comum entre os integrantes da equipe. Abaixo há o heatmap de horários gerado depois da reunião da equipe:
+
+<center>
+![Heatmap de horários da equipe](../../assets/heatmap.png)
+
+<figcaption>Imagem 1: Heatmap de horários da equipe.</figcaption>
+</center>

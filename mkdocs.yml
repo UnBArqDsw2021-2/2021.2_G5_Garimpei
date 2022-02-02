@@ -22,5 +22,8 @@ nav:
       - Questionário: content/elicitacao/questionario.md
       - Brainstorming: content/elicitacao/brainstorming.md
       - Personas: content/elicitacao/personas.md
+  - Validação:
+      - Protótipo de baixa fidelidade: content/validacao/prototipos/prototipo_baixa_fidelidade.md
+
 
 dev_addr: "0.0.0.0:8000"
