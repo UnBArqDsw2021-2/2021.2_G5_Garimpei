@@ -1,4 +1,4 @@
-# Questionário
+# Rich Picture
 
 ## 1. Histórico de versão
 
@@ -12,7 +12,7 @@
 
 Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de compilar os resultados obtidos e gerar uma versão final. Os artefatos foram elaborados de forma digital, utilizando plataformas como o Figma e o Whimsical.
 
-## 3. Resultados
+## 3. Resultados Individuais
 
 ### Rich Picture 1
 
