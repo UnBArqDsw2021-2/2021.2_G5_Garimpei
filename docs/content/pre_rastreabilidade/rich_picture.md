@@ -7,14 +7,19 @@
 | 0.1    | 02/02/2022 | Criação da documentação relacionada ao Rich Picture | Mateus Gomes e Juliana Valle |
 | 0.2    | 02/02/2022 | Adição dos rich pictures individuais e metodologia | Mateus Gomes |
 | 0.3    | 02/02/2022 | Adição da referência e legenda nas imagens | Mateus Gomes |
+| 0.4    | 02/02/2022 | Adição da definição | Mateus Gomes |
 
-## 2. Metodologia
+## 2. Definição
+
+O Rich Picture é uma modelagem informal e com uma linguagem acessível, cuja notação permite analisar problemas e expressar ideias. Este modelo auxilia na identificação de processos de negócio e seus requisitos, os atores envolvidos no produto e suas responsabilidades e os relacionamentos entre os processos e os atores.
+
+## 3. Metodologia
 
 Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de compilar os resultados obtidos e gerar uma versão final. Os artefatos foram elaborados de forma digital, utilizando plataformas como o Figma e o Whimsical.
 
-## 3. Resultados Individuais
+## 4. Resultados Individuais
 
-### Rich Picture 1
+### 4.1 Rich Picture 1
 
 > Autor: Daniel Barcelos
 
@@ -24,7 +29,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 <figcaption>Imagem 1: Rich picture elaborado por Daniel Barcelos</figcaption>
 </center>
 
-### Rich Picture 2
+### 4.2 Rich Picture 2
 
 > Autor: Denys Rogeres
 
@@ -34,7 +39,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 <figcaption>Imagem 2: Rich picture elaborado por Denys Rogeres</figcaption>
 </center>
 
-### Rich Picture 3
+### 4.3 Rich Picture 3
 
 > Autor: Juliana Valle
 
@@ -44,7 +49,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 <figcaption>Imagem 3: Rich picture elaborado por Juliana Valle</figcaption>
 </center>
 
-### Rich Picture 4
+### 4.4 Rich Picture 4
 
 > Autor: Mateus Gomes
 
@@ -54,7 +59,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 <figcaption>Imagem 4: Rich picture elaborado por Mateus Gomes</figcaption>
 </center>
 
-### Rich Picture 5
+### 4.5 Rich Picture 5
 
 > Autor: Matheus Afonso
 
@@ -67,7 +72,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 <figcaption>Imagem 5: Rich picture elaborado por Matheus Afonso</figcaption>
 </center>
 
-### Rich Picture 6
+### 4.6 Rich Picture 6
 
 > Autor: Paulo Victor
 
@@ -77,7 +82,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 <figcaption>Imagem 6: Rich picture elaborado por Paulo Victor</figcaption>
 </center>
 
-### Rich Picture 7
+### 4.7 Rich Picture 7
 
 > Autor: Thiago Mesquita
 
@@ -87,7 +92,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 <figcaption>Imagem 7: Rich picture elaborado por Thiago Mesquita</figcaption>
 </center>
 
-### Rich Picture 8
+### 4.8 Rich Picture 8
 
 > Autor: Victor Gonçalves
 
@@ -97,7 +102,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 <figcaption>Imagem 8: Rich picture elaborado por Victor Gonçalves</figcaption>
 </center>
 
-### Rich Picture 9
+### 4.9 Rich Picture 9
 
 > Autor: Vinícius Saturnino
 
@@ -107,7 +112,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 <figcaption>Imagem 9: Rich picture elaborado por Vinícius Saturnino</figcaption>
 </center>
 
-## 4. Referências
+## 5. Referências
 
 > [1] Young, Ralph. Requirements Engineering Handbook. Norwood, US: Artech House Books, 2003.
 
