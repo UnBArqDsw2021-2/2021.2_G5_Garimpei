@@ -41,7 +41,9 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 
 > Autor: Matheus Afonso
 
-![Rich Picture Matheus Afonso](../../../assets/rich_picture/rp_afonso.png)
+![Rich Picture Matheus Afonso 1](../../../assets/rich_picture/rp_afonso1.png)
+
+![Rich Picture Matheus Afonso 2](../../../assets/rich_picture/rp_afonso2.png)
 
 ### Rich Picture 6
 
