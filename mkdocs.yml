@@ -18,6 +18,8 @@ extra_css:
 
 nav:
   - Início: index.md
+  - Pré Rastreabilidade: 
+    - Rich Picture: content/pre_rastreabilidade/rich_picture.md
   - Elicitação:
       - Questionário: content/elicitacao/questionario.md
       - Brainstorming: content/elicitacao/brainstorming.md
