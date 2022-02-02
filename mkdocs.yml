@@ -17,7 +17,7 @@ extra_css:
   - stylesheets/styles.css
 
 nav:
-  - Início: content/index.md
+  - Início: index.md
   - Elicitação:
       - Questionário: content/elicitacao/questionario.md
       - Brainstorming: content/elicitacao/brainstorming.md
