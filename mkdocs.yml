@@ -21,5 +21,6 @@ nav:
   - Elicitação:
       - Questionário: content/elicitacao/questionario.md
       - Brainstorming: content/elicitacao/brainstorming.md
+      - Personas: content/elicitacao/personas.md
 
 dev_addr: "0.0.0.0:8000"
