@@ -8,6 +8,7 @@
 | 0.2    | 02/02/2022 | Criação das personas                                | Juliana Valle |
 | 0.3    | 02/02/2022 | Criação das antipersonas                            | Mateus Gomes  |
 | 0.4    | 02/02/2022 | Adição de imagens para as peronas e antipersonas    | Mateus Gomes  |
+| 0.5    | 02/02/2022 | Adição das referências                              | Mateus Gomes e Juliana Valle |
 
 ## 2. Definição
 Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário.
@@ -90,3 +91,9 @@ Carlos tem 31 anos, casado e trabalha revendendo produtos por meio de sua págin
 - Expectativas: Deseja comprar coisas novas de fábrica.
 
 Leandro tem 44 anos, casado, é Engenheiro Civil em uma empresa de sua cidade. Leandro mora com sua esposa e seus 2 filhos. Leandro possui um bom poder aquisitivo e gosta sempre de comprar suas coisas novas de fábrica, para evitar problemas e possuir garantia.
+
+## 5. Referências
+
+> [1] Random Face Generator (This Person Does Not Exist). ThisPersonDoesNotExist. Disponível em: <https://this-person-does-not-exist.com/en>. Acesso em: 2 de Fevereiro de 2022.
+
+> [2] BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador: Cap. 6 – Organização do Espaço de Problema.
