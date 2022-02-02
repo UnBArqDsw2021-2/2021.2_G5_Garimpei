@@ -17,6 +17,8 @@ extra_css:
   - stylesheets/styles.css
 
 nav:
-  - Início: index.md
+  - Início: content/index.md
+  - Elicitação:
+      - Questionário: content/elicitacao/questionario.md
 
 dev_addr: "0.0.0.0:8000"
