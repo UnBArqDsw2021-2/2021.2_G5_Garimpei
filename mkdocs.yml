@@ -18,6 +18,8 @@ extra_css:
 
 nav:
   - Início: index.md
+  - Pré Rastreabilidade:
+      - Mapa Mental: content/pre_rastreabilidade/mapa_mental.md
   - Elicitação:
       - Questionário: content/elicitacao/questionario.md
       - Brainstorming: content/elicitacao/brainstorming.md
