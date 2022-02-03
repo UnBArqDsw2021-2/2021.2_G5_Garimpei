@@ -20,6 +20,8 @@ nav:
   - Início: index.md
   - Planejamento:
       - Metodologia: content/metodologia.md
+  - Pré Rastreabilidade:
+      - Mapa Mental: content/pre_rastreabilidade/mapa_mental.md
   - Elicitação:
       - Questionário: content/elicitacao/questionario.md
       - Brainstorming: content/elicitacao/brainstorming.md

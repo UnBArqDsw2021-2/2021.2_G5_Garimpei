@@ -40,7 +40,7 @@
 &emsp;&emsp;No ínicio do planejamento do projeto a equipe se reuniou para levantar um mapa de heatmap e, assim, poder ter registrado de maneira facilitada os horários disponiveis em comum entre os integrantes da equipe. Abaixo há o heatmap de horários gerado depois da reunião da equipe:
 
 <center>
-![Heatmap de horários da equipe](../../assets/heatmap.png)
+![Heatmap de horários da equipe](./assets/heatmap.png)
 
 <figcaption>Imagem 1: Heatmap de horários da equipe.</figcaption>
 </center>
