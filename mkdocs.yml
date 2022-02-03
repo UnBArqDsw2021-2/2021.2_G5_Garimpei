@@ -20,6 +20,9 @@ extra_css:
 
 nav:
   - Início: index.md
+  - Produto:
+      - Protótipo de Baixa Fidelidade: content/produto/prototipo_baixa_fidelidade.md
+      - Manual de Identidade Visual: content/produto/identidade_visual.md
   - Planejamento:
       - Metodologia: content/planejamento/metodologia.md
   - Pré Rastreabilidade:
