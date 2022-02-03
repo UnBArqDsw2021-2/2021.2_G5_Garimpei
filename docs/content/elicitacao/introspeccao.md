@@ -6,7 +6,7 @@
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 02/02/2022 | Criação do documento                                | Mateus Gomes |
+| 0.1    | 02/02/2022 | Criação do documento                                | Mateus Gomes e Matheus Afonso |
 
 </center>
 
