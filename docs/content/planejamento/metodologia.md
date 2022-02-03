@@ -6,7 +6,8 @@
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 02/02/2022 | Criação da documentação relacionada a metodologia utilizada no projeto| Thiago Mesquita |
+| 0.1    | 02/02/2022 | Criação da documentação relacionada a metodologia utilizada no projeto | Thiago Mesquita |
+| 0.2    | 02/02/2022 | Correção da estrutura do código e adição de novas metodologias no documento | Matheus Afonso |
 
 </center>
 
@@ -46,7 +47,7 @@
 &emsp;&emsp;O Scrum utiliza o product backlog que é um registro que contém as áreas do produto que devem ser desenvolvidas. De acordo com a prioridade de cada produto, cria-se uma lista de tarefas de liberação a partir da lista de tarefas de produtos, que é o ponto de conexão para que as necessidades da lista de tarefas de produtos sejam processadas. Publicar uma tarefa é um ponto na criação de uma tarefa do sprint e representa o período de tempo para a conclusão de uma tarefa (chamada de história de usuário).
 
 <center>
-![Fluxo de trabalho da metodologia scrum](../assets/metodologia/sprint-scrum.png)
+![Fluxo de trabalho da metodologia scrum](../../assets/metodologia/sprint-scrum.png)
 <figcaption>Imagem 2: Fluxo de trabalho da metodologia scrum.</figcaption>
 </center>
 
@@ -59,7 +60,7 @@
 &emsp;&emsp;As demais colunas são os passos que devem ser seguidos para transformar uma história do usuário em uma funcionalidade executável. A ideia, portanto, é que as histórias sejam processadas passo a passo, da esquerda para a direita, como em uma linha de montagem. Além disso, cada coluna é dividida em duas sub-colunas: em execução e concluídas. As tarefas concluídas em um passo estão aguardando serem puxadas, por um membro do time, para o próximo passo. Por isso, Kanban é chamado de um sistema pull.
 
 <center>
-![Exemplo quadro Kanban](../assets/metodologia/kanban.png)
+![Exemplo quadro Kanban](../../assets/metodologia/kanban.png)
 <figcaption>Imagem 3: Exemplo quadro Kanban.</figcaption>
 </center>
 
@@ -68,7 +69,7 @@
 &emsp;&emsp;Através da imagem abaixo iremos implementar o git flow do projeto, de maneira que para uma mudança impactar a branch main (branch principal) os seguintes passos deverão ser seguidos:
 
 <center>
-![Git flow](../assets/metodologia/git_flow.png)
+![Git flow](../../assets/metodologia/git_flow.png)
 <figcaption>Imagem 4: Exemplo de fluxo de branch.</figcaption>
 </center>
 
@@ -79,7 +80,7 @@
 &emsp;&emsp;Toda nova branch deverá seguir um padrão de nomenclatura, sendo seguido o padrão de Conventional Commits tanto para o nome da branch como para os commits feitos:
 
 <center>
-![Quadro de Conventional Commits](../assets/metodologia/commits.png)
+![Quadro de Conventional Commits](../../assets/metodologia/commits.png)
 <figcaption>Imagem 5: Quadro de commits convencionais.</figcaption>
 </center>
 

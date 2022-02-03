@@ -19,7 +19,7 @@ extra_css:
 nav:
   - Início: index.md
   - Planejamento:
-      - Metodologia: content/metodologia.md
+      - Metodologia: content/planejamento/metodologia.md
   - Pré Rastreabilidade:
       - Mapa Mental: content/pre_rastreabilidade/mapa_mental.md
   - Elicitação:
