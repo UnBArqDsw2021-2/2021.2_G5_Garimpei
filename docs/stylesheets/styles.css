@@ -1,3 +1,7 @@
+.md-header {
+  background: #2a2a2a;
+}
+
 p img {
   display: block;
   margin-left: auto;
@@ -10,12 +14,12 @@ p {
 }
 
 thead tr {
-  background: #4051B5 !important;
+  background: #d7323f !important;
   color: white;
 }
 
 tr:nth-child(odd) {
-  background: #F8F8F8;
+  background: #f8f8f8;
 }
 
 td,
