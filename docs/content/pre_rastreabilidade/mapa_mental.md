@@ -9,6 +9,7 @@
 | 0.1    | 02/02/2022 | Criação do documento                                | Mateus Gomes |
 | 0.2    | 02/02/2022 | Adição da definição e metodologia                   | Mateus Gomes |
 | 0.3    | 02/02/2022 | Adição das referências                              | Mateus Gomes |
+| 0.4    | 02/02/2022 | Elaboração do mapa mental                           | Mateus Gomes e Paulo Victor |
 
 </center>
 
@@ -20,12 +21,22 @@ De acordo com Beluzzo (2006), os mapas mentais são as técnicas que servem para
 
 Existem diversas metodologias para elaborar um mapa mental, a abordagem feita pelo grupo foi a seguinte:
 
-Etapa 1: Uma ideia central representada no centro do diagrama.
-Etapa 2: Ligue ramos entre a ideia principal e as ideias secundárias, terciárias e assim sucessivamente.
-Etapa 3: Escreva um única palavra chave por ramo.
-Etapa 4: Utilize imagens durante o processo.
+- Etapa 1: Uma ideia central representada no centro do diagrama.
+- Etapa 2: Ligue ramos entre a ideia principal e as ideias secundárias, terciárias e assim sucessivamente.
+- Etapa 3: Escreva um única palavra chave por ramo.
+- Etapa 4: Utilize imagens durante o processo.
 
-## 4. Referências
+## 4. Resultado
+
+O Mapa Mental elaborado pelo grupo possui o projeto como ideia principal, e a partir dela foram ligadas as ideias de Plataforma, Stakeholders, Possíveis Tecnologias, Funcionalidades e Aplicações Similares, que são ideias que se relacionam com o fluxo do produto e também com o desenvolvimento do projeto.
+
+<center>
+![Mapa Mental](../../assets/mapa_mental.png)
+
+<figcaption>Imagem 1: Mapa Mental do projeto Garimpei</figcaption>
+</center>
+
+## 5. Referências
 
 > [1] BELLUZZO, Regina Célia Baptista. O Uso de Mapas Conceituais e Mentais como Tecnologia de Apoio à Gestão da Informação e da Comunicação: uma área interdisciplinar da competência em informação. Revista Brasileira de Biblioteconomia e Documentação: Nova Série, São Paulo, v 2, n 2, dez 2006.
 
