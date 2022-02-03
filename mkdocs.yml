@@ -22,6 +22,7 @@ nav:
       - Metodologia: content/planejamento/metodologia.md
   - Pré Rastreabilidade:
       - Mapa Mental: content/pre_rastreabilidade/mapa_mental.md
+      - 5W2H: content/pre_rastreabilidade/5w2h.md
   - Elicitação:
       - Questionário: content/elicitacao/questionario.md
       - Brainstorming: content/elicitacao/brainstorming.md
