@@ -6,9 +6,11 @@ repo_url: "https://github.com/UnBArqDsw2021-2/2021.2_G5_Garimpei"
 theme:
   name: material
   language: "pt"
+  logo: "assets/favicon.ico"
+  favicon: "assets/favicon.ico"
   palette:
     primary: "#fff"
-    accent: "light blue"
+    accent: "red"
   font:
     text: "Montserrat"
     code: "sans-serif"
