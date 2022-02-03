@@ -18,6 +18,8 @@ extra_css:
 
 nav:
   - Início: index.md
+  - Planejamento:
+      - Metodologia: content/metodologia.md
   - Pré Rastreabilidade:
       - Mapa Mental: content/pre_rastreabilidade/mapa_mental.md
   - Elicitação:
@@ -26,6 +28,5 @@ nav:
       - Personas: content/elicitacao/personas.md
   - Validação:
       - Protótipo de baixa fidelidade: content/validacao/prototipos/prototipo_baixa_fidelidade.md
-
 
 dev_addr: "0.0.0.0:8000"
