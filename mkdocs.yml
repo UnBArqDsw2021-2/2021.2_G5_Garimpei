@@ -29,8 +29,8 @@ nav:
           - Plano de Riscos: index.md
           - Mapa Mental: content/pre_rastreabilidade/mapa_mental.md
           - Protótipo de Baixa Fidelidade: content/produto/prototipo_baixa_fidelidade.md
-          - Protótipo de Média Fidelidade: content/produto/prototipo_baixa_fidelidade.md
-          - Protótipo de Alta Fidelidade: content/produto/prototipo_baixa_fidelidade.md
+          - Protótipo de Média Fidelidade: content/produto/prototipo_media_fidelidade.md
+          - Protótipo de Alta Fidelidade: content/produto/prototipo_alta_fidelidade.md
           - Elicitação:
               - Questionário: content/elicitacao/questionario.md
               - Brainstorming: content/elicitacao/brainstorming.md
