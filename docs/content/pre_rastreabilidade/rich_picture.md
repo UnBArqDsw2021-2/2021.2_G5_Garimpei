@@ -8,6 +8,7 @@
 | 0.2    | 02/02/2022 | Adição dos rich pictures individuais e metodologia | Mateus Gomes |
 | 0.3    | 02/02/2022 | Adição da referência e legenda nas imagens | Mateus Gomes |
 | 0.4    | 02/02/2022 | Adição da definição | Mateus Gomes |
+| 0.5    | 03/02/2022 | Adição da versão final do rich picture | Juliana Valle |
 
 ## 2. Definição
 
@@ -112,7 +113,18 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 <figcaption>Imagem 9: Rich picture elaborado por Vinícius Saturnino</figcaption>
 </center>
 
-## 5. Referências
+## 5. Resultado Final
+### 5.1 Versão Final
+<center>
+![Rich Picture Vinicius](../../../assets/rich_picture/richp_final.png)
+
+<figcaption>Imagem 10: Rich picture final</figcaption>
+</center>
+
+Para a confecção deste Rich Picture, foram utilizados os rich pictures individuais e adaptados para contemplar o projeto de maneira mais fidedigna. Os componentes são explicados na legenda a seguir.
+
+
+## 6. Referências
 
 > [1] Young, Ralph. Requirements Engineering Handbook. Norwood, US: Artech House Books, 2003.
 
