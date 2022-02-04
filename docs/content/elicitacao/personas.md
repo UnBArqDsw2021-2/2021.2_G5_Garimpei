@@ -7,7 +7,7 @@
 | 0.1    | 02/02/2022 | Criação da documentação relacionada as personas     | Juliana Valle |
 | 0.2    | 02/02/2022 | Criação das personas                                | Juliana Valle |
 | 0.3    | 02/02/2022 | Criação das antipersonas                            | Mateus Gomes  |
-| 0.4    | 02/02/2022 | Adição de imagens para as peronas e antipersonas    | Mateus Gomes  |
+| 0.4    | 02/02/2022 | Adição de imagens para as personas e antipersonas    | Mateus Gomes  |
 | 0.5    | 02/02/2022 | Adição das referências                              | Mateus Gomes e Juliana Valle |
 
 ## 2. Definição
