@@ -1,4 +1,4 @@
-# Questionário
+# Brainstorming
 
 ## 1. Histórico de versão
 
@@ -8,6 +8,7 @@
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 02/02/2022 | Criação da documentação relacionada ao brainstorming | Matheus Afonso |
 | 0.2    | 02/02/2022 | Centralização das tabelas | Matheus Afonso |
+| 0.3    | 04/02/2022 | Revisão do documento | Juliana Valle |
 
 </center>
 
