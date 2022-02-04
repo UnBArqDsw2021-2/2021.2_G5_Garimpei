@@ -23,6 +23,8 @@ nav:
   - Produto:
       - Protótipo de Baixa Fidelidade: content/produto/prototipo_baixa_fidelidade.md
       - Manual de Identidade Visual: content/produto/identidade_visual.md
+      - Protótipo de Média Fidelidade: content/produto/prototipo_media_fidelidade.md
+      - Protótipo de Alta Fidelidade: content/produto/prototipo_alta_fidelidade.md
       - Backlog: content/produto/backlog.md
   - Planejamento:
       - Metodologia: content/planejamento/metodologia.md
