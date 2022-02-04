@@ -6,7 +6,7 @@
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 02/02/2022 | Criação do documento sobre modelagem BPMN e a primeira versão do BPMN do projeto | Thiago Mesquita |
+| 0.1    | 04/02/2022 | Criação do documento sobre modelagem BPMN e a primeira versão do BPMN do projeto | Thiago Mesquita |
 
 </center>
 
