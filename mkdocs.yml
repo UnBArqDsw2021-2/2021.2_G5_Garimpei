@@ -26,19 +26,24 @@ nav:
           - Rich Picture: content/pre_rastreabilidade/rich_picture.md
           - 5W2H: content/pre_rastreabilidade/5w2h.md
           - Diagrama Causa e Efeito: content/pre_rastreabilidade/diagrama_causa_efeito.md
+          - Plano de Riscos: index.md
           - Mapa Mental: content/pre_rastreabilidade/mapa_mental.md
+          - Protótipo de Baixa Fidelidade: content/produto/prototipo_baixa_fidelidade.md
+          - Protótipo de Média Fidelidade: content/produto/prototipo_baixa_fidelidade.md
+          - Protótipo de Alta Fidelidade: content/produto/prototipo_baixa_fidelidade.md
+          - Elicitação:
+              - Questionário: content/elicitacao/questionario.md
+              - Brainstorming: content/elicitacao/brainstorming.md
+              - Introspecção: content/elicitacao/introspeccao.md
+              - Resultados: content/elicitacao/resultado.md
           - Backlog: content/modelagem/backlog.md
-          - Resultados: content/elicitacao/resultado.md
           - Priorização: content/modelagem/priorizacao.md
       - Processos, metodologias e abordagens:
           - Metodologia: content/planejamento/metodologia.md
+          - BPMN: index.md
       - Iniciativas extras:
           - Personas: content/elicitacao/personas.md
-          - Questionário: content/elicitacao/questionario.md
-          - Brainstorming: content/elicitacao/brainstorming.md
-          - Introspecção: content/elicitacao/introspeccao.md
           - Manual de Identidade Visual: content/produto/identidade_visual.md
-          - Protótipo de Baixa Fidelidade: content/produto/prototipo_baixa_fidelidade.md
           - Guia de Contribuição: index.md
           - Validação:
               - Protótipo de baixa fidelidade: content/validacao/prototipos/prototipo_baixa_fidelidade.md
