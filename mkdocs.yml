@@ -22,7 +22,7 @@ nav:
   - Início: index.md
   - Desenho de Software (Base):
       - Projeto não orientado a abordagens específicas:
-          - Design Sprint: index.md
+          - Design Sprint: content/design_sprint.md
           - Rich Picture: content/pre_rastreabilidade/rich_picture.md
           - 5W2H: content/pre_rastreabilidade/5w2h.md
           - Diagrama Causa e Efeito: content/pre_rastreabilidade/diagrama_causa_efeito.md
