@@ -23,23 +23,23 @@ nav:
   - Produto:
       - Protótipo de Baixa Fidelidade: content/produto/prototipo_baixa_fidelidade.md
       - Manual de Identidade Visual: content/produto/identidade_visual.md
-      - Backlog: content/produto/backlog.md
   - Planejamento:
       - Metodologia: content/planejamento/metodologia.md
   - Pré Rastreabilidade:
       - Mapa Mental: content/pre_rastreabilidade/mapa_mental.md
       - 5W2H: content/pre_rastreabilidade/5w2h.md
+      - Diagrama Causa e Efeito: content/pre_rastreabilidade/diagrama_causa_efeito.md
   - Elicitação:
       - Questionário: content/elicitacao/questionario.md
       - Brainstorming: content/elicitacao/brainstorming.md
       - Introspecção: content/elicitacao/introspeccao.md
-      - Diagrama Causa e Efeito: content/elicitacao/diagrama_causa_efeito.md
       - Personas: content/elicitacao/personas.md
       - Resultados: content/elicitacao/resultado.md
   - Validação:
       - Protótipo de baixa fidelidade: content/validacao/prototipos/prototipo_baixa_fidelidade.md
   - Modelagem:
       - Priorização: content/modelagem/priorizacao.md
+      - Backlog: content/modelagem/backlog.md
   - Iniciativas extras:
       - Atas:
           - Ata da reunião 27/01: content/extras/atas/ata_2701.md
