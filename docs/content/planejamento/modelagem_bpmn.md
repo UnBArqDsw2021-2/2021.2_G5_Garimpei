@@ -7,12 +7,13 @@
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 04/02/2022 | Criação do documento sobre modelagem BPMN e a primeira versão do BPMN do projeto | Thiago Mesquita |
+| 0.2    | 04/02/2022 | Correção de erros de texto | Vinicius Saturnino |
 
 </center>
 
 ## 2. Introdução
 
-&emsp;&emsp;Business Process Modeling Notation (BPMN) é uma notação gráfica, padrão OMG, que tem por objetico prover recursos e elementos para modelar os processos de negócio. O seu principal objetivo é fornecer uma representação que seja facilmente compreensível por todos os envolvidos em um projeto, ou seja, sua intenção é padronizar um modelo diante de outras notações e pontos de vista diferentes.
+&emsp;&emsp;Business Process Modeling Notation (BPMN) é uma notação gráfica, padrão OMG, que tem por objetivo prover recursos e elementos para modelar os processos de negócio. O seu principal objetivo é fornecer uma representação que seja facilmente compreensível por todos os envolvidos em um projeto, ou seja, sua intenção é padronizar um modelo diante de outras notações e pontos de vista diferentes.
 
 &emsp;&emsp;Neste documento visamos representar as metodologias adotadas no projeto, XP, SCRUM, e Kanban, utilizando o BPMN.
 
