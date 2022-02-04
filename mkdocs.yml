@@ -20,29 +20,30 @@ extra_css:
 
 nav:
   - Início: index.md
-  - Produto:
-      - Protótipo de Baixa Fidelidade: content/produto/prototipo_baixa_fidelidade.md
-      - Manual de Identidade Visual: content/produto/identidade_visual.md
-  - Planejamento:
-      - Metodologia: content/planejamento/metodologia.md
-  - Pré Rastreabilidade:
-      - Rich Picture: content/pre_rastreabilidade/rich_picture.md
-      - Mapa Mental: content/pre_rastreabilidade/mapa_mental.md
-      - 5W2H: content/pre_rastreabilidade/5w2h.md
-      - Diagrama Causa e Efeito: content/pre_rastreabilidade/diagrama_causa_efeito.md
-  - Elicitação:
-      - Questionário: content/elicitacao/questionario.md
-      - Brainstorming: content/elicitacao/brainstorming.md
-      - Introspecção: content/elicitacao/introspeccao.md
-      - Personas: content/elicitacao/personas.md
-      - Resultados: content/elicitacao/resultado.md
-  - Validação:
-      - Protótipo de baixa fidelidade: content/validacao/prototipos/prototipo_baixa_fidelidade.md
-  - Modelagem:
-      - Priorização: content/modelagem/priorizacao.md
-      - Backlog: content/modelagem/backlog.md
-  - Iniciativas extras:
+  - Desenho de Software (Base):
+      - Projeto não orientado a abordagens específicas:
+          - Design Sprint: index.md
+          - Rich Picture: content/pre_rastreabilidade/rich_picture.md
+          - 5W2H: content/pre_rastreabilidade/5w2h.md
+          - Diagrama Causa e Efeito: content/pre_rastreabilidade/diagrama_causa_efeito.md
+          - Mapa Mental: content/pre_rastreabilidade/mapa_mental.md
+          - Backlog: content/modelagem/backlog.md
+          - Resultados: content/elicitacao/resultado.md
+          - Priorização: content/modelagem/priorizacao.md
+      - Processos, metodologias e abordagens:
+          - Metodologia: content/planejamento/metodologia.md
+      - Iniciativas extras:
+          - Personas: content/elicitacao/personas.md
+          - Questionário: content/elicitacao/questionario.md
+          - Brainstorming: content/elicitacao/brainstorming.md
+          - Introspecção: content/elicitacao/introspeccao.md
+          - Manual de Identidade Visual: content/produto/identidade_visual.md
+          - Protótipo de Baixa Fidelidade: content/produto/prototipo_baixa_fidelidade.md
+          - Guia de Contribuição: index.md
+          - Validação:
+              - Protótipo de baixa fidelidade: content/validacao/prototipos/prototipo_baixa_fidelidade.md
       - Atas:
           - Ata da reunião 27/01: content/extras/atas/ata_2701.md
           - Ata da reunião 28/01: content/extras/atas/ata_2801.md
+  - Apresentações: index.md
 dev_addr: "0.0.0.0:8000"
