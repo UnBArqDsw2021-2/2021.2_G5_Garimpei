@@ -33,6 +33,7 @@ nav:
       - Questionário: content/elicitacao/questionario.md
       - Brainstorming: content/elicitacao/brainstorming.md
       - Introspecção: content/elicitacao/introspeccao.md
+      - Diagrama Causa e Efeito: content/elicitacao/diagrama_causa_efeito.md
       - Personas: content/elicitacao/personas.md
       - Resultados: content/elicitacao/resultado.md
   - Validação:
