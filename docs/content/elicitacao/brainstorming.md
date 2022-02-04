@@ -2,9 +2,14 @@
 
 ## 1. Histórico de versão
 
+<center>
+
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 02/02/2022 | Criação da documentação relacionada ao brainstorming | Matheus Afonso |
+| 0.2    | 02/02/2022 | Centralização das tabelas | Matheus Afonso |
+
+</center>
 
 ## 2. Definição
 
@@ -27,6 +32,8 @@
 &emsp;&emsp;A partir dos dados obtidos pelo brainstorming foi possível levantar possíveis requisitos da aplicação.
 
 &emsp;&emsp;Dessa forma, foram detectados os seguintes requisitos:
+
+<center>
 
 |  ID  |                  Requisito                   |
 | :--: | :------------------------------------------: |
@@ -63,5 +70,7 @@
 | RNF04 | A página de anúncio deve ser carregada em até 30 segundos |
 | RNF05 | O sistema deve ser capaz de destacar comunidades |
 | RNF05 | O sistema deve ser capaz de validar o formato de um número de telefone |
+
+</center>
 
 &emsp;&emsp;Vale ressaltar que os requisitos aqui listados ainda precisam ser verificados e validados.

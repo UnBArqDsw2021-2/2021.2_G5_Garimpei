@@ -6,9 +6,11 @@ repo_url: "https://github.com/UnBArqDsw2021-2/2021.2_G5_Garimpei"
 theme:
   name: material
   language: "pt"
+  logo: "assets/favicon.ico"
+  favicon: "assets/favicon.ico"
   palette:
-    primary: "#fff"
-    accent: "light blue"
+    primary: "red"
+    accent: "red"
   font:
     text: "Montserrat"
     code: "sans-serif"
@@ -18,10 +20,28 @@ extra_css:
 
 nav:
   - Início: index.md
-  - Pré Rastreabilidade: 
-    - Rich Picture: content/pre_rastreabilidade/rich_picture.md
+  - Produto:
+      - Protótipo de Baixa Fidelidade: content/produto/prototipo_baixa_fidelidade.md
+      - Manual de Identidade Visual: content/produto/identidade_visual.md
+      - Backlog: content/produto/backlog.md
+  - Planejamento:
+      - Metodologia: content/planejamento/metodologia.md
+  - Pré Rastreabilidade:
+      - Rich Picture: content/pre_rastreabilidade/rich_picture.md
+      - Mapa Mental: content/pre_rastreabilidade/mapa_mental.md
+      - 5W2H: content/pre_rastreabilidade/5w2h.md
   - Elicitação:
       - Questionário: content/elicitacao/questionario.md
       - Brainstorming: content/elicitacao/brainstorming.md
-
+      - Introspecção: content/elicitacao/introspeccao.md
+      - Personas: content/elicitacao/personas.md
+      - Resultados: content/elicitacao/resultado.md
+  - Validação:
+      - Protótipo de baixa fidelidade: content/validacao/prototipos/prototipo_baixa_fidelidade.md
+  - Modelagem:
+      - Priorização: content/modelagem/priorizacao.md
+  - Iniciativas extras:
+      - Atas:
+          - Ata da reunião 27/01: content/extras/atas/ata_2701.md
+          - Ata da reunião 28/01: content/extras/atas/ata_2801.md
 dev_addr: "0.0.0.0:8000"
