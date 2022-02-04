@@ -50,5 +50,5 @@ nav:
       - Atas:
           - Ata da reunião 27/01: content/extras/atas/ata_2701.md
           - Ata da reunião 28/01: content/extras/atas/ata_2801.md
-  - Apresentações: index.md
+  - Apresentações: content/apresentacoes/index.md
 dev_addr: "0.0.0.0:8000"

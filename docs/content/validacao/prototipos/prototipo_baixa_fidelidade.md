@@ -53,8 +53,8 @@ Cada integrante do grupo elaborou seu próprio protótipo de baixa fidelidade a 
 
 > Autor: Mateus Gomes
 
-![Prototipo Mateus 1](../../../../assets/prototipos_baixa_fidelidade/prototipo_mateus_gomes_1.png)
-![Prototipo Mateus 2](../../../../assets/prototipos_baixa_fidelidade/prototipo_mateus_gomes_2.png)
+![Prototipo Mateus 1](../../../assets/prototipos_baixa_fidelidade/prototipo_mateus_gomes_1.png)
+![Prototipo Mateus 2](../../../assets/prototipos_baixa_fidelidade/prototipo_mateus_gomes_2.png)
 
 ### Protótipo 6
 
