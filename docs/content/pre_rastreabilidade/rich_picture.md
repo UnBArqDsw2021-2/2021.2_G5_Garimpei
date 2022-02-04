@@ -118,11 +118,17 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 <center>
 ![Rich Picture Vinicius](../../../assets/rich_picture/richp_final.png)
 
-<figcaption>Imagem 10: Rich picture final</figcaption>
+<figcaption>Imagem 10: Rich icture final</figcaption>
 </center>
 
 Para a confecção deste Rich Picture, foram utilizados os rich pictures individuais e adaptados para contemplar o projeto de maneira mais fidedigna. Os componentes são explicados na legenda a seguir.
 
+### 5.1.2 Legenda
+<center>
+![Rich Picture Vinicius](../../../assets/rich_picture/rp_legenda.png)
+
+<figcaption>Imagem 11: Legenda do Rich picture final</figcaption>
+</center>
 
 ## 6. Referências
 
