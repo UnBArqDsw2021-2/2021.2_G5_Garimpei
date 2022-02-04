@@ -5,10 +5,13 @@
 | Versão | Data       | Descrição                        | Autor        |
 | ------ | ---------- | -------------------------------- | ------------ |
 | 0.1    | 04/02/2022 | Criação do documento                             | Juliana Valle |
-| 0.2    | 04/02/2022 | Adicionando referências ao documento             | Juliana Valle |
+| 0.2    | 04/02/2022 | Adição referências ao documento             | Juliana Valle |
+| 0.3    | 04/02/2022 | Adição de resultados ao documento             | Juliana Valle |
+
 
 ## 2. Introdução
 O nome "Design Sprint" combina duas palavras em inglês que descrevem o funcionamento do método: 
+
 - Design: Relacionado ao design, construção, desenho.
 - e Sprint: Relacionado à velocidade. 
 
@@ -19,7 +22,7 @@ A Design Sprint é um processo de cinco dias que responde às principais questõ
 
 Trabalhando em conjunto em sprints, pode-se diminuir o ciclo de debates prolongados ​​e comprimir meses em uma semana. Ao invés de aguardar o menor lançamento do produto para verificar se a ideia é eficaz, pode obter dados claros de protótipos reais. Além disso, antes de assumir qualquer compromisso caro, pode-se avançar para o futuro para ver o produto concluído e a reação dos clientes.
 
-No desenvolvimento, a Design Sprint assume o papel no desenvolvimento de produtos. Ela age durante o conceito, ideia, processo de construção, bem como prevene falhas e prevê pontos de melhoria antes que o produto final seja implementado.
+No desenvolvimento, a Design Sprint assume o papel no desenvolvimento de produtos. Ela age durante o conceito, ideia, processo de construção, bem como previne falhas e prevê pontos de melhoria antes que o produto final seja implementado.
 
 <center>
 
@@ -46,7 +49,7 @@ A abordagem inclui etapas de planejamento, prototipagem e testes, com interativi
 
 </center>
 
-Sendo assim, a proposta da Design Sprint é finalizar esses processos em 5 dias. Portanto, dentro de um cronograma temos a seguinte visão:
+Sendo assim, a proposta da Design Sprint é finalizar esses processos em 5 dias. Portanto, dentro de um cronograma tem-se a seguinte visão:
 
 <center>
 
@@ -57,10 +60,12 @@ Sendo assim, a proposta da Design Sprint é finalizar esses processos em 5 dias.
 </center>
 
 ## 4. Resultados
-O método foi utilizado de mótodo adaptado pela equipe da seguinte forma:
+O método foi utilizado de modo adaptado pela equipe da seguinte forma:
 
-- Entendimento: nessa processo a equipe se reuniu e desenvolveu a técnica de [Brainstorming](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/content/elicitacao/brainstorming/). A técnica de [Brainstorming](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/content/elicitacao/brainstorming/) pela equipe possibilitou a criação do documento da técnica do [Mapa Mental](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/content/pre_rastreabilidade/mapa_mental/). Com isso, pode-se obter uma uniformidade e consenso sobre a ideia principal do projeto. Além disso, nessa etapa também foram desenvolvidos [Rich Picture](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/content/pre_rastreabilidade/rich_picture/) por cada membro da equipe.
-- Definição:
+- <strong>Entendimento:</strong> nessa processo a equipe se reuniu e desenvolveu a técnica de [Brainstorming](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/content/elicitacao/brainstorming/). A técnica de [Brainstorming](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/content/elicitacao/brainstorming/) pela equipe possibilitou a criação do documento da técnica do [Mapa Mental](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/content/pre_rastreabilidade/mapa_mental/). Com isso, pode-se obter uma uniformidade e consenso sobre a ideia principal do projeto. Além disso, nessa etapa também foram desenvolvidos [Rich Picture](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/content/pre_rastreabilidade/rich_picture/) por cada membro da equipe.
+- <strong>Definição:</strong>  Nessa etapa, cada membro da equipe produziu individualmente um [Protótipo de Baixa Fidelidade](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/content/produto/prototipo_baixa_fidelidade/) para a definição de caracteríristicas visuais do produto final e elementos-chaves que estarão presentes. Ademais, nessa etapa também foram desenvolvidas [Personas](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/content/elicitacao/personas/)para ter uma delimitação do público-alvo que o projeto irá abrangir.
+- <strong>Decisão:</strong>  Nessa etapa foi feita a decisão e elaboração de um [Rich Picture](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/content/pre_rastreabilidade/rich_picture/) final. 
+- <strong>Prototipação:</strong>  Com base nos artefatos já produzidos, nessa etapa foi confeccionado o [Protótipo de Média Fidelidade](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/content/produto/prototipo_media_fidelidade/). Em conjunto com a produção do [Protótipo de Média Fidelidade](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/content/produto/prototipo_media_fidelidade/), foi elaborado o [Manual de Identidade Visual](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/content/produto/identidade_visual/). Após a finalização de ambos, foi produzido o [Protótipo de Alta Fidelidade](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/content/produto/prototipo_alta_fidelidade/).
 
 ## 5. Referências
 
