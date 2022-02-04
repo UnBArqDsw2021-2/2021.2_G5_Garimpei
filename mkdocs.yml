@@ -44,7 +44,7 @@ nav:
       - Iniciativas extras:
           - Personas: content/elicitacao/personas.md
           - Manual de Identidade Visual: content/produto/identidade_visual.md
-          - Guia de Contribuição: index.md
+          - Guia de Contribuição: content/extras/contribuicao.md
           - Validação:
               - Protótipo de baixa fidelidade: content/validacao/prototipos/prototipo_baixa_fidelidade.md
       - Atas:
