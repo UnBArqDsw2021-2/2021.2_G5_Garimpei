@@ -4,9 +4,17 @@
 
 | Versão | Data       | Descrição                        | Autor        |
 | ------ | ---------- | -------------------------------- | ------------ |
-| 0.1    | 04/02/2022 | Criação do documento             | Juliana Valle |
+| 0.1    | 04/02/2022 | Criação do documento                             | Juliana Valle |
+| 0.2    | 04/02/2022 | Adicionando referências ao documento             | Juliana Valle |
 
 ## 2. Introdução
+O nome "Design Sprint" combina duas palavras em inglês que descrevem o funcionamento do método: 
+- Design: Relacionado ao design, construção, desenho.
+- e Sprint: Relacionado à velocidade. 
+
+O método foi desenvolvido pela Alphabet Inc e Google Ventures, o braço de capital de risco do Google, para simplificar projetos e validar transações antes de investir tempo significativo e outros recursos. 
+
+A Design Sprint é um processo de cinco dias que responde às principais questões de negócios projetando, prototipando e testando ideias com os clientes.
 
 ## 3. Definição
 
