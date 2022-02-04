@@ -23,6 +23,7 @@ nav:
   - Produto:
       - Protótipo de Baixa Fidelidade: content/produto/prototipo_baixa_fidelidade.md
       - Manual de Identidade Visual: content/produto/identidade_visual.md
+      - Backlog: content/produto/backlog.md
   - Planejamento:
       - Metodologia: content/planejamento/metodologia.md
   - Pré Rastreabilidade:
@@ -32,6 +33,7 @@ nav:
       - Brainstorming: content/elicitacao/brainstorming.md
       - Introspecção: content/elicitacao/introspeccao.md
       - Personas: content/elicitacao/personas.md
+      - Resultados: content/elicitacao/resultado.md
   - Validação:
       - Protótipo de baixa fidelidade: content/validacao/prototipos/prototipo_baixa_fidelidade.md
 

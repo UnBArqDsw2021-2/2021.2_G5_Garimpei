@@ -12,7 +12,7 @@
 
 ## 2. Introdução
 
-Neste documento, buscamos organizar os requisitos, levantados pelas diferentes técnicas de elicitação, de maneira clara e organizada.
+&emsp;&emsp;Neste documento, buscamos organizar os requisitos, levantados pelas diferentes técnicas de elicitação, de maneira clara e organizada.
 
 ## 3. Resultado
 
