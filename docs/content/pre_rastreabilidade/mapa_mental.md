@@ -7,9 +7,7 @@
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 02/02/2022 | Criação do documento                                | Mateus Gomes |
-| 0.2    | 02/02/2022 | Adição da definição e metodologia                   | Mateus Gomes |
-| 0.3    | 02/02/2022 | Adição das referências                              | Mateus Gomes |
-| 0.4    | 02/02/2022 | Elaboração do mapa mental                           | Mateus Gomes e Paulo Victor |
+| 0.2    | 02/02/2022 | Elaboração do mapa mental                           | Mateus Gomes e Paulo Victor |
 
 </center>
 
