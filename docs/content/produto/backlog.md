@@ -5,12 +5,15 @@
 | Versão | Data       | Descrição                        | Autor        |
 | ------ | ---------- | -------------------------------- | ------------ |
 | 0.1    | 03/02/2022 | Criação do documento | Daniel Barcelos e Denys Rogeres |
+| 0.2    | 04/02/2022 | Correções de formatação | Mateus Gomes |
 
 ## 2. Introdução
 &emsp;&emsp;O Backlog do Produto é uma lista ordenada de todos os requisitos que se tem conhecimento de que precisam estar no produto.
 
 ## 3. Épicos
 &emsp;&emsp;Épico pode ser descrito como uma história de usuário que ainda não foi detalhada, é muito grande ou ainda possui muita incerteza e portanto não pode ser transformada em incremento do produto. Um épico agrupa 1 ou muitas features.
+
+<center>
 
 | **Épico** | **Descrição** |
 | --- | --- |
@@ -19,8 +22,14 @@
 | E3 | Interações |
 | E4 | Comunidade |
 
+<figcaption>Tabela 1: Épicos do projeto Garimpei</figcaption>
+
+</center>
+
 ## 4. Features
 &emsp;&emsp;A feature é uma funcionalidade/característica do produto e seu objetivo é realizar um épico. Uma Feature agrupa 1 ou muitas histórias de usuário.
+
+<center>
 
 | **Épico** | **ID** | **Descrição** |
 | --- | --- | --- |
@@ -33,8 +42,14 @@
 | E3 | FT07 | Interação Comunidade |
 | E4 | FT08 | Gerenciamento de Comunidade |
 
+<figcaption>Tabela 2: Features do projeto Garimpei</figcaption>
+
+</center>
+
 ## 5. Histórias de Usuários
 &emsp;&emsp;Uma história de usuário é uma descrição curta, informal e em linguagem simples do que um usuário quer fazer dentro de um produto de software para obter algo que ele considere valioso.
+
+<center>
 
 | **Épico** | **Feature** | **História de Usuário** | **Descrição** | **Rastreabilidade** |
 | --- | --- | --- | --- | --- |
@@ -70,6 +85,10 @@
 | E4 | FT08 | US30 | Eu, como administrador da comunidade, desejo excluir pessoas da comunidade, para ter um maior controle | RF31 |
 | E4 | FT08 | US31 | Eu, como administrador da comunidade, desejo alterar as informações da comunidade, para adequar as mesmas | RF29 |
 | E4 | FT08 | US32 | Eu, como administrador da comunidade, desejo ter acesso a um painel de controle, para uma maior autonomia | RF32 |
+
+<figcaption>Tabela 3: Histórias de usuário do projeto Garimpei</figcaption>
+
+</center>
 
 ## 6. Referências
 
