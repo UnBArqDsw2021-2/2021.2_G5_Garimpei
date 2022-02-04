@@ -26,6 +26,7 @@ nav:
   - Planejamento:
       - Metodologia: content/planejamento/metodologia.md
   - Pré Rastreabilidade:
+      - Rich Picture: content/pre_rastreabilidade/rich_picture.md
       - Mapa Mental: content/pre_rastreabilidade/mapa_mental.md
       - 5W2H: content/pre_rastreabilidade/5w2h.md
       - Diagrama Causa e Efeito: content/pre_rastreabilidade/diagrama_causa_efeito.md

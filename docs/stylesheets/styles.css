@@ -47,3 +47,8 @@ img[alt="logo"] {
   width: 20rem;
   object-fit: cover;
 }
+
+img[alt="cromatic circle"] {
+  width: 20rem;
+  object-fit: cover;
+}
