@@ -1,4 +1,4 @@
-# Backlog do Produto
+# Design Sprint
 
 ## 1. Histórico de versão
 
@@ -7,6 +7,7 @@
 | 0.1    | 04/02/2022 | Criação do documento                             | Juliana Valle |
 | 0.2    | 04/02/2022 | Adição referências ao documento             | Juliana Valle |
 | 0.3    | 04/02/2022 | Adição de resultados ao documento             | Juliana Valle |
+| 0.4    | 04/02/2022 | Revisão do documento             | Mateus Gomes |
 
 
 ## 2. Introdução
