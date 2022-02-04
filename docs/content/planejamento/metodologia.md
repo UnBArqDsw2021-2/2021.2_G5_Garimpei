@@ -4,10 +4,11 @@
 
 <center>
 
-| Versão | Data       | Descrição                                           | Autor        |
-| ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 02/02/2022 | Criação da documentação relacionada a metodologia utilizada no projeto | Thiago Mesquita |
-| 0.2    | 02/02/2022 | Correção da estrutura do código e adição de novas metodologias no documento | Matheus Afonso |
+| Versão | Data       | Descrição                                                                   | Autor           |
+| ------ | ---------- | --------------------------------------------------------------------------- | --------------- |
+| 0.1    | 02/02/2022 | Criação da documentação relacionada a metodologia utilizada no projeto      | Thiago Mesquita |
+| 0.2    | 02/02/2022 | Correção da estrutura do código e adição de novas metodologias no documento | Matheus Afonso  |
+| 0.3    | 04/02/2022 | Remoção do tópico - Guia de Contribuição                                    | Paulo Victor    |
 
 </center>
 
@@ -15,17 +16,17 @@
 
 &emsp;&emsp;Os métodos ágeis são projetados para produzir software útil rapidamente. Eles são baseados no desenvolvimento incremental. Os incrementos são pequenos e uma nova versão do sistema geralmente é criada e fornecida aos clientes a cada duas ou três semanas, para que seja possível obter um feedback rapidamente sobre as mudanças nos requisitos. Além disso, esses métodos minimizam a documentação usando comunicação informal no lugar de reuniões formais com documentos escritos.
 
- Os métodos ágeis consideram o design e a implementação como atividades centrais no processo de software. Eles incorporam outras tarefas a essas atividades, como a elicitação dos requisitos e os testes. Apesar de existirem diversos processos ágeis, todos compartilham um conjunto de princípios com base no manifesto ágil e foi descrito por Sommerville, Ian (2019, p. 61):
+Os métodos ágeis consideram o design e a implementação como atividades centrais no processo de software. Eles incorporam outras tarefas a essas atividades, como a elicitação dos requisitos e os testes. Apesar de existirem diversos processos ágeis, todos compartilham um conjunto de princípios com base no manifesto ágil e foi descrito por Sommerville, Ian (2019, p. 61):
 
 <center>
 
-|  Princípio  |                  Descrição                  |
-| :--: | :------------------------------------------: |
-| Envolvimento do Cliente |     Os clientes devem ser envolvidos em todo o processo de desenvolvimento. Seu papel é fornecer e priorizar novos requisitos de sistema e avaliar as iterações do sistema.      |
-| Acolher as mudanças |        Tenha em mente que os requisitos do sistema mudam e, portanto, deve-se projetar o sistema para acomodar essas mudanças.        |
-| Entrega incremental |          O software é desenvolvido em incrementos e o cliente especifica os requisitos incluídos em cada um deles.          |
-| Manter a simplicidade | Deve-se ter como foco a simplicidade, tanto do software que está sendo desenvolvido quanto do processo de desenvolvimento. Sempre que possível, trabalhe ativamente para eliminar a complexidade do sistema. |
-| Pessoas, não processos | As habilidades do time de desenvolvimento devem ser reconhecidas e aproveitadas da melhor maneira possível. Seus membros devem ter liberdade para desenvolver seu modo próprio de trabalhar sem se prender a processos determinados. |
+|        Princípio        |                                                                                                              Descrição                                                                                                               |
+| :---------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Envolvimento do Cliente |                               Os clientes devem ser envolvidos em todo o processo de desenvolvimento. Seu papel é fornecer e priorizar novos requisitos de sistema e avaliar as iterações do sistema.                                |
+|   Acolher as mudanças   |                                                       Tenha em mente que os requisitos do sistema mudam e, portanto, deve-se projetar o sistema para acomodar essas mudanças.                                                        |
+|   Entrega incremental   |                                                              O software é desenvolvido em incrementos e o cliente especifica os requisitos incluídos em cada um deles.                                                               |
+|  Manter a simplicidade  |             Deve-se ter como foco a simplicidade, tanto do software que está sendo desenvolvido quanto do processo de desenvolvimento. Sempre que possível, trabalhe ativamente para eliminar a complexidade do sistema.             |
+| Pessoas, não processos  | As habilidades do time de desenvolvimento devem ser reconhecidas e aproveitadas da melhor maneira possível. Seus membros devem ter liberdade para desenvolver seu modo próprio de trabalhar sem se prender a processos determinados. |
 
 </center>
 
@@ -51,12 +52,12 @@
 <figcaption>Imagem 2: Fluxo de trabalho da metodologia scrum.</figcaption>
 </center>
 
-
 ## 5. Kanban
+
 &emsp;&emsp;O método Kanban é projetado para causar mudanças evolutivas em seu gerenciamento de maneira não disruptiva. Implementando pequenas mudanças em vez de grandes mudanças, o risco de resistência de sua equipe é reduzido. A abordagem incremental a esta abordagem tem pouca ou nenhuma resistência de sua equipe ou partes interessadas. A primeira etapa é criar um Kanban para visualizar o fluxo de trabalho. O Quadro Kanban é dividido em colunas, da seguinte forma:
 
 &emsp;&emsp;A primeira coluna é o backlog do produto. Como em Scrum, usuários escrevem as histórias, que vão para o Backlog.
-    
+
 &emsp;&emsp;As demais colunas são os passos que devem ser seguidos para transformar uma história do usuário em uma funcionalidade executável. A ideia, portanto, é que as histórias sejam processadas passo a passo, da esquerda para a direita, como em uma linha de montagem. Além disso, cada coluna é dividida em duas sub-colunas: em execução e concluídas. As tarefas concluídas em um passo estão aguardando serem puxadas, por um membro do time, para o próximo passo. Por isso, Kanban é chamado de um sistema pull.
 
 <center>
@@ -64,40 +65,13 @@
 <figcaption>Imagem 3: Exemplo quadro Kanban.</figcaption>
 </center>
 
-## 6. Política de Branches e Commits
-
-&emsp;&emsp;Através da imagem abaixo iremos implementar o git flow do projeto, de maneira que para uma mudança impactar a branch main (branch principal) os seguintes passos deverão ser seguidos:
-
-<center>
-![Git flow](../../assets/metodologia/git_flow.png)
-<figcaption>Imagem 4: Exemplo de fluxo de branch.</figcaption>
-</center>
-
-1. Deve-se criar uma branch nova a partir da main
-2. Ao acabar a implementação na branch nova, deve ser criado um PR para ser avaliado, preenchendo os campos necessários do modelo pré-determinado
-3. Caso o PR seja aprovado, a branch nova será apagada e o seu conteúdo estará na main
-
-&emsp;&emsp;Toda nova branch deverá seguir um padrão de nomenclatura, sendo seguido o padrão de Conventional Commits tanto para o nome da branch como para os commits feitos:
-
-<center>
-![Quadro de Conventional Commits](../../assets/metodologia/commits.png)
-<figcaption>Imagem 5: Quadro de commits convencionais.</figcaption>
-</center>
-
-Exemplo:
-
-    feat/new-feature --branch
-
-    feat: create a new feature --commit
-
-
-## 7. Pair Programming
+## 6. Pair Programming
 
 &emsp;&emsp;O Pair Programming, ou traduzida literalmente como Programação em Pares, é uma técnica ágil de desenvolvimento de software. O objetivo é melhorar a qualidade do software desenvolvido sem alterar seu prazo de entrega. O trabalho é feito por duas pessoas em um computador. Um é responsável por controlar o processo de criação e escrever o código. Ao mesmo tempo, o outro faz mais análises, olhando cada linha de código para identificar erros.
 
 &emsp;&emsp;Para tornar o processo mais dinâmico e eficaz, é comum que os parceiros troquem papéis ao longo do processo de desenvolvimento do trabalho. Isso ajuda a tornar o processo mais eficiente e menos sujeito a erros, pois o observador sempre estará ciente da falha e o controlador poderá se concentrar na digitação do código.
 
-## 8. Referência bibliográfica
+## 7. Referência bibliográfica
 
 > - Sommerville, Ian. **Engenharia de software**. 10. ed. São Paulo: Pearson Addison Wesley, 2019.
 > - Foggetti, Cristiano. **Gestão ágil de projetos**. São Paulo: Education do Brasil, 2014.
