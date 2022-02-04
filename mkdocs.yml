@@ -40,7 +40,7 @@ nav:
           - Priorização: content/modelagem/priorizacao.md
       - Processos, metodologias e abordagens:
           - Metodologia: content/planejamento/metodologia.md
-          - BPMN: index.md
+          - BPMN: content/planejamento/modelagem_bpmn.md
       - Iniciativas extras:
           - Personas: content/elicitacao/personas.md
           - Manual de Identidade Visual: content/produto/identidade_visual.md
