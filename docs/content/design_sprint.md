@@ -14,9 +14,22 @@ O nome "Design Sprint" combina duas palavras em inglês que descrevem o funciona
 
 O método foi desenvolvido pela Alphabet Inc e Google Ventures, o braço de capital de risco do Google, para simplificar projetos e validar transações antes de investir tempo significativo e outros recursos. 
 
+## 3. Definição
 A Design Sprint é um processo de cinco dias que responde às principais questões de negócios projetando, prototipando e testando ideias com os clientes.
 
-## 3. Definição
+Trabalhando em conjunto em sprints, pode-se diminuir o ciclo de debates prolongados ​​e comprimir meses em uma semana. Ao invés de aguardar o menor lançamento do produto para verificar se a ideia é eficaz, pode obter dados claros de protótipos reais. Além disso, antes de assumir qualquer compromisso caro, pode-se avançar para o futuro para ver o produto concluído e a reação dos clientes.
+
+No desenvolvimento, a Design Sprint assume o papel no desenvolvimento de produtos. Ela age durante o conceito, ideia, processo de construção, bem como prevene falhas e prevê pontos de melhoria antes que o produto final seja implementado.
+
+<center>
+
+![design sprint](../../assets/design_sprint/sprint-diagram.png)
+
+<figcaption>Imagem 1: Ilustração do encurtamento do ciclo por meio de Design Sprint</figcaption>
+
+</center>
+
+A abordagem inclui etapas de planejamento, prototipagem e testes, com interatividade, praticidade e colaboração muito claras. O método é executado dentro de uma semana. Diferentes atividades acontecem em cada um dos cinco dias que compõem a metodologia do Design Sprint, e vamos detalhar agora:
 
 ## 4. Resultados
 
