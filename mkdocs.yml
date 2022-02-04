@@ -45,8 +45,6 @@ nav:
           - Personas: content/elicitacao/personas.md
           - Manual de Identidade Visual: content/produto/identidade_visual.md
           - Guia de Contribuição: content/extras/contribuicao.md
-          - Validação:
-              - Protótipo de baixa fidelidade: content/validacao/prototipos/prototipo_baixa_fidelidade.md
       - Atas:
           - Ata da reunião 27/01: content/extras/atas/ata_2701.md
           - Ata da reunião 28/01: content/extras/atas/ata_2801.md
