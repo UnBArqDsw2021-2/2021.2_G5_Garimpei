@@ -20,10 +20,10 @@
 Imagine uma comunidade que resolve abrir um bazar/brechó, com artigos que são doados ou mesmo confeccionados por membros da comunidade. Esses artigos acabam sendo vendidos para os próprios locais. Por que não pensar em um aplicativo ou aplicação web, e ampliar as estratégias de venda dessa iniciativa da comunidade? Estando na internet, pessoas até mesmo de outras localidades poderiam se interessar pelos artigos...
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
+Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega. OBS: Profa. Milene: PRAZO NÃO ATENDIDO - NÃO ESTÁ NA WIKI TAMBÉM
 
 ## Vídeo(s) Primeira Entrega <<FOCO: DSW(Base)>>
-Adicione o(s)s vídeo(s) da Primeira Entrega.
+Adicione o(s)s vídeo(s) da Primeira Entrega. OBS: Profa. Milene: PRAZO NÃO ATENDIDO - NÃO ESTÁ NA WIKI TAMBÉM
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
