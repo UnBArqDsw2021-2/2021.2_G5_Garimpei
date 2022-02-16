@@ -24,3 +24,10 @@
 ![Cadastro de Usuário](../../assets/activity-diagrams/user_register.png)
 <figcaption>Imagem 1: Diagrama de atividades - Cadastro de Usuário.</figcaption>
 </center>
+
+
+### 3.2 Adicionar Usuário à Comunidade
+<center>
+![Adicionar Usuário à Comunidade](../../assets/activity-diagrams/add-to-community.png)
+<figcaption>Imagem 1: Diagrama de atividades - Adicionar Usuário à Comunidade.</figcaption>
+</center>
