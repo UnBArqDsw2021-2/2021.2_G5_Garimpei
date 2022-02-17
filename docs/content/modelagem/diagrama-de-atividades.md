@@ -29,5 +29,11 @@
 ### 3.2 Adicionar Usuário à Comunidade
 <center>
 ![Adicionar Usuário à Comunidade](../../assets/activity-diagrams/add-to-community.png)
-<figcaption>Imagem 1: Diagrama de atividades - Adicionar Usuário à Comunidade.</figcaption>
+<figcaption>Imagem 2: Diagrama de atividades - Adicionar Usuário à Comunidade.</figcaption>
 </center>
+
+### 3.3 Comprar Produto
+<center>
+![Comprar Produto](../../assets/activity-diagrams/buy-item.png)
+<figcaption>Imagem 3: Diagrama de atividades - Comprar Produto.</figcaption>
+</center> 
