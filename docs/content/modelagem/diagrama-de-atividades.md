@@ -37,3 +37,9 @@
 ![Comprar Produto](../../assets/activity-diagrams/buy-item.png)
 <figcaption>Imagem 3: Diagrama de atividades - Comprar Produto.</figcaption>
 </center> 
+
+### 3.4 Denunciar Vendedor
+<center>
+![Denunciar Vendedor](../../assets/activity-diagrams/report.png)
+<figcaption>Imagem 4: Diagrama de atividades - Denunciar Vendedor.</figcaption>
+</center> 
