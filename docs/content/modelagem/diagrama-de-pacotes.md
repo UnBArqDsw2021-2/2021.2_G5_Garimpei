@@ -18,7 +18,6 @@
 
 
 ## 3. Diagrama de Pacotes
-### 3.1 Cadastro de Usuário
 
 <center>
 ![Diagrama de Pacotes](../../assets/package-diagrams/diagram1.png)
