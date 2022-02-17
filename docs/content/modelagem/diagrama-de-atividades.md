@@ -6,7 +6,7 @@
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 16/02/2022 | Criação do documento e adição do diagrama Cadastrar de Usuário | Thiago Mesquita |
+| 0.1    | 16/02/2022 | Criação do documento e adição dos diagramas Cadastrar de Usuário, Adicionar Usuário à Comunidade, Comprar Produto e Denunciar Vendedor | Thiago Mesquita |
 
 </center>
 
