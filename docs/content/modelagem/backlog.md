@@ -6,6 +6,7 @@
 | ------ | ---------- | -------------------------------- | ------------ |
 | 0.1    | 03/02/2022 | Criação do documento | Daniel Barcelos e Denys Rogeres |
 | 0.2    | 04/02/2022 | Correções de formatação | Mateus Gomes |
+| 0.3    | 18/02/2022 | Correção de erro de português | Daniel Barcelos e Juliana Pereira |
 
 ## 2. Introdução
 &emsp;&emsp;O Backlog do Produto é uma lista ordenada de todos os requisitos que se tem conhecimento de que precisam estar no produto.

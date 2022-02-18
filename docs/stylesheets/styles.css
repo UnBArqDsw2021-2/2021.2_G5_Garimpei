@@ -52,3 +52,8 @@ img[alt="cromatic circle"] {
   width: 20rem;
   object-fit: cover;
 }
+
+img[alt="subtitle state diagram"] {
+  width: 15rem;
+  object-fit: cover;
+}
