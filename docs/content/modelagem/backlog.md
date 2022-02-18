@@ -78,7 +78,7 @@
 | E3 | FT06 | US23 | Eu, como usuário, gostaria de reportar anúncios, para que anúncios indevidos não apareçam no sistema | RF22 |
 | E3 | FT06 | US24 | Eu, como usuário, gostaria de favoritar anúncios, para que apareça na minha lista de favoritos | RF23 |
 | E3 | FT06 | US25 | Eu, como usuário, desejo visualizar um mapa com a localização do anúncio, para uma maior comodidade na compra | RF09 |
-| E3 | FT07 | US26 | Eu, como usuário, gostaria de favoritar uma comunidade, para que os anúncios dessa comunidade para mim | RF25 |
+| E3 | FT07 | US26 | Eu, como usuário, gostaria de favoritar uma comunidade, para que os anúncios dessa comunidade apareçam para mim | RF25 |
 | E4 | FT08 | US27 | Eu, como usuário, desejo cadastrar uma comunidade, para me vincular a mesma | RF27 |
 | E4 | FT08 | US28 | Eu, como usuário, desejo sair de uma comunidade, para me desvincular da mesma | RF28 |
 | E4 | FT08 | US29 | Eu, como administrador da comunidade, desejo cadastrar pessoas na comunidade, para ajudar a mesma | RF30 |
