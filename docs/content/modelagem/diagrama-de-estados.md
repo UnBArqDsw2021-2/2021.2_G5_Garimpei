@@ -7,6 +7,7 @@
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 18/02/2022 | Criação do documento e adição dos diagramas de estados | Daniel Barcelos e Juliana Pereira |
+| 0.2    | 20/02/2022 | Revisão do Documento | Vinicius Saturnino |
 
 </center>
 
