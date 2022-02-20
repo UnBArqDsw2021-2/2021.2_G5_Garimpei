@@ -53,5 +53,6 @@ nav:
       - Diagrama de Atividades: content/modelagem/diagrama-de-pacotes.md
     - Notação UML - Diagramas Dinâmicos:
       - Diagrama de Atividades: content/modelagem/diagrama-de-atividades.md
+      - Diagrama de Estados: content/modelagem/diagrama-de-estados.md
   - Apresentações: content/apresentacoes/index.md
 dev_addr: "0.0.0.0:8000"
