@@ -5,8 +5,9 @@
 
 | Versão | Data       | Descrição            | Autor        |
 | ------ | ---------- | -------------------- | ------------ |
-| 0.1    | 21/02/2022 | Criação do documento | Denys Rógeres |
+| 0.1    | 21/02/2022 | Criação do documento | Denys Rógeres e Victor Gonçalves |
 | 0.2    | 21/02/2022 | Revisão do documento | Daniel Barcelos |
+| 0.3    | 21/02/2022 | Revisão do histórico de versão | Mateus Gomes |
 
 </center>
 
