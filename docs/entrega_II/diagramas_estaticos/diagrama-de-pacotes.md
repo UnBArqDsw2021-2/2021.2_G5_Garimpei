@@ -7,14 +7,14 @@
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 17/02/2022 | Criação do documento e adição do diagrama de pacotes | Thiago Mesquita |
-| 0.2    | 21/02/2022 | Adição de referências bibliográficas e revisão do documento | Thiago Mesquita |
+| 0.2    | 21/02/2022 | Adição de referências bibliográficas e revisão do documento | Juliana Pereira |
 
 </center>
 
 ## 2. Introdução
 
 &emsp;&emsp;Diagrama de Pacotes é um diagrama de estrutura UML (Unified Modeling Language), que mostra a estrutura do sistema no nível de pacotes, ou seja, o Diagrama de Pacotes tem como objetivo organizar visualmente a arquitetura do sistema em camadas para melhor entendimento da estrutura do projeto. 
-Segundo Craig Lerman (2000, p. 216) no livro "Utilizando UML e padrões, diagramas de pacotes UML são utilizados frequentemente para ilustração da arquitetura lógica de um sistema - as camadas, subsistemas e outros. Além disso, Lerman também cita que um diagrama de pacotes UML fornece um modo de agrupar elementos, ou seja, pode agrupar qualquer coisa como classes, outros pacotes, casos de uso e outros. "Pacote UML é um conceito mais geral do que simplesmente um pacote Java ou espaço de nomes .NET, assim, um pacote UML pode representar esses - e muitos outros" (LARMAN, Craig. 2000, p. 216).
+Segundo Craig Larman (2000, p. 216) no livro "Utilizando UML e padrões", diagramas de pacotes UML são utilizados frequentemente para ilustração da arquitetura lógica de um sistema - as camadas, subsistemas e outros. Além disso, Lerman também cita que um diagrama de pacotes UML fornece um modo de agrupar elementos, ou seja, pode agrupar qualquer coisa como classes, outros pacotes, casos de uso e outros. "Pacote UML é um conceito mais geral do que simplesmente um pacote Java ou espaço de nomes .NET, assim, um pacote UML pode representar esses - e muitos outros" (LARMAN, Craig. 2000, p. 216).
 
 &emsp;&emsp;O objetivo deste documento é representar a arquitetura do projeto Garimpei utilizando o diagrama de pacotes, de forma a representar a estrutura computacional da aplicação, descrevendo os componentes de software, suas interfaces e dependências.
 
