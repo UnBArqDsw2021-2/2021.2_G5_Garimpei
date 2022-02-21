@@ -8,7 +8,8 @@
 | ------ | ---------- | -------------------- | ------------ |
 | 0.1    | 20/02/2022 | Criação do documento | Paulo Victor |
 | 0.2    | 21/02/2022 | Revisão do Documento | Daniel Barcelos |
-| 0.3    | 21/02/2022 | Adicção de Informação | Vinicius Saturnino |
+| 0.3    | 21/02/2022 | Adição de Informação | Vinicius Saturnino |
+| 0.4    | 21/02/2022 | Correção de legenda | Daniel Barcelos e Victor Gonçalves |
 
 </center>
 
@@ -34,8 +35,7 @@
 <center>
 ![Compra de um produto](../../assets/diagrama_de_sequencia/sequencia1.png)
 <figcaption>Imagem 1: Diagrama de sequência - Compra de um produto</figcaption>
-<figcaption>Autor: Paulo Victor</figcaption>
-<figcaption>Autor: Vinicius Saturnino</figcaption>
+<figcaption>Autores: Paulo Victor e Vinicius Saturnino</figcaption>
 </center>
 
 
@@ -44,7 +44,7 @@
 <center>
 ![Venda de um produto](../../assets/diagrama_de_sequencia/sequencia2.png)
 <figcaption>Imagem 2: Diagrama de sequência - Venda de um produto</figcaption>
-<figcaption>Autor: Vinicius Saturnino</figcaption>
+<figcaption>Autores: Paulo Victor e Vinicius Saturnino</figcaption>
 </center>
 
 ## 5. Referências
