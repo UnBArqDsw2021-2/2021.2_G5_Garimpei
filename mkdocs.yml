@@ -58,5 +58,7 @@ nav:
       - Diagrama de Estados: content/modelagem/diagrama-de-estados.md
       - Diagrama de Sequência: content/modelagem/diagrama_de_sequencia.md
       - Diagrama de Comunicação: content/modelagem/diagrama_de_comunicacao.md
+    - Modelagem Ágil:
+      - Backlog: content/modelagem/backlog.md
   - Apresentações: content/apresentacoes/index.md
 dev_addr: "0.0.0.0:8000"
