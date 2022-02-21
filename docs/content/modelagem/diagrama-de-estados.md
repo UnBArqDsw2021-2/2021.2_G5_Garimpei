@@ -8,12 +8,17 @@
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 18/02/2022 | Criação do documento e adição dos diagramas de estados | Daniel Barcelos e Juliana Pereira |
 | 0.2    | 20/02/2022 | Revisão do Documento | Vinicius Saturnino |
+| 0.3    | 21/02/2022 | Adicionando referência bibliográfica na introdução | Juliana Pereira |
 
 </center>
 
 ## 2. Introdução
 
-&emsp;&emsp; O diagrama de estado, também conhecido como diagrama de máquina de estado, é um tipo de diagrama UML que representa o comportamento de um objeto, especificando a sequência de eventos pela qual esse objeto passa e suas respostas aos mesmos.
+&emsp;&emsp; O diagrama de estado, também conhecido como diagrama de máquina de estado, é um tipo de diagrama UML que representa o comportamento e uma visão dinâmica de um objeto, especificando a sequência de eventos pela qual esse objeto passa e suas respostas. Segundo Lerman (2000, p. 481), um diagrama de máquina de estados mostra o ciclo de vida de um objeto sendo os eventos, transições e os estados que ele está entre esses eventos. Todavia, não é necessário ilustrar todos os eventos possíveis. Se ocorrer um evento que não esteja representado no diagrama, ele será ignorado no que diz respeito ao diagrama de estado.  Dessa forma, pode-se criar um diagrama de estados que descreve o ciclo de vida de um objeto em níveis de detalhe arbitrariamente complexxos ou simples, dependendo da necessidade.
+Lerman (2000, p. 481), explica que: 
+* Um <strong>evento</strong> é uma ocorrência significativa ou digna de nota. 
+* Um <strong>estado</strong> é a condição de um objeto em determinado momento no tempo entre os eventos.
+* Uma <strong>transição</strong> é um relacionamento entre dois estados, indicando que, quando um evento ocorre, o objeto muda do estado anterior para o estado subsequente.
 
 ### 2.1 Legenda
 
@@ -110,3 +115,5 @@
 > [3] State Machine Diagram Tutorial. Disponível em: <https://www.lucidchart.com/pages/uml-state-machine-diagram>. Acesso em: 18 de Fevereiro de 2022.
 
 > [4] UML 2 State Machine Diagrams. Disponível em: <https://youtu.be/_6TFVzBW7oo>. Acesso em: 18 de Fevereiro de 2022.
+
+> [5] SERRANO, Milene. Arquitetura e desenho de software - 06d - VideoAula - DSW - Modelagem - Diagrama de Estados. Acesso em 18 de Fevereiro de 2022.
