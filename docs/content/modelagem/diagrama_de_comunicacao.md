@@ -28,3 +28,5 @@
 > [3] SERRANO, Milene. Arquitetura e Desenho de software 06b - VídeoAula - DSW - Modelagem - Diagrama de Comunicação. Acesso em: 18 de Fevereiro de 2022.
 
 > [4] DOS REIS, Fábio. Introdução à UML - Unified Modeling Language. Disponível em: <https://youtu.be/C3xYBT3o_5k>. Acesso em: 20 de Fevereiro de 2022.
+
+> [5] Diagrama de comunicação. Disponível em: <https://homepages.dcc.ufmg.br/~amendes/GlossarioUML/glossario/conteudo/interacao/colaboracao/diagrama_de_colaboracao.htm>. Acesso em: 20 de Fevereiro de 2022.
