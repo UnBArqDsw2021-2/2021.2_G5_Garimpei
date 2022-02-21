@@ -62,3 +62,8 @@ img[alt="chat"] {
   width: 30rem;
   object-fit: cover;
 }
+
+img[alt="meeting"] {
+  width: 10rem;
+  object-fit: cover;
+}

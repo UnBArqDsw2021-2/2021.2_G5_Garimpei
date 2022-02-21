@@ -9,12 +9,13 @@
 | 0.1    | 18/02/2022 | Criação do documento e adição dos diagramas de estados | Daniel Barcelos e Juliana Pereira |
 | 0.2    | 20/02/2022 | Revisão do Documento | Vinicius Saturnino |
 | 0.3    | 21/02/2022 | Adicionando referência bibliográfica na introdução | Juliana Pereira |
+| 0.4    | 21/02/2022 | Revisão do documento e ortografia | Mateus Gomes e Matheus Afonso |
 
 </center>
 
 ## 2. Introdução
 
-&emsp;&emsp; O diagrama de estado, também conhecido como diagrama de máquina de estado, é um tipo de diagrama UML que representa o comportamento e uma visão dinâmica de um objeto, especificando a sequência de eventos pela qual esse objeto passa e suas respostas. Segundo Lerman (2000, p. 481), um diagrama de máquina de estados mostra o ciclo de vida de um objeto sendo os eventos, transições e os estados que ele está entre esses eventos. Todavia, não é necessário ilustrar todos os eventos possíveis. Se ocorrer um evento que não esteja representado no diagrama, ele será ignorado no que diz respeito ao diagrama de estado.  Dessa forma, pode-se criar um diagrama de estados que descreve o ciclo de vida de um objeto em níveis de detalhe arbitrariamente complexxos ou simples, dependendo da necessidade.
+&emsp;&emsp; O diagrama de estado, também conhecido como diagrama de máquina de estado, é um tipo de diagrama UML que representa o comportamento e uma visão dinâmica de um objeto, especificando a sequência de eventos pela qual esse objeto passa e suas respostas. Segundo Lerman (2000, p. 481), um diagrama de máquina de estados mostra o ciclo de vida de um objeto sendo os eventos, transições e os estados que ele está entre esses eventos. Todavia, não é necessário ilustrar todos os eventos possíveis. Se ocorrer um evento que não esteja representado no diagrama, ele será ignorado no que diz respeito ao diagrama de estado.  Dessa forma, pode-se criar um diagrama de estados que descreve o ciclo de vida de um objeto em níveis de detalhe arbitrariamente complexos ou simples, dependendo da necessidade.
 Lerman (2000, p. 481), explica que: 
 
 * Um <strong>evento</strong> é uma ocorrência significativa ou digna de nota. 
@@ -55,7 +56,7 @@ Lerman (2000, p. 481), explica que:
 
 ### 3.4 Perfil de Comunidade
 <center>
-![Perfil de comunidade](../../assets/state-diagrams/perfil_comunidade.png)
+![Perfil de comunidade](../../assets/state-diagrams/perfil_comunidade.jpeg)
 <figcaption>Imagem 5: Diagrama de estados - Perfil de Comunidade.</figcaption>
 <figcaption>Autora: Juliana Pereira</figcaption>
 </center>
