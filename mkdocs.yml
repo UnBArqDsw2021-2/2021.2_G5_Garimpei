@@ -63,6 +63,7 @@ nav:
     - Iniciativas extras:
       - Reorganização da Documentação: entrega_II/extras/docs_refactor.md
       - Atas: 
+        - 09/02 - Reunião de Planning: entrega_II/extras/atas/ata_0902.md
         - 17/02 - Reunião de Feedback: entrega_II/extras/atas/ata_1702.md
   - Apresentações: apresentacoes/index.md
 dev_addr: "0.0.0.0:8000"
