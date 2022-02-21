@@ -60,5 +60,7 @@ nav:
       - Diagrama de Comunicação: entrega_II/diagramas_dinamicos/diagrama_de_comunicacao.md
     - Modelagem Ágil:
       - Backlog: entrega_II/modelagem_agil/backlog.md
+    - Iniciativas extras:
+      - Reorganização da Documentação: entrega_II/extras/docs_refactor.md
   - Apresentações: apresentacoes/index.md
 dev_addr: "0.0.0.0:8000"
