@@ -30,6 +30,10 @@ Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Ent
 ![Screenshot do Backlog](docs/assets/screenshots/screenshot_base_3.png)
 ![Screenshot do BPMN](docs/assets/screenshots/screenshot_base_4.png)
 ![Screenshot do Manual de Identidade Visual](docs/assets/screenshots/screenshot_base_5.png)
+---
+![Screenshot do Diagrama de Comunicação](docs/assets/screenshots/screenshot_comunicacao.png)
+![Screenshot do Diagrama de Sequência](docs/assets/screenshots/screenshot_sequencia.png)
+![Screenshot do Diagrama de Estados](docs/assets/screenshots/screenshot_estados.png)
 
 ## Vídeo(s) Primeira Entrega <<FOCO: DSW(Base)>>
 
