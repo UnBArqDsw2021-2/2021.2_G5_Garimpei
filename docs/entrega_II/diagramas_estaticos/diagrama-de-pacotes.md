@@ -7,6 +7,7 @@
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 17/02/2022 | Criação do documento e adição do diagrama de pacotes | Thiago Mesquita |
+| 0.2    | 21/02/2022 | Adição de referências bibliográficas e revisão do documento | Thiago Mesquita |
 
 </center>
 
