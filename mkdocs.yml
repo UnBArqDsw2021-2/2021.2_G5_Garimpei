@@ -50,9 +50,9 @@ nav:
           - Ata da reunião 28/01: content/extras/atas/ata_2801.md
   - Desenho de Software (Modelagem):
     - Notação UML - Diagramas Estáticos:
-      - Diagrama de Atividades: content/modelagem/diagrama-de-pacotes.md
       - Diagrama de Componentes: content/modelagem/diagrama-de-componentes.md
     - Notação UML - Diagramas Dinâmicos:
+      - Diagrama de Atividades: content/modelagem/diagrama-de-pacotes.md
       - Diagrama de Atividades: content/modelagem/diagrama-de-atividades.md
       - Diagrama de Estados: content/modelagem/diagrama-de-estados.md
   - Apresentações: content/apresentacoes/index.md
