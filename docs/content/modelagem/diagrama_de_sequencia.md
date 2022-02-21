@@ -28,27 +28,29 @@
 
 ## 4. Resultado
 
-### Diagrama de Sequência - Compra de um produto
+### 4.1 Diagrama de Sequência - Compra de um produto
 
 <center>
 ![Compra de um produto](../../assets/diagrama_de_sequencia/sequencia1.png)
 <figcaption>Imagem 1: Diagrama de sequência - Compra de um produto</figcaption>
+<figcaption>Autor: Paulo Victor</figcaption>
 </center>
 
 
-### Diagrama de Sequência - Venda de um produto
+### 4.2 Diagrama de Sequência - Venda de um produto
 
 <center>
 ![Venda de um produto](../../assets/diagrama_de_sequencia/sequencia2.png)
-<figcaption>Imagem 1: Diagrama de sequência - Venda de um produto</figcaption>
+<figcaption>Imagem 2: Diagrama de sequência - Venda de um produto</figcaption>
+<figcaption>Autor: Paulo Victor</figcaption>
 </center>
 
-## 4. Referências
+## 5. Referências
 
-> Diagramas de Seqüência. Disponível em:
+> [1] Diagramas de Seqüência. Disponível em:
 > [https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=uml-sequence-diagrams](https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=uml-sequence-diagrams). Data de acesso: 20/02/2022
 
-> O que é um diagrama de sequência UML?. Disponível em:
+> [2] O que é um diagrama de sequência UML?. Disponível em:
 > [https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-sequencia-uml](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-sequencia-uml). Data de acesso: 16/02/2022
 
-> UML Sequence Diagrams. Disponível em: [https://www.uml-diagrams.org/sequence-diagrams.html](https://www.uml-diagrams.org/sequence-diagrams.html). Data de acesso: 16/02/2022
+> [3] UML Sequence Diagrams. Disponível em: [https://www.uml-diagrams.org/sequence-diagrams.html](https://www.uml-diagrams.org/sequence-diagrams.html). Data de acesso: 16/02/2022
