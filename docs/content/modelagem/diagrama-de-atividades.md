@@ -7,7 +7,8 @@
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 16/02/2022 | Criação do documento e adição dos diagramas Cadastrar de Usuário, Adicionar Usuário à Comunidade, Comprar Produto e Denunciar Vendedor | Thiago Mesquita |
-| 0.1    | 21/02/2022 | Revisão do documento e adição das referência bibliográficas e complemento na introdução | Juliana Pereira |
+| 0.2    | 21/02/2022 | Revisão do documento e adição das referência bibliográficas e complemento na introdução | Juliana Pereira |
+| 0.3    | 21/02/2022 | Adição dos diagramas de Cadastrar Comunidade, Avaliar Vendedor e Anunciar Produto | Daniel Barcelos |
 
 
 </center>
@@ -22,8 +23,8 @@ Larman (2000, p. 474) descreve que um diagrama de atividades oferece uma notaç�
 
 
 ## 3. Diagrama de Atividades
-### 3.1 Cadastro de Usuário
 
+### 3.1 Cadastro de Usuário
 <center>
 ![Cadastro de Usuário](../../assets/activity-diagrams/user_register.png)
 <figcaption>Imagem 1: Diagrama de atividades - Cadastro de Usuário.</figcaption>
@@ -46,7 +47,25 @@ Larman (2000, p. 474) descreve que um diagrama de atividades oferece uma notaç�
 <center>
 ![Denunciar Vendedor](../../assets/activity-diagrams/report.png)
 <figcaption>Imagem 4: Diagrama de atividades - Denunciar Vendedor.</figcaption>
-</center> 
+</center>
+
+### 3.5 Cadastro de Comunidade
+<center>
+![Cadastro de Comunidade](../../assets/activity-diagrams/community_register.png)
+<figcaption>Imagem 5: Diagrama de atividades - Cadastro de Comunidade.</figcaption>
+</center>
+
+### 3.6 Anunciar Produto
+<center>
+![Anunciar Produto](../../assets/activity-diagrams/product_announcement.png)
+<figcaption>Imagem 6: Diagrama de atividades - Anunciar Produto.</figcaption>
+</center>
+
+### 3.7 Avaliar Vendedor
+<center>
+![Avaliar Vendedor](../../assets/activity-diagrams/evaluate_seller.png)
+<figcaption>Imagem 7: Diagrama de atividades - Avaliar Vendedor.</figcaption>
+</center>
 
 ## 4. Referências
 > [1] SERRANO, Milene. Arquitetura e desenho de software - 06c - VideoAula - DSW - Modelagem - Diagrama de Atividades. Acesso em 16 de Fevereiro de 2022.
