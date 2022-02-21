@@ -43,7 +43,9 @@ Adicione o(s)s vídeo(s) da Primeira Entrega. OBS: Profa. Milene: PRAZO NÃO ATE
 
 <center>
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/tbOJ7NEPopo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Garimpei](https://img.youtube.com/vi/tbOJ7NEPopo/0.jpg)](https://www.youtube.com/watch?v=tbOJ7NEPopo)
+<br />
+[Link do vídeo](https://www.youtube.com/watch?v=tbOJ7NEPopo)
 
 </center>
 
@@ -51,16 +53,20 @@ Adicione o(s)s vídeo(s) da Primeira Entrega. OBS: Profa. Milene: PRAZO NÃO ATE
 
 <center>
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/dwFRFR4AvN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Garimpei](https://img.youtube.com/vi/dwFRFR4AvN0/0.jpg)](https://www.youtube.com/watch?v=dwFRFR4AvN0)
+<br />
+[Link do vídeo](https://www.youtube.com/watch?v=dwFRFR4AvN0)
+  
 </center>
 
 ### Iniciativas extras
 
 <center>
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/bUKAadIg2PY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Garimpei](https://img.youtube.com/vi/bUKAadIg2PY/0.jpg)](https://www.youtube.com/watch?v=bUKAadIg2PY)
+<br />
+[Link do vídeo](https://www.youtube.com/watch?v=bUKAadIg2PY)
+  
 </center>
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
