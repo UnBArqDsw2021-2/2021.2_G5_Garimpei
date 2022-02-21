@@ -1,5 +1,4 @@
-# Diagrama de Atividades
-
+# Diagrama de Componentes
 ## 1. Histórico de versão
 
 <center>
@@ -7,6 +6,7 @@
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 17/02/2022 | Criação do documento e adição do diagrama | Vinicius Saturnino |
+| 0.2    | 21/02/2022 | Revisão do documento | Juliana Pereira |
 
 </center>
 
@@ -27,8 +27,8 @@
 
 ## 4. Referências
 
-> - Lucidchart. O que é diagrama de componentes UML?. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml>. Acesso em 16 de Fevereiro de 2022.
+> [1] Lucidchart. O que é diagrama de componentes UML?. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml>. Acesso em 16 de Fevereiro de 2022.
 
-> - IBM. Diagramas de Componentes. Disponível em: <https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=services-component-diagrams>. Acesso em 16 de Fevereiro de 2022.
+> [2] IBM. Diagramas de Componentes. Disponível em: <https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=services-component-diagrams>. Acesso em 16 de Fevereiro de 2022.
 
-> - SERRANO, Milene. Arquitetura e desenho de software - 05h - VideoAula - DSW - Modelagem - Diagrama de Componentes. Acesso em 16 de Fevereiro de 2022.
+> [3] SERRANO, Milene. Arquitetura e desenho de software - 05h - VideoAula - DSW - Modelagem - Diagrama de Componentes. Acesso em 16 de Fevereiro de 2022.
