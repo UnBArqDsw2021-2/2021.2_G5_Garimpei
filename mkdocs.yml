@@ -62,5 +62,7 @@ nav:
       - Backlog: entrega_II/modelagem_agil/backlog.md
     - Iniciativas extras:
       - Reorganização da Documentação: entrega_II/extras/docs_refactor.md
+      - Atas: 
+        - 17/02 - Reunião de Feedback: entrega_II/extras/atas/ata_1702.md
   - Apresentações: apresentacoes/index.md
 dev_addr: "0.0.0.0:8000"
