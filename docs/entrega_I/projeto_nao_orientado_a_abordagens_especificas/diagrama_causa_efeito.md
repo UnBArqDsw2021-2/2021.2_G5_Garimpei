@@ -28,7 +28,7 @@
 ## 4. Resultado
 &emsp;&emsp;Na construção do diagrama foi aplicado 4M's sendo eles método, máquina, medida e material:
 <center>
-![Imagem board brainstorming Miro](../../assets/diagrama_causa_efeito/diagrama_causa_efeito.png)
+![Imagem board brainstorming Miro](../assets/diagrama_causa_efeito/diagrama_causa_efeito.png)
 
 <figcaption>Imagem 1: Diagrama de Causa e Efeito</figcaption>
 </center>

@@ -8,6 +8,7 @@
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 04/02/2022 | Criação do documento | Vinicius Saturnino |
 | 0.2    | 04/02/2022 | Adição das telas | Vinicius Saturnino e Juliana Pereira |
+| 0.3    | 21/02/2022 | Atualização do caminho das imagens | Paulo Victor |
 
 </center>
 
@@ -21,23 +22,23 @@ O Protótipo a seguir tem como finalidade condensar todos os brainstorms e fluxo
 ### 3.1. Autenticação
 
 
-![Prototipo Média Auth](../../../assets/prototipo_media_fidelidade/print_login.jpeg)
+![Prototipo Média Auth](../../assets/prototipo_media_fidelidade/print_login.jpeg)
 > Autores: Vinicius de Sousa Saturnino e Juliana Pereira
 
 ### 3.2. Home - Anunciar
 
 
-![Prototipo Média Home](../../../assets/prototipo_media_fidelidade/print_fluxo_inicial.jpeg)
+![Prototipo Média Home](../../assets/prototipo_media_fidelidade/print_fluxo_inicial.jpeg)
 > Autores: Vinicius de Sousa Saturnino e Juliana Pereira
 
 ### 3.3. Perfil
 
 
-![Prototipo Média Perfil](../../../assets/prototipo_media_fidelidade/print_fluxo_perfil.jpeg)
+![Prototipo Média Perfil](../../assets/prototipo_media_fidelidade/print_fluxo_perfil.jpeg)
 > Autores: Vinicius de Sousa Saturnino e Juliana Pereira
 
 ### 3.4. Comunidade
 
 
-![Prototipo Média Comunidade](../../../assets/prototipo_media_fidelidade/print_fluxo_comunidade.jpeg)
+![Prototipo Média Comunidade](../../assets/prototipo_media_fidelidade/print_fluxo_comunidade.jpeg)
 > Autores: Vinicius de Sousa Saturnino e Juliana Pereira

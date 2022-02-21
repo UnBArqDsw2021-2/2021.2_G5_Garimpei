@@ -9,6 +9,7 @@
 | 0.1    | 02/02/2022 | Criação do documento de exposição dos protótipos elaborados | Victor Gonçalves |
 | 0.2    | 02/02/2022 | Centralização das tabelas | Matheus Afonso |
 | 0.3    | 04/02/2022 | Correções de formatação | Mateus Gomes |
+| 0.4    | 21/02/2022 | Atualização do caminho das imagens | Paulo Victor |
 
 </center>
 
@@ -28,9 +29,9 @@ Cada integrante do grupo elaborou seu próprio protótipo de baixa fidelidade a 
 
 > Autor: Daniel Barcelos
 
-![Prototipo Daniel 1](../../../assets/prototipos_baixa_fidelidade/prototipo_daniel_1.jpg)
+![Prototipo Daniel 1](../../assets/prototipos_baixa_fidelidade/prototipo_daniel_1.jpg)
 
-![Prototipo Daniel 2](../../../assets/prototipos_baixa_fidelidade/prototipo_daniel_2.jpg)
+![Prototipo Daniel 2](../../assets/prototipos_baixa_fidelidade/prototipo_daniel_2.jpg)
 
 <figcaption>Imagem 1: Protótipo de baixa fidelidade do membro Daniel Barcelos</figcaption>
 
@@ -42,9 +43,9 @@ Cada integrante do grupo elaborou seu próprio protótipo de baixa fidelidade a 
 
 > Autor: Denys Rogeres
 
-![Prototipo Denys 1](../../../assets/prototipos_baixa_fidelidade/prototipo_denys_1.jpeg)
-![Prototipo Denys 2](../../../assets/prototipos_baixa_fidelidade/prototipo_denys_2.jpeg)
-![Prototipo Denys 3](../../../assets/prototipos_baixa_fidelidade/prototipo_denys_3.jpeg)
+![Prototipo Denys 1](../../assets/prototipos_baixa_fidelidade/prototipo_denys_1.jpeg)
+![Prototipo Denys 2](../../assets/prototipos_baixa_fidelidade/prototipo_denys_2.jpeg)
+![Prototipo Denys 3](../../assets/prototipos_baixa_fidelidade/prototipo_denys_3.jpeg)
 
 <figcaption>Imagem 2: Protótipo de baixa fidelidade do membro Denys Rogeres</figcaption>
 
@@ -56,7 +57,7 @@ Cada integrante do grupo elaborou seu próprio protótipo de baixa fidelidade a 
 
 > Autora: Juliana Valle
 
-![Prototipo Juliana 1](../../../assets/prototipos_baixa_fidelidade/prototipo_juliana_1.jpeg)
+![Prototipo Juliana 1](../../assets/prototipos_baixa_fidelidade/prototipo_juliana_1.jpeg)
 
 <figcaption>Imagem 3: Protótipo de baixa fidelidade do membro Juliana Valle</figcaption>
 
@@ -68,8 +69,8 @@ Cada integrante do grupo elaborou seu próprio protótipo de baixa fidelidade a 
 
 > Autor: Mateus Gomes
 
-![Prototipo Mateus 1](../../../../assets/prototipos_baixa_fidelidade/prototipo_mateus_gomes_1.png)
-![Prototipo Mateus 2](../../../../assets/prototipos_baixa_fidelidade/prototipo_mateus_gomes_2.png)
+![Prototipo Mateus 1](../../../assets/prototipos_baixa_fidelidade/prototipo_mateus_gomes_1.png)
+![Prototipo Mateus 2](../../../assets/prototipos_baixa_fidelidade/prototipo_mateus_gomes_2.png)
 
 <figcaption>Imagem 4: Protótipo de baixa fidelidade do membro Mateus Gomes</figcaption>
 
@@ -81,8 +82,8 @@ Cada integrante do grupo elaborou seu próprio protótipo de baixa fidelidade a 
 
 > Autor: Matheus Afonso
 
-![Prototipo Matheus 1](../../../assets/prototipos_baixa_fidelidade/prototipo_mateus_afonso_1.jpeg)
-![Prototipo Matheus 2](../../../assets/prototipos_baixa_fidelidade/prototipo_mateus_afonso_2.jpeg)
+![Prototipo Matheus 1](../../assets/prototipos_baixa_fidelidade/prototipo_mateus_afonso_1.jpeg)
+![Prototipo Matheus 2](../../assets/prototipos_baixa_fidelidade/prototipo_mateus_afonso_2.jpeg)
 
 <figcaption>Imagem 5: Protótipo de baixa fidelidade do membro Matheus Afonso</figcaption>
 
@@ -94,7 +95,7 @@ Cada integrante do grupo elaborou seu próprio protótipo de baixa fidelidade a 
 
 > Autor: Paulo Victor
 
-![Prototipo Paulo Victor 1](../../../assets/prototipos_baixa_fidelidade/prototipo_paulo_victor_1.png)
+![Prototipo Paulo Victor 1](../../assets/prototipos_baixa_fidelidade/prototipo_paulo_victor_1.png)
 
 <figcaption>Imagem 6: Protótipo de baixa fidelidade do membro Paulo Victor</figcaption>
 
@@ -106,7 +107,7 @@ Cada integrante do grupo elaborou seu próprio protótipo de baixa fidelidade a 
 
 > Autor: Thiago Mesquita
 
-![Prototipo Thiago 1](../../../assets/prototipos_baixa_fidelidade/prototipo_thiago_1.png)
+![Prototipo Thiago 1](../../assets/prototipos_baixa_fidelidade/prototipo_thiago_1.png)
 
 <figcaption>Imagem 7: Protótipo de baixa fidelidade do membro Thiago Mesquita</figcaption>
 
@@ -130,8 +131,8 @@ Cada integrante do grupo elaborou seu próprio protótipo de baixa fidelidade a 
 
 > Autor: Vinicius Saturnino
 
-![Prototipo Vinicius 1](../../../assets/prototipos_baixa_fidelidade/prototipo_vinicius_1.png)
-![Prototipo Vinicius 2](../../../assets/prototipos_baixa_fidelidade/prototipo_vinicius_2.png)
+![Prototipo Vinicius 1](../../assets/prototipos_baixa_fidelidade/prototipo_vinicius_1.png)
+![Prototipo Vinicius 2](../../assets/prototipos_baixa_fidelidade/prototipo_vinicius_2.png)
 
 <figcaption>Imagem 9: Protótipo de baixa fidelidade do membro Vinicius Saturnino</figcaption>
 

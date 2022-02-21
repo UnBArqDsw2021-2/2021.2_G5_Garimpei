@@ -6,8 +6,8 @@ repo_url: "https://github.com/UnBArqDsw2021-2/2021.2_G5_Garimpei"
 theme:
   name: material
   language: "pt"
-  logo: "assets/favicon.ico"
-  favicon: "assets/favicon.ico"
+  logo: "global/assets/favicon.ico"
+  favicon: "global/assets/favicon.ico"
   palette:
     primary: "red"
     accent: "red"
@@ -22,43 +22,45 @@ nav:
   - Início: index.md
   - Desenho de Software (Base):
       - Projeto não orientado a abordagens específicas:
-          - Design Sprint: content/design_sprint.md
-          - Rich Picture: content/pre_rastreabilidade/rich_picture.md
-          - 5W2H: content/pre_rastreabilidade/5w2h.md
-          - Diagrama Causa e Efeito: content/pre_rastreabilidade/diagrama_causa_efeito.md
-          - Plano de Riscos: content/produto/plano_riscos.md
-          - Mapa Mental: content/pre_rastreabilidade/mapa_mental.md
-          - Protótipo de Baixa Fidelidade: content/produto/prototipo_baixa_fidelidade.md
-          - Protótipo de Média Fidelidade: content/produto/prototipo_media_fidelidade.md
-          - Protótipo de Alta Fidelidade: content/produto/prototipo_alta_fidelidade.md
+          - Design Sprint: entrega_I/projeto_nao_orientado_a_abordagens_especificas/design_sprint.md
+          - Rich Picture: entrega_I/projeto_nao_orientado_a_abordagens_especificas/rich_picture.md
+          - 5W2H: entrega_I/projeto_nao_orientado_a_abordagens_especificas/5w2h.md
+          - Diagrama Causa e Efeito: entrega_I/projeto_nao_orientado_a_abordagens_especificas/diagrama_causa_efeito.md
+          - Plano de Riscos: entrega_I/projeto_nao_orientado_a_abordagens_especificas/plano_riscos.md
+          - Mapa Mental: entrega_I/projeto_nao_orientado_a_abordagens_especificas/mapa_mental.md
+          - Protótipo de Baixa Fidelidade: entrega_I/projeto_nao_orientado_a_abordagens_especificas/prototipo_baixa_fidelidade.md
+          - Protótipo de Média Fidelidade: entrega_I/projeto_nao_orientado_a_abordagens_especificas/prototipo_media_fidelidade.md
+          - Protótipo de Alta Fidelidade: entrega_I/projeto_nao_orientado_a_abordagens_especificas/prototipo_alta_fidelidade.md
           - Elicitação:
-              - Questionário: content/elicitacao/questionario.md
-              - Brainstorming: content/elicitacao/brainstorming.md
-              - Introspecção: content/elicitacao/introspeccao.md
-              - Resultados: content/elicitacao/resultado.md
-          - Backlog: content/modelagem/backlog.md
-          - Priorização: content/modelagem/priorizacao.md
+              - Questionário: entrega_I/projeto_nao_orientado_a_abordagens_especificas/elicitacao/questionario.md
+              - Brainstorming: entrega_I/projeto_nao_orientado_a_abordagens_especificas/elicitacao/brainstorming.md
+              - Introspecção: entrega_I/projeto_nao_orientado_a_abordagens_especificas/elicitacao/introspeccao.md
+              - Resultados: entrega_I/projeto_nao_orientado_a_abordagens_especificas/elicitacao/resultado.md
+          - Backlog: entrega_I/projeto_nao_orientado_a_abordagens_especificas/backlog.md
+          - Priorização: entrega_I/projeto_nao_orientado_a_abordagens_especificas/priorizacao.md
       - Processos, metodologias e abordagens:
-          - Metodologia: content/planejamento/metodologia.md
-          - BPMN: content/planejamento/modelagem_bpmn.md
+          - Metodologia: entrega_I/processos_metodologias_e_abordagens/metodologia.md
+          - BPMN: entrega_I/processos_metodologias_e_abordagens/modelagem_bpmn.md
       - Iniciativas extras:
-          - Personas: content/elicitacao/personas.md
-          - Manual de Identidade Visual: content/produto/identidade_visual.md
-          - Guia de Contribuição: content/extras/contribuicao.md
+          - Personas: entrega_I/extras/personas.md
+          - Manual de Identidade Visual: entrega_I/extras/identidade_visual.md
+          - Guia de Contribuição: entrega_I/extras/contribuicao.md
       - Atas:
-          - Ata da reunião 27/01: content/extras/atas/ata_2701.md
-          - Ata da reunião 28/01: content/extras/atas/ata_2801.md
+          - Ata da reunião 27/01: entrega_I/atas/ata_2701.md
+          - Ata da reunião 28/01: entrega_I/atas/ata_2801.md
   - Desenho de Software (Modelagem):
     - Notação UML - Diagramas Estáticos:
-      - Diagrama de Classes: content/modelagem/diagrama_de_classes.md
-      - Diagrama de Pacotes: content/modelagem/diagrama-de-pacotes.md
-      - Diagrama de Componentes: content/modelagem/diagrama-de-componentes.md
+      - Diagrama de Classes: entrega_II/diagramas_estaticos/diagrama_de_classes.md
+      - Diagrama de Pacotes: entrega_II/diagramas_estaticos/diagrama-de-pacotes.md
+      - Diagrama de Componentes: entrega_II/diagramas_estaticos/diagrama-de-componentes.md
     - Notação UML - Diagramas Dinâmicos:
-      - Diagrama de Atividades: content/modelagem/diagrama-de-atividades.md
-      - Diagrama de Estados: content/modelagem/diagrama-de-estados.md
-      - Diagrama de Sequência: content/modelagem/diagrama_de_sequencia.md
-      - Diagrama de Comunicação: content/modelagem/diagrama_de_comunicacao.md
+      - Diagrama de Atividades: entrega_II/diagramas_dinamicos/diagrama-de-atividades.md
+      - Diagrama de Estados: entrega_II/diagramas_dinamicos/diagrama-de-estados.md
+      - Diagrama de Sequência: entrega_II/diagramas_dinamicos/diagrama_de_sequencia.md
+      - Diagrama de Comunicação: entrega_II/diagramas_dinamicos/diagrama_de_comunicacao.md
     - Modelagem Ágil:
-      - Backlog: content/modelagem/backlog.md
-  - Apresentações: content/apresentacoes/index.md
+      - Backlog: entrega_II/modelagem_agil/backlog.md
+    - Iniciativas extras:
+      - Reorganização da Documentação: entrega_II/extras/docs_refactor.md
+  - Apresentações: apresentacoes/index.md
 dev_addr: "0.0.0.0:8000"

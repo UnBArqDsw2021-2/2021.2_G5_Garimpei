@@ -9,6 +9,7 @@
 | 0.3    | 02/02/2022 | Adição da referência e legenda nas imagens | Mateus Gomes |
 | 0.4    | 02/02/2022 | Adição da definição | Mateus Gomes |
 | 0.5    | 03/02/2022 | Adição da versão final do rich picture | Juliana Valle |
+| 0.6    | 21/02/2022 | Atualização do caminho das imagens | Paulo Victor |
 
 ## 2. Definição
 
@@ -25,7 +26,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 > Autor: Daniel Barcelos
 
 <center>
-![Rich Picture Daniel](../../../assets/rich_picture/rp_daniel.png)
+![Rich Picture Daniel](../../assets/rich_picture/rp_daniel.png)
 
 <figcaption>Imagem 1: Rich picture elaborado por Daniel Barcelos</figcaption>
 </center>
@@ -35,7 +36,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 > Autor: Denys Rogeres
 
 <center>
-![Rich Picture Denys](../../../assets/rich_picture/rp_denys.png)
+![Rich Picture Denys](../../assets/rich_picture/rp_denys.png)
 
 <figcaption>Imagem 2: Rich picture elaborado por Denys Rogeres</figcaption>
 </center>
@@ -45,7 +46,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 > Autor: Juliana Valle
 
 <center>
-![Rich Picture Juliana](../../../assets/rich_picture/rp_juliana.png)
+![Rich Picture Juliana](../../assets/rich_picture/rp_juliana.png)
 
 <figcaption>Imagem 3: Rich picture elaborado por Juliana Valle</figcaption>
 </center>
@@ -55,7 +56,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 > Autor: Mateus Gomes
 
 <center>
-![Rich Picture Mateus Gomes](../../../assets/rich_picture/rp_gomes.jpg)
+![Rich Picture Mateus Gomes](../../assets/rich_picture/rp_gomes.jpg)
 
 <figcaption>Imagem 4: Rich picture elaborado por Mateus Gomes</figcaption>
 </center>
@@ -66,9 +67,9 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 
 <center>
 
-![Rich Picture Matheus Afonso 1](../../../assets/rich_picture/rp_afonso1.png)
+![Rich Picture Matheus Afonso 1](../../assets/rich_picture/rp_afonso1.png)
 
-![Rich Picture Matheus Afonso 2](../../../assets/rich_picture/rp_afonso2.png)
+![Rich Picture Matheus Afonso 2](../../assets/rich_picture/rp_afonso2.png)
 
 <figcaption>Imagem 5: Rich picture elaborado por Matheus Afonso</figcaption>
 </center>
@@ -78,7 +79,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 > Autor: Paulo Victor
 
 <center>
-![Rich Picture Paulo](../../../assets/rich_picture/rp_paulo.png)
+![Rich Picture Paulo](../../assets/rich_picture/rp_paulo.png)
 
 <figcaption>Imagem 6: Rich picture elaborado por Paulo Victor</figcaption>
 </center>
@@ -88,7 +89,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 > Autor: Thiago Mesquita
 
 <center>
-![Rich Picture Thiago](../../../assets/rich_picture/rp_thiago.png)
+![Rich Picture Thiago](../../assets/rich_picture/rp_thiago.png)
 
 <figcaption>Imagem 7: Rich picture elaborado por Thiago Mesquita</figcaption>
 </center>
@@ -98,7 +99,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 > Autor: Victor Gonçalves
 
 <center>
-![Rich Picture Victor](../../../assets/rich_picture/rp_victor.png)
+![Rich Picture Victor](../../assets/rich_picture/rp_victor.png)
 
 <figcaption>Imagem 8: Rich picture elaborado por Victor Gonçalves</figcaption>
 </center>
@@ -108,7 +109,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 > Autor: Vinícius Saturnino
 
 <center>
-![Rich Picture Vinicius](../../../assets/rich_picture/rp_vinicius.png)
+![Rich Picture Vinicius](../../assets/rich_picture/rp_vinicius.png)
 
 <figcaption>Imagem 9: Rich picture elaborado por Vinícius Saturnino</figcaption>
 </center>
@@ -116,7 +117,7 @@ Cada membro da equipe elaborou um Rich Picture para o projeto, com o objetivo de
 ## 5. Resultado Final
 ### 5.1 Versão Final
 <center>
-![Rich Picture Vinicius](../../../assets/rich_picture/richp_final.png)
+![Rich Picture Vinicius](../../assets/rich_picture/richp_final.png)
 
 <figcaption>Imagem 10: Rich icture final</figcaption>
 </center>
@@ -125,7 +126,7 @@ Para a confecção deste Rich Picture, foram utilizados os rich pictures individ
 
 ### 5.1.2 Legenda
 <center>
-![Rich Picture Vinicius](../../../assets/rich_picture/rp_legenda.png)
+![Rich Picture Vinicius](../../assets/rich_picture/rp_legenda.png)
 
 <figcaption>Imagem 11: Legenda do Rich picture final</figcaption>
 </center>
