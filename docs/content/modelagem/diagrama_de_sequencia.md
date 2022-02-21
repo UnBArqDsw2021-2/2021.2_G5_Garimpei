@@ -39,3 +39,13 @@ Conforme o documento sobre
 ![Venda de um produto](../../assets/diagrama_de_sequencia/sequencia2.png)
 <figcaption>Imagem 1: Diagrama de sequência - Venda de um produto</figcaption>
 </center>
+
+## 4. Referências
+
+> Diagramas de Seqüência. Disponível em:
+> [https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=uml-sequence-diagrams](https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=uml-sequence-diagrams). Data de acesso: 20/02/2022
+
+> O que é um diagrama de sequência UML?. Disponível em:
+> [https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-sequencia-uml](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-sequencia-uml). Data de acesso: 16/02/2022
+
+> UML Sequence Diagrams. Disponível em: [https://www.uml-diagrams.org/sequence-diagrams.html](https://www.uml-diagrams.org/sequence-diagrams.html). Data de acesso: 16/02/2022
