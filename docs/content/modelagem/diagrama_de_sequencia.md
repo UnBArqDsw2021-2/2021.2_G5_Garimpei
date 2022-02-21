@@ -22,3 +22,20 @@ Conforme o documento sobre
 | Análise    | Durante a fase de análise, é possível utilizar diagramas de seqüência para ilustrar as interações das instâncias de classe para realizar um caso de uso. Na fase de análise, os diagramas de seqüência podem ajudá-lo a identificar as classes necessárias em um sistema e o que os objetos da classe fazem nas interações. |
 | Design     | Você pode refinar diagramas de seqüência para mostrar como um sistema completa as interações. Na fase de design, os diagramas de seqüência explicam como o sistema funciona para realizar as interações.                                                                                                                    |
 | Construção | Durante o desenvolvimento de uma arquitetura de sistema, é possível utilizar diagramas de seqüência para mostrar o comportamento de padrões e mecanismos de design que o sistema utiliza.                                                                                                                                   |
+
+## 4. Resultado
+
+### Diagrama de Sequência - Compra de um produto
+
+<center>
+![Compra de um produto](../../assets/diagrama_de_sequencia/sequencia1.png)
+<figcaption>Imagem 1: Diagrama de sequência - Compra de um produto</figcaption>
+</center>
+
+
+### Diagrama de Sequência - Venda de um produto
+
+<center>
+![Venda de um produto](../../assets/diagrama_de_sequencia/sequencia2.png)
+<figcaption>Imagem 1: Diagrama de sequência - Venda de um produto</figcaption>
+</center>
