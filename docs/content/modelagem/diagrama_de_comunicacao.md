@@ -1,4 +1,4 @@
-# Diagrama de Sequência
+# Diagrama de Comunicação
 
 ## 1. Histórico de versão
 <center>
@@ -6,13 +6,15 @@
 | Versão | Data       | Descrição            | Autor        |
 | ------ | ---------- | -------------------- | ------------ |
 | 0.1    | 21/02/2022 | Criação do documento | Denys Rógeres |
+| 0.2    | 21/02/2022 | Revisão do documento | Daniel Barcelos |
 
 </center>
 
 ## 2. Definição
 &emsp;&emsp; O diagrama de comunicação, também chamado de diagrama de colaboração, é um tipo de diagrama de interação UML que mostra a interação existente em um conjunto de objetos e seus relacionamentos, evidenciando a organização estrutural dos objetos indicando um caminho e uma ordem temporal. [5]
 
-&emsp;&emsp; Dessa forma o diagrama mostrar a troca de mensagens entre os objetos e também demonstra os seus relacionamentos. O digrama de comunicaçã tem muita semelhança com o diagrama de sequência, uma vez que ambos mostram a interação entre os objetos, no entanto, esse tem como enfasê o contexto do sistema, enquanto o de sequẽncia se caracteriza enfatiza o decorrer do tempo. [2]
+&emsp;&emsp; Dessa forma o diagrama mostra a troca de mensagens entre os objetos e também demonstra os seus relacionamentos. O diagrama de comunicação tem muita semelhança com o diagrama de sequência, uma vez que ambos mostram a interação entre os objetos, no entanto, esse tem como ênfase o contexto do sistema, enquanto o de sequência enfatiza o decorrer do tempo. [2]
+
 ## 3. Diagrama de Comunicação
 ### 3.1 Interação do Usuário
 <center>
