@@ -77,6 +77,46 @@ Adicione o(s)s vídeo(s) da Primeira Entrega. OBS: Profa. Milene: PRAZO NÃO ATE
 
 Adicione o(s)s vídeo(s) da Segunda Entrega.
 
+### Diagramas Estáticos
+
+<center>
+
+[![Garimpei](https://img.youtube.com/vi/tbOJ7NEPopo/0.jpg)](https://www.youtube.com/watch?v=TlHD5W1ev9A)
+<br />
+[Link do vídeo](https://www.youtube.com/watch?v=TlHD5W1ev9A)
+
+</center>
+
+### Diagramas Dinâmicos
+
+<center>
+
+[![Garimpei](https://img.youtube.com/vi/dwFRFR4AvN0/0.jpg)](https://www.youtube.com/watch?v=oUVrIeFsodk0)
+<br />
+[Link do vídeo](https://www.youtube.com/watch?v=oUVrIeFsodk0)
+  
+</center>
+
+### Modelagem Ágil
+
+<center>
+
+[![Garimpei](https://img.youtube.com/vi/bUKAadIg2PY/0.jpg)](https://www.youtube.com/watch?v=OK1MPPcTIhY)
+<br />
+[Link do vídeo](https://www.youtube.com/watch?v=OK1MPPcTIhY)
+  
+</center>
+
+### Iniciativas extras
+
+<center>
+
+[![Garimpei](https://img.youtube.com/vi/bUKAadIg2PY/0.jpg)](https://www.youtube.com/watch?v=65TqEnFsJbw)
+<br />
+[Link do vídeo](https://www.youtube.com/watch?v=65TqEnFsJbw)
+  
+</center>
+
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.

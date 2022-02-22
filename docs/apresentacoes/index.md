@@ -6,6 +6,7 @@
 | ------ | ---------- | --------------------------------------------------------- | ------------ |
 | 0.1    | 04/02/2022 | Criação do documento                                      | Paulo Victor |
 | 0.2    | 06/02/2022 | Adição do link dos vídeos relacionados a primeira entrega | Paulo Victor |
+| 0.3    | 21/02/2022 | Adição do link dos vídeos relacionados a segunda entrega | Daniel Barcelos |
 
 ## 1. Desenho de Software (Base)
 
@@ -30,5 +31,39 @@
 <center>
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/bUKAadIg2PY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+## 2. Desenho de Software (Modelagem)
+
+### 2.1 Diagramas Estáticos
+
+<center>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/TlHD5W1ev9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+### 2.2 Diagramas Dinâmicos
+
+<center>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/oUVrIeFsodk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+### 2.3 Modelagem Ágil
+
+<center>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/OK1MPPcTIhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+### 2.4 Iniciativas extras
+
+<center>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/65TqEnFsJbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
