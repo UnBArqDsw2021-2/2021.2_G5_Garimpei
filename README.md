@@ -81,7 +81,7 @@ Adicione o(s)s vídeo(s) da Segunda Entrega.
 
 <center>
 
-[![Garimpei](https://img.youtube.com/vi/tbOJ7NEPopo/0.jpg)](https://www.youtube.com/watch?v=TlHD5W1ev9A)
+[![Garimpei](https://img.youtube.com/vi/TlHD5W1ev9A/0.jpg)](https://www.youtube.com/watch?v=TlHD5W1ev9A)
 <br />
 [Link do vídeo](https://www.youtube.com/watch?v=TlHD5W1ev9A)
 
@@ -91,7 +91,7 @@ Adicione o(s)s vídeo(s) da Segunda Entrega.
 
 <center>
 
-[![Garimpei](https://img.youtube.com/vi/dwFRFR4AvN0/0.jpg)](https://www.youtube.com/watch?v=oUVrIeFsodk0)
+[![Garimpei](https://img.youtube.com/vi/oUVrIeFsodk0/0.jpg)](https://www.youtube.com/watch?v=oUVrIeFsodk0)
 <br />
 [Link do vídeo](https://www.youtube.com/watch?v=oUVrIeFsodk0)
   
@@ -101,7 +101,7 @@ Adicione o(s)s vídeo(s) da Segunda Entrega.
 
 <center>
 
-[![Garimpei](https://img.youtube.com/vi/bUKAadIg2PY/0.jpg)](https://www.youtube.com/watch?v=OK1MPPcTIhY)
+[![Garimpei](https://img.youtube.com/vi/OK1MPPcTIhY/0.jpg)](https://www.youtube.com/watch?v=OK1MPPcTIhY)
 <br />
 [Link do vídeo](https://www.youtube.com/watch?v=OK1MPPcTIhY)
   
@@ -111,7 +111,7 @@ Adicione o(s)s vídeo(s) da Segunda Entrega.
 
 <center>
 
-[![Garimpei](https://img.youtube.com/vi/bUKAadIg2PY/0.jpg)](https://www.youtube.com/watch?v=65TqEnFsJbw)
+[![Garimpei](https://img.youtube.com/vi/65TqEnFsJbw/0.jpg)](https://www.youtube.com/watch?v=65TqEnFsJbw)
 <br />
 [Link do vídeo](https://www.youtube.com/watch?v=65TqEnFsJbw)
   
