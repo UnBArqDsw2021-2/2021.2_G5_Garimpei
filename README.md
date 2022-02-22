@@ -91,7 +91,7 @@ Adicione o(s)s vídeo(s) da Segunda Entrega.
 
 <center>
 
-[![Garimpei](https://img.youtube.com/vi/oUVrIeFsodk0/0.jpg)](https://www.youtube.com/watch?v=oUVrIeFsodk0)
+[![Garimpei](https://img.youtube.com/vi/oUVrIeFsodk/0.jpg)](https://www.youtube.com/watch?v=oUVrIeFsodk0)
 <br />
 [Link do vídeo](https://www.youtube.com/watch?v=oUVrIeFsodk0)
   
