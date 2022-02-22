@@ -25,15 +25,13 @@ Imagine uma comunidade que resolve abrir um bazar/brechó, com artigos que são 
 
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega. OBS: Profa. Milene: PRAZO NÃO ATENDIDO - NÃO ESTÁ NA WIKI TAMBÉM
 
-![Screenshot do Protótipo de Alta Fidelidade](docs/assets/screenshots/screenshot_base_1.png)
-![Screenshot do Questionário](docs/assets/screenshots/screenshot_base_2.png)
-![Screenshot do Backlog](docs/assets/screenshots/screenshot_base_3.png)
-![Screenshot do BPMN](docs/assets/screenshots/screenshot_base_4.png)
-![Screenshot do Manual de Identidade Visual](docs/assets/screenshots/screenshot_base_5.png)
+![Screenshot do Protótipo de Alta Fidelidade](docs/entrega_I/assets/screenshots/screenshot_base_1.png)
+![Screenshot do Questionário](docs/entrega_I/assets/screenshots/screenshot_base_2.png)
+![Screenshot do Backlog](docs/entrega_I/assets/screenshots/screenshot_base_3.png)
+![Screenshot do BPMN](docs/entrega_I/assets/screenshots/screenshot_base_4.png)
+![Screenshot do Manual de Identidade Visual](docs/entrega_I/assets/screenshots/screenshot_base_5.png)
 ---
-![Screenshot do Diagrama de Comunicação](docs/assets/screenshots/screenshot_comunicacao.png)
-![Screenshot do Diagrama de Sequência](docs/assets/screenshots/screenshot_sequencia.png)
-![Screenshot do Diagrama de Estados](docs/assets/screenshots/screenshot_estados.png)
+
 
 ## Vídeo(s) Primeira Entrega <<FOCO: DSW(Base)>>
 
@@ -71,7 +69,9 @@ Adicione o(s)s vídeo(s) da Primeira Entrega. OBS: Profa. Milene: PRAZO NÃO ATE
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
+![Screenshot do Diagrama de Comunicação](docs/entrega_II/assets/screenshots/screenshot_comunicacao.png)
+![Screenshot do Diagrama de Sequência](docs/entrega_II/assets/screenshots/screenshot_sequencia.png)
+![Screenshot do Diagrama de Estados](docs/entrega_II/assets/screenshots/screenshot_estados.png)
 
 ## Vídeo(s) Segunda Entrega <<FOCO: DSW(Modelagem)>>
 
