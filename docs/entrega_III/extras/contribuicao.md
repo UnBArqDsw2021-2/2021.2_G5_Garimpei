@@ -7,7 +7,7 @@
 | Versão | Data       | Descrição                                          | Autor        |
 | ------ | ---------- | -------------------------------------------------- | ------------ |
 | 0.1    | 04/02/2022 | Criação da documentação sobre Guia de Contribuição | Paulo Victor |
-| 0.2    | 27/02/2022 | Adição do Garimmit e refatoração de branches | Vinicius Saturnino |
+| 0.2    | 27/02/2022 | Adição do Garimmit e refatoração de branches | Vinicius Saturnino e Mateus Gomes |
 
 </center>
 
@@ -92,3 +92,12 @@ source ~/zshrc
 ```
 
 Pronto, o garimmit foi instalado localmente. Basta reiniciar o terminal e ele estará disponível para uso.
+
+### Uso do Garimmit
+
+&emsp;&emsp;O garimmit possui uma comunicação bem simples e direta. Basta inserir a mensagem do commit, dizer se o commit é em pareamento ou não (ele já possui a linha de co-authored para todos os membros da organização com seus devidos apelidos minúsculos) e ele vai te mostrar a mensagem formatada, caso esteja correta, basta confirmar que ele faz o commit. Segue um exemplo abaixo:
+
+<center>
+![Exemplo Garimmit](../../assets/metodologia/garimmit.gif)
+<figcaption>Imagem 6: Demo de utilização garimmit.</figcaption>
+</center>
