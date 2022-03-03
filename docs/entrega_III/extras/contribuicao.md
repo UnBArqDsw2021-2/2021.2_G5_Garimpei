@@ -8,12 +8,13 @@
 | ------ | ---------- | -------------------------------------------------- | ------------ |
 | 0.1    | 04/02/2022 | Criação da documentação sobre Guia de Contribuição | Paulo Victor |
 | 0.2    | 27/02/2022 | Adição do Garimmit e refatoração de branches | Vinicius Saturnino e Mateus Gomes |
+| 0.3    | 02/03/2022 | Revisão de ortografia e adição de links para o script Garimmit | Vinicius Saturnino e Mateus Gomes |
 
 </center>
 
 ## 2. Política de Issues
 
-Crie uma nova issue seguindo as instruções presentes dentro do template de criação de features presente no repositório. São elas:
+&emsp;&emsp;Crie uma nova issue seguindo as instruções presentes dentro do template de criação de features presente no repositório. São elas:
 
 - Descrição do problema, caso a issue esteja relacionada a um.
 - Descrição do tipo de solução que é esperada ou do que se espera com a nova feature.
@@ -52,11 +53,11 @@ Exemplo:
 
 ## 4. Garimmit
 
-&emsp;&emsp;Como forma de ajudar o grupo, facilitar e garantir os padrões de commits e branches, foi criado um script para auxiliar os membros na hora de subir alguma alteração para o repositório. O garimmit está disponível na raíz do repositório na Wiki.
+&emsp;&emsp;Como forma de ajudar o grupo, facilitar e garantir os padrões de commits e branches, foi criado um script para auxiliar os membros na hora de subir alguma alteração para o repositório. O <a href="https://github.com/UnBArqDsw2021-2/2021.2_G5_Garimpei/blob/master/garimmit" target="_blank">garimmit</a> está disponível na raíz do repositório na Wiki.
 
 ### Instalação do Garimmit
 
-Para utilizar o garimmit como um comando nativo, foram disponibilizados os seguintes passos:
+Para utilizar o <a href="https://github.com/UnBArqDsw2021-2/2021.2_G5_Garimpei/blob/master/garimmit" target="_blank">garimmit</a> como um comando nativo, foram disponibilizados os seguintes passos:
 
 ```bash
 cd ~
@@ -66,14 +67,23 @@ cd ~
 mkdir bin 
 ```
 
-Para prosseguir, o `garimmit` deve estar dentro  do diretório `bin` criado.
+Para prosseguir, o script `garimmit` deve estar dentro  do diretório `bin` criado.
 
+```bash
+cd bin 
+```
 
 ```bash
 chmod u+x garimmit 
 ```
 
 Abrir o `bashrc` ou `zshrc`
+
+```bash
+nano ~/bashrc
+```
+
+ou
 
 ```bash
 nano ~/zshrc
@@ -88,14 +98,20 @@ export PATH=$PATH:~/bin
 Agora basta instalar o arquivo `bashrc` ou `zshrc` com as mudanças
 
 ```bash
+source ~/bashrc
+```
+
+ou
+
+```bash
 source ~/zshrc
 ```
 
-Pronto, o garimmit foi instalado localmente. Basta reiniciar o terminal e ele estará disponível para uso.
+Pronto, o <a href="https://github.com/UnBArqDsw2021-2/2021.2_G5_Garimpei/blob/master/garimmit" target="_blank">garimmit</a> foi instalado localmente. Basta reiniciar o terminal e ele estará disponível para uso.
 
 ### Uso do Garimmit
 
-&emsp;&emsp;O garimmit possui uma comunicação bem simples e direta. Basta inserir a mensagem do commit, dizer se o commit é em pareamento ou não (ele já possui a linha de co-authored para todos os membros da organização com seus devidos apelidos minúsculos) e ele vai te mostrar a mensagem formatada, caso esteja correta, basta confirmar que ele faz o commit. Segue um exemplo abaixo:
+&emsp;&emsp;O <a href="https://github.com/UnBArqDsw2021-2/2021.2_G5_Garimpei/blob/master/garimmit" target="_blank">garimmit</a> possui uma comunicação bem simples e direta. Basta inserir a mensagem do commit, dizer se o commit é em pareamento ou não (ele já possui a linha de co-authored para todos os membros da organização com seus devidos apelidos minúsculos) e ele vai te mostrar a mensagem formatada, caso esteja correta, basta confirmar que ele faz o commit. Segue um exemplo abaixo:
 
 <center>
 ![Exemplo Garimmit](../../assets/metodologia/garimmit.gif)
