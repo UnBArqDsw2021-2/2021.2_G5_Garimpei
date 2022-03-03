@@ -9,6 +9,7 @@
 | 0.1    | 04/02/2022 | Criação da documentação sobre Guia de Contribuição | Paulo Victor |
 | 0.2    | 27/02/2022 | Adição do Garimmit e refatoração de branches | Vinicius Saturnino e Mateus Gomes |
 | 0.3    | 02/03/2022 | Revisão de ortografia e adição de links para o script Garimmit | Vinicius Saturnino e Mateus Gomes |
+| 0.4    | 03/03/2022 | Revisão do documento | Victor Gonçalves |
 
 </center>
 
