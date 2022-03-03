@@ -10,6 +10,7 @@
 | 0.2    | 27/02/2022 | Adição do Garimmit e refatoração de branches | Vinicius Saturnino e Mateus Gomes |
 | 0.3    | 02/03/2022 | Revisão de ortografia e adição de links para o script Garimmit | Vinicius Saturnino e Mateus Gomes |
 | 0.4    | 03/03/2022 | Revisão do documento | Victor Gonçalves |
+| 0.5    | 03/03/2022 | Revisão das informações de branch | Vinicius Saturnino e Mateus Gomes |
 
 </center>
 
@@ -23,16 +24,16 @@
 
 ## 3. Política de Branches e Commits
 
-&emsp;&emsp;Através da imagem abaixo iremos implementar o git flow do projeto, de maneira que para uma mudança impactar a branch main (branch principal) os seguintes passos deverão ser seguidos:
+&emsp;&emsp;Através da imagem abaixo iremos implementar o git flow do projeto, de maneira que para uma mudança impactar a branch master (branch principal) os seguintes passos deverão ser seguidos:
 
 <center>
 ![Git flow](../../assets/metodologia/git_flow.png)
 <figcaption>Imagem 4: Exemplo de fluxo de branch.</figcaption>
 </center>
 
-1. Deve-se criar uma branch nova a partir da main
-2. Ao acabar a implementação na branch nova, deve ser criado um PR para ser avaliado, preenchendo os campos necessários do modelo pré-determinado
-3. Caso o PR seja aprovado, a branch nova será apagada e o seu conteúdo estará na main
+1. Deve-se criar uma branch nova a partir da master;
+2. Ao acabar a implementação na branch nova, deve ser criado um PR para ser avaliado, preenchendo os campos necessários do modelo pré-determinado;
+3. Caso o PR seja aprovado, a branch nova será apagada e o seu conteúdo estará na master.
 
 &emsp;&emsp;Toda nova branch deverá seguir um padrão de nomenclatura, sendo o número da issue seguido por `_` e um nome significativo para aquela branch.
 
