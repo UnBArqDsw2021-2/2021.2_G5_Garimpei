@@ -66,5 +66,8 @@ nav:
       - Atas: 
         - 09/02 - Reunião de Planning: entrega_II/extras/atas/ata_0902.md
         - 17/02 - Reunião de Feedback: entrega_II/extras/atas/ata_1702.md
+  - Desenho de Software (Padrões de Projeto):
+    - Iniciativas extras:
+      - Guia de contribuição: entrega_III/extras/contribuicao.md
   - Apresentações: apresentacoes/index.md
 dev_addr: "0.0.0.0:8000"
