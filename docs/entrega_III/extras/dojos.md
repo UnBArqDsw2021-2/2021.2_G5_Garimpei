@@ -7,6 +7,7 @@
 | Versão | Data       | Descrição                                          | Autor        |
 | ------ | ---------- | -------------------------------------------------- | ------------ |
 | 0.1    | 04/03/2022 | Criação da documentação sobre Dojo e adição do vídeo sobre NextJS | Victor Gonçalves |
+| 0.2    | 10/03/2022 | Adição do Dojo sobre Fast API | Victor Gonçalves |
 
 </center>
 
@@ -22,6 +23,12 @@
 
 Estiveram presentes durante o Dojo os membros: Paulo Victor, Daniel Barcelos, Denys Rogeres, Thiago Mesquita e Victor Gonçalves; os demais que não puderam participar, tiveram a oportunidade de assistir o Dojo na íntegra posteriormente.
 
-## 4. Referências
+## 4. Dojo sobre Fast API
+
+&emsp;&emsp;Dado que uma das tecnologias a serem empregadas no projeto é o [_Fast API_](https://fastapi.tiangolo.com/), o grupo acordou com a execução de um dojo voltado para ela. Neste Dojo, foi-se utilizado o formato _Kata_, porém, meramente expositivo. Isto é, não houveram dinâmicas de resolução de problemas. O apresentador é o Matheus Afonso, e neste Dojo ele apresenta alguns conceitos chaves sobre a tecnologia e detalhes pertinentes ao contexto do projeto.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L68UM_7l5eM?start=14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 5. Referências
 
 BONFIM, Márcio. O que é o Coding Dojo. **DevMedia - Plataforma para programadores**, 2014. Disponível em <https://www.devmedia.com.br/o-que-e-o-coding-dojo/30517>. Acesso em: 04 de fev. de 2022.
