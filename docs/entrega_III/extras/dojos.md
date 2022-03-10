@@ -7,6 +7,7 @@
 | Versão | Data       | Descrição                                          | Autor        |
 | ------ | ---------- | -------------------------------------------------- | ------------ |
 | 0.1    | 04/03/2022 | Criação da documentação sobre Dojo e adição do vídeo sobre NextJS | Victor Gonçalves |
+| 0.2    | 10/03/2022 | Adição do Dojo sobre Fast API | Victor Gonçalves |
 
 </center>
 
