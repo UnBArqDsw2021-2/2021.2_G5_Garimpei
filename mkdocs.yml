@@ -69,8 +69,8 @@ nav:
   - Desenho de Software (Padrões de Projeto):
       - GoFs:
           - State: entrega_III/gofs/state.md
-          - Iterator: entrega_III/gofs/state.md
-          - Chain Of Responsibility: entrega_III/gofs/state.md
+          - Iterator: entrega_III/gofs/iterator.md
+          - Chain Of Responsibility: entrega_III/gofs/chain_of_responsibility.md
       - Iniciativas extras:
           - Guia de contribuição: entrega_III/extras/contribuicao.md
           - Dojos: entrega_III/extras/dojos.md
