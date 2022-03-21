@@ -38,7 +38,7 @@ Os protótipos de alta fidelidade abrangem não apenas a interface da pessoa usu
 </center>
 
 <center>
-![Protótipo v1](../../assets/prototipo/prototipov1.jpeg)
+![Protótipo v1](../../assets/prototipo/prototipov2.jpeg)
 <figcaption>Imagem 2: PrintScreen da versão 2.0 do protótipo</figcaption>
 </center>
 
