@@ -17,7 +17,7 @@ Além disso, GAMMA, Erich et al. (p. 185. 1995) descreve que o padrão Facade po
 
 ## 3. Aplicação
 
-O React, que é a tecnologia por trás do frontend da nossa aplicação, implementa esse padrão de Facade através de um Hooks. Hooks são funções que permitem a você “ligar-se” aos recursos de state e ciclo de vida do React a partir de componentes funcionais. Hooks não funcionam dentro de classes — eles permitem que você use React sem classes. React fornece alguns Hooks internos como [useState](../comportamentais/state.md). Você também pode criar os seus próprios Hooks para reutilizar o comportamento de state entre componentes diferentes. Um exemplo de utilização de Hooks em nosso código é:
+O **React**, que é a tecnologia por trás do frontend da nossa aplicação, **implementa esse padrão de Facade através de um Hooks**. Hooks são funções que permitem a você “ligar-se” aos recursos de state e ciclo de vida do React a partir de componentes funcionais. Hooks não funcionam dentro de classes — eles permitem que você use React sem classes. React fornece alguns Hooks internos como [useState](../comportamentais/state.md). Você também pode criar os seus próprios Hooks para reutilizar o comportamento de state entre componentes diferentes. Um exemplo de utilização de Hooks em nosso código é:
 
 <center>
 ![tree](../../assets/facade/facade.png)
@@ -28,7 +28,7 @@ Nessa imagem, estão sendo utilizados dois Hooks diferentes:
 - [useState](../comportamentais/state.md)
 - e useRouter
 
-Neste exemplo, é possível identificar a variável router que instancia o hook useRouter do Next, que nada mais é que uma interface que simplifica a navegação na aplicação. Um exemplo de uso dessa interface é com o método `router.push`, que permite a navegação entre telas.
+Neste exemplo, **é possível identificar a variável router que instancia o hook useRouter do Next**, que nada mais é que uma interface que simplifica a navegação na aplicação. Um exemplo de uso dessa interface é com o **método `router.push`, que permite a navegação entre telas**.
 
 ## 4. Referências
 
