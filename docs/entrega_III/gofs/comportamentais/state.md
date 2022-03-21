@@ -7,6 +7,7 @@
 | Versão | Data       | Descrição            | Autor        |
 | ------ | ---------- | -------------------- | ------------ |
 | 0.1    | 19/03/2022 | Criação do documento | Paulo Victor |
+| 0.2    | 20/03/2022 | Revisão do documento | Daniel Barcelos, Thiago Mesquita e Vinicius Saturnino|
 
 </center>
 
@@ -18,7 +19,10 @@
 
 &emsp;&emsp;O **React**, que é a tecnologia por trás do frontend da nossa aplicação, implementa esse padrão de estado através de um hook chamado useState. O **useState** é uma função cujo o retorno é um array/lista contendo na primeira posição o valor atual do estado e na segunda posição uma função para atualização desse estado. Essa função para atualizar o estado se faz necessário devido aos conceitos de imutabilidade presentes no React e que também se faz presentes em outros frameworks frontend. Um exemplo dessa implementação no nosso frontend é a seguinte:
 
-![useState](../assets/state.png)
+<center>
+![useState](../../assets/state.png)
+<figcaption>Imagem 1: Exemplo do padrão State</figcaption>
+</center>
 
 Nessa imagem, conseguimos perceber uma das aplicações de estado que usamos na nossa aplicação frontend. Através do estado conseguimos trocar o type do elemento input do HTML de forma a mostrar o seu valor de forma oculta como password ou como texto. Isso foi aplicado para os campos onde o usuário pode digitar sua senha e permitir que ele possa visualizar a senha digitada.
 

@@ -7,6 +7,7 @@
 | Versão | Data       | Descrição            | Autor        |
 | ------ | ---------- | -------------------- | ------------ |
 | 0.1    | 19/03/2022 | Criação do documento | Paulo Victor |
+| 0.2    | 20/03/2022 | Revisão do documento | Daniel Barcelos, Thiago Mesquita e Vinicius Saturnino|
 
 </center>
 
@@ -18,9 +19,12 @@
 
 &emsp;&emsp;Estamos utilizando o Chain of Responsibility para garantirmos que o usuário que está tentando acessar uma tela privada, realmente esteja autenticado para conseguir esse acesso. Caso o usuário não esteja autenticado, redirecionamos o mesmo para a tela de login da aplicação. O código responsável pela verificação do estado de autenticação do usuário é um exemplo de handler da nossa aplicação.
 
-![useState](../assets/chain_of_responsability.png)
+<center>
+![useState](../../assets/chain_of_responsability.png)
+<figcaption>Imagem 1: Exemplo do padrão Chain of Responsibility</figcaption>
+</center>
 
-No exemplo acima, criamos um handler responsável por verificar se o token de autenticação está presente no cookies do navegador do usuário. Esse handler é construído usando um aspecto do paradigma funcional no qual ele é uma função cujo o retorno da mesma é a execução de outra função que é passada como parâmetro. Caso o token não seja encontrado, redirecionamos o usuário para a tela de autenticação.
+&emsp;&emsp;No exemplo acima, criamos um handler responsável por verificar se o token de autenticação está presente no cookies do navegador do usuário. Esse handler é construído usando um aspecto do paradigma funcional no qual ele é uma função cujo o retorno da mesma é a execução de outra função que é passada como parâmetro. Caso o token não seja encontrado, redirecionamos o usuário para a tela de autenticação.
 
 ## 4. Referências
 
