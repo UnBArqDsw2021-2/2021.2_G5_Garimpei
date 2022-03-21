@@ -1,4 +1,4 @@
-# Decorator
+# Composite
 
 ## 1. Histórico de versão
 
@@ -7,6 +7,7 @@
 | Versão | Data       | Descrição            | Autor        |
 | ------ | ---------- | -------------------- | ------------ |
 | 0.1    | 20/03/2022 | Criação do documento | Juliana Valle |
+| 0.2    | 21/03/2022 | Revisão do documento | Matheus Afonso |
  
 </center>
  
