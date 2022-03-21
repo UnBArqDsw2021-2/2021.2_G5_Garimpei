@@ -68,9 +68,13 @@ nav:
               - 17/02 - Reunião de Feedback: entrega_II/extras/atas/ata_1702.md
   - Desenho de Software (Padrões de Projeto):
       - GoFs:
-          - State: entrega_III/gofs/state.md
-          - Iterator: entrega_III/gofs/iterator.md
-          - Chain Of Responsibility: entrega_III/gofs/chain_of_responsibility.md
+          - Criacionais:
+            - Singleton: entrega_III/gofs/criacionais/singleton.md
+            - Multiton: entrega_III/gofs/criacionais/multiton.md
+          - Comportamentais:
+            - State: entrega_III/gofs/comportamentais/state.md
+            - Iterator: entrega_III/gofs/comportamentais/iterator.md
+            - Chain Of Responsibility: entrega_III/gofs/comportamentais/chain_of_responsibility.md
           - Estruturais:
             - Decorator: entrega_III/gofs/estruturais/decorator.md
       - Iniciativas extras:

@@ -7,6 +7,7 @@
 | Versão | Data       | Descrição            | Autor        |
 | ------ | ---------- | -------------------- | ------------ |
 | 0.1    | 19/03/2022 | Criação do documento | Paulo Victor |
+| 0.2    | 20/03/2022 | Revisão do documento | Daniel Barcelos, Thiago Mesquita e Vinicius Saturnino|
 
 </center>
 
@@ -18,7 +19,10 @@
 
 &emsp;&emsp;O JavaScript tem **Iterators** presentes de forma padrão dentro da linguagem. Alguns desses são: **for**, **for-in**, **while**, **do while** e **map**. A utilização desse padrão nos permite reduzir repetição de código para acessar os elementos de um array e mantermos um código mais limpo e de fácil manutenção.
 
-![useState](../assets/iterator.png)
+<center>
+![iterator](../../assets/iterator.png)
+<figcaption>Imagem 1: Exemplo do padrão Iterator</figcaption>
+</center>
 
 Nessa imagem acima temos um exemplo de aplicação de iterator que é utilizada em nosso projeto no frontend. Através do iterator **map**, conseguimos realizar a travessia de todos os objetos presentes dentro de **response.data** , que é um array, e para cada objeto conseguimos formatar alguns campos para facilitar a sua utilização posteriormente ou adicionar novos campos a cada objeto baseado em alguma informação dele ou não.
 
