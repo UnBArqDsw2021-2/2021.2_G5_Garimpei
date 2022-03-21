@@ -4,10 +4,11 @@
 
 <center>
 
-| Versão | Data       | Descrição            | Autor        |
-| ------ | ---------- | -------------------- | ------------ |
-| 0.1 | 21/03/2022 | Criação do documento | Mateus Gomes |
-| 0.2 | 21/03/2022 | Correção no alt das imagens | Mateus Gomes |
+| Versão | Data       | Descrição                   | Autor         |
+| ------ | ---------- | --------------------------- | ------------- |
+| 0.1    | 21/03/2022 | Criação do documento        | Mateus Gomes  |
+| 0.2    | 21/03/2022 | Correção no alt das imagens | Mateus Gomes  |
+| 0.3    | 21/03/2022 | Revisão do documento        | Juliana Valle |
 
 </center>
 
@@ -42,14 +43,16 @@ O GRASP Controlador define que deve haver um componente específico, dentro do p
 Dentro do _framework_ **Nest.js**, os Controladores são responsáveis por lidar com as _requests_ recebidas e devolver _responses_ para o _client_, sendo uma estrutura essencial para a construção de APIs com este _framework_. Os Controladores fazem parte da estrutura das entidades do sistema em **Nest.js**, mapeando as rotas destas entidades.
 
 ![folder](../assets/grasps/controller_folder.png)
+
 <figcaption>Imagem 1: Estrutura da entidade de usuários do sistema de autenticação do projeto Garimpei.</figcaption>
 
-Na imagem acima, é possível observar a estrutura da entidade de usuário do sistema de autenticação do projeto Garimpei, que utiliza o _framework_ **Nest.js**. Nesta estrutura, existe o arquivo ```user.controller.ts```, que define o Controlador para essa entidade, que nada mais é que uma classe mapeando as requisições relacionadas à entidade de usuários.
+Na imagem acima, é possível observar a estrutura da entidade de usuário do sistema de autenticação do projeto Garimpei, que utiliza o _framework_ **Nest.js**. Nesta estrutura, existe o arquivo `user.controller.ts`, que define o Controlador para essa entidade, que nada mais é que uma classe mapeando as requisições relacionadas à entidade de usuários.
 
 ![Controller Code](../assets/grasps/controller_code.png)
+
 <figcaption>Imagem 2: Trecho do código do Controlador da entidade de Usuários.</figcaption>
 
-O arquivo ```user.controller.ts``` implementa a classe ```UserController```, que é justamente o Controlador da entidade de usuários. Esta classe possui funções nas quais mapeiam as requisições disponíveis para esta entidade, como é o caso da função ```findAll()```, que é mapeada para ser a requisição com o método ```GET```, que chama o serviço responsável por encontrar e devolver todos os usuários cadastrados dentro do sistema.
+O arquivo `user.controller.ts` implementa a classe `UserController`, que é justamente o Controlador da entidade de usuários. Esta classe possui funções nas quais mapeiam as requisições disponíveis para esta entidade, como é o caso da função `findAll()`, que é mapeada para ser a requisição com o método `GET`, que chama o serviço responsável por encontrar e devolver todos os usuários cadastrados dentro do sistema.
 
 ## 4. Especialista
 
@@ -64,13 +67,14 @@ Dentro da [API de autenticação do projeto Garimpei](https://github.com/UnBArqD
 Como pode ser visto na imagem acima, a entidade de usuário é dividida em alguns arquivos, sendo que cada arquivo possui uma responsabilidade específica, sendo elas:
 
 ![folder](../assets/grasps/expert_folder.png)
+
 <figcaption>Imagem 3: Estrutura de arquivos da entidade de usuários do sistema de autenticação do projeto Garimpei.</figcaption>
 
-- ```dtos```: os arquivos dtos servem para descrever os tipos de dados esperados por determinada classe;
-- ```user.entity.ts```: este arquivo é responsável por modelar a entidade de usuário no banco de dados, definindo as colunas e relacionamentos da mesma;
-- ```user.controller.ts```: este arquivo é responsável por ser o componente Controlador da entidade de usuário, mapeando as requisições da mesma;
-- ```user.module.ts```: este arquivo é responsável por guardar as configurações da entidade;
-- ```user.service.ts```: este arquivo é responsável por implementar os serviços da entidade de usuário, implementando as funcionalidades e regras de negócio necessárias para as requisições que são mapeadas pelo componente Controlador.
+- `dtos`: os arquivos dtos servem para descrever os tipos de dados esperados por determinada classe;
+- `user.entity.ts`: este arquivo é responsável por modelar a entidade de usuário no banco de dados, definindo as colunas e relacionamentos da mesma;
+- `user.controller.ts`: este arquivo é responsável por ser o componente Controlador da entidade de usuário, mapeando as requisições da mesma;
+- `user.module.ts`: este arquivo é responsável por guardar as configurações da entidade;
+- `user.service.ts`: este arquivo é responsável por implementar os serviços da entidade de usuário, implementando as funcionalidades e regras de negócio necessárias para as requisições que são mapeadas pelo componente Controlador.
 
 ## 5. Alta Coesão e Baixo Acoplamento
 
@@ -89,6 +93,7 @@ O padrão GRASP Alta Coesão vem para complementar o príncipio do baixo acoplam
 O _framework_ **Nest.js** define padrões em sua utilização, principalmente ao utilizar sua interface (CLI) na hora de construir os recursos da aplicação. Na implementação da [API de autenticação do projeto Garimpei](https://github.com/UnBArqDsw2021-2/2021.2_G5_Garimpei_Auth), esta interface foi utilizada para gerar todos os recursos da aplicação, como pode ser observado na imagem abaixo.
 
 ![folder](../assets/grasps/auth_project.png)
+
 <figcaption>Imagem 4: Estrutura de arquivos da API de autenticação do projeto Garimpei.</figcaption>
 
 Ao utilizar estes padrões ja estabelecidos pelo **Nest.js**, a implementação já segue práticas de Alta Coesão e Baixo Acomplamento, dando uma própria responsabilidade para cada componente do projeto e proporcionando um nível adequado de acoplamento entre os elementos do sistema.
