@@ -69,14 +69,15 @@ nav:
   - Desenho de Software (Padrões de Projeto):
       - GoFs:
           - Criacionais:
-            - Singleton: entrega_III/gofs/criacionais/singleton.md
-            - Multiton: entrega_III/gofs/criacionais/multiton.md
+              - Singleton: entrega_III/gofs/criacionais/singleton.md
+              - Multiton: entrega_III/gofs/criacionais/multiton.md
           - Comportamentais:
-            - State: entrega_III/gofs/comportamentais/state.md
-            - Iterator: entrega_III/gofs/comportamentais/iterator.md
-            - Chain Of Responsibility: entrega_III/gofs/comportamentais/chain_of_responsibility.md
+              - State: entrega_III/gofs/comportamentais/state.md
+              - Iterator: entrega_III/gofs/comportamentais/iterator.md
+              - Chain Of Responsibility: entrega_III/gofs/comportamentais/chain_of_responsibility.md
           - Estruturais:
-            - Decorator: entrega_III/gofs/estruturais/decorator.md
+              - Decorator: entrega_III/gofs/estruturais/decorator.md
+              - Composite: entrega_III/gofs/estruturais/composite.md
       - Iniciativas extras:
           - Guia de contribuição: entrega_III/extras/contribuicao.md
           - Dojos: entrega_III/extras/dojos.md
