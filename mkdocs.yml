@@ -78,6 +78,7 @@ nav:
           - Estruturais:
               - Decorator: entrega_III/gofs/estruturais/decorator.md
               - Composite: entrega_III/gofs/estruturais/composite.md
+              - Facade: entrega_III/gofs/estruturais/facade.md
       - Iniciativas extras:
           - Guia de contribuição: entrega_III/extras/contribuicao.md
           - Dojos: entrega_III/extras/dojos.md
