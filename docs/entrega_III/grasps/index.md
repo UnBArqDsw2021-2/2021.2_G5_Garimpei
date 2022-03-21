@@ -7,6 +7,7 @@
 | Versão | Data       | Descrição            | Autor        |
 | ------ | ---------- | -------------------- | ------------ |
 | 0.1 | 21/03/2022 | Criação do documento | Mateus Gomes |
+| 0.2 | 21/03/2022 | Correção no alt das imagens | Mateus Gomes |
 
 </center>
 
@@ -45,7 +46,7 @@ Dentro do _framework_ **Nest.js**, os Controladores são responsáveis por lidar
 
 Na imagem acima, é possível observar a estrutura da entidade de usuário do sistema de autenticação do projeto Garimpei, que utiliza o _framework_ **Nest.js**. Nesta estrutura, existe o arquivo ```user.controller.ts```, que define o Controlador para essa entidade, que nada mais é que uma classe mapeando as requisições relacionadas à entidade de usuários.
 
-![test](../assets/grasps/controller_code.png)
+![Controller Code](../assets/grasps/controller_code.png)
 <figcaption>Imagem 2: Trecho do código do Controlador da entidade de Usuários.</figcaption>
 
 O arquivo ```user.controller.ts``` implementa a classe ```UserController```, que é justamente o Controlador da entidade de usuários. Esta classe possui funções nas quais mapeiam as requisições disponíveis para esta entidade, como é o caso da função ```findAll()```, que é mapeada para ser a requisição com o método ```GET```, que chama o serviço responsável por encontrar e devolver todos os usuários cadastrados dentro do sistema.
