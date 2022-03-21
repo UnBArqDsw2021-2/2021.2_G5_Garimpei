@@ -71,6 +71,7 @@ nav:
           - State: entrega_III/gofs/state.md
           - Iterator: entrega_III/gofs/iterator.md
           - Chain Of Responsibility: entrega_III/gofs/chain_of_responsibility.md
+          - Decorator: entrega_III/gofs/decorator.md
       - Iniciativas extras:
           - Guia de contribuição: entrega_III/extras/contribuicao.md
           - Dojos: entrega_III/extras/dojos.md
