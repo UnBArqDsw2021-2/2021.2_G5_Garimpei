@@ -79,7 +79,8 @@ nav:
               - Decorator: entrega_III/gofs/estruturais/decorator.md
               - Composite: entrega_III/gofs/estruturais/composite.md
       - Iniciativas extras:
-          - Guia de contribuição: entrega_III/extras/contribuicao.md
+          - Padrões Emergentes: entrega_III/extras/padroes_emergentes.md
+          - Guia de Contribuição: entrega_III/extras/contribuicao.md
           - Dojos: entrega_III/extras/dojos.md
   - Apresentações: apresentacoes/index.md
 dev_addr: "0.0.0.0:8000"
