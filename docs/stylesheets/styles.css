@@ -67,3 +67,8 @@ img[alt="meeting"] {
   width: 10rem;
   object-fit: cover;
 }
+
+img[alt="folder"] {
+  width: 15rem;
+  object-fit: cover;
+}

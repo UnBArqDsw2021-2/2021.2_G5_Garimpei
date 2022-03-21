@@ -67,6 +67,7 @@ nav:
               - 09/02 - Reunião de Planning: entrega_II/extras/atas/ata_0902.md
               - 17/02 - Reunião de Feedback: entrega_II/extras/atas/ata_1702.md
   - Desenho de Software (Padrões de Projeto):
+      - GRASPs: entrega_III/grasps/index.md
       - GoFs:
           - Criacionais:
               - Singleton: entrega_III/gofs/criacionais/singleton.md
