@@ -6,7 +6,8 @@
  
 | Versão | Data       | Descrição            | Autor        |
 | ------ | ---------- | -------------------- | ------------ |
-| 0.1    | 19/03/2022 | Criação do documento | Matheus Afonso |
+| 0.1    | 20/03/2022 | Criação do documento | Matheus Afonso |
+| 0.2    | 20/03/2022 | Revisão do documento | Vinicius Saturnino |
  
 </center>
  
