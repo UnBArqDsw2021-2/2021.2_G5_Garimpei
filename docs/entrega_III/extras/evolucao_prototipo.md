@@ -24,7 +24,7 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 
 ### 3.2 Versão 2.0
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/file/VzVDmqSdt512pV7V7kYvVS/Prot%C3%B3tipo-Alta-Fidelidade---Garimpei-(Copy)?node-id=0%3A1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVzVDmqSdt512pV7V7kYvVS%2FProt%25C3%25B3tipo-Alta-Fidelidade---Garimpei-(Copy)%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 **Autores:** [Vinicius Saturnino](https://github.com/viniciussaturnino), [Juliana Pereira](https://github.com/julianavalle).
 
@@ -33,12 +33,12 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 Os protótipos de alta fidelidade abrangem não apenas a interface da pessoa usuária (UI) do produto em termos visuais e estéticos, mas também os aspectos da experiência do(a) usuário(a) (UX) em termos de interações, fluxo e comportamento (medium). Durante o desenvolvimento, encontramos um erro no fluxo nas páginas de gerenciamento da comunidade e alteramos para esse gerenciamento ser feito pelo próprio perfil do administrador.
 
 <center>
-![Protótipo v1](../../assets/prototipo/prototipov1.png)
+![Protótipo v1](../../assets/prototipo/prototipov1.jpeg)
 <figcaption>Imagem 1: PrintScreen da versão 1.0 do protótipo</figcaption>
 </center>
 
 <center>
-![Protótipo v1](../../assets/prototipo/prototipov1.png)
+![Protótipo v1](../../assets/prototipo/prototipov1.jpeg)
 <figcaption>Imagem 2: PrintScreen da versão 2.0 do protótipo</figcaption>
 </center>
 
