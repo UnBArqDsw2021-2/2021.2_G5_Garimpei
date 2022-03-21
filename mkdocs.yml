@@ -84,5 +84,6 @@ nav:
           - Padrões Emergentes: entrega_III/extras/padroes_emergentes.md
           - Guia de Contribuição: entrega_III/extras/contribuicao.md
           - Dojos: entrega_III/extras/dojos.md
+          - Protótipo de Alta Fidelidade: entrega_III/extras/evolucao_prototipo.md
   - Apresentações: apresentacoes/index.md
 dev_addr: "0.0.0.0:8000"
