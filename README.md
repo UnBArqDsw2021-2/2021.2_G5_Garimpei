@@ -119,11 +119,43 @@ Adicione o(s)s vídeo(s) da Segunda Entrega.
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
+![Screenshot do GRASP controlador](docs/entrega_III/assets/screenshots/screenshot_grasp.png)
+![Screenshot do GOF iterator](docs/entrega_III/assets/screenshots/screenshot_gof.png)
+![Screenshot do padrão emergente](docs/entrega_III/assets/screenshots/screenshot_padrao_emergente.png)
 
 ## Vídeo(s) Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 
 Adicione o(s)s vídeo(s) da Terceira Entrega.
+
+### GRASPs
+
+<center>
+
+[![Garimpei](https://img.youtube.com/vi/B3OCGmqmPqE/0.jpg)](https://www.youtube.com/watch?v=B3OCGmqmPqE)
+<br />
+[Link do vídeo](https://www.youtube.com/watch?v=B3OCGmqmPqE)
+
+</center>
+
+### GOFs
+
+<center>
+
+[![Garimpei](https://img.youtube.com/vi/sTIVPrkttlM/0.jpg)](https://www.youtube.com/watch?v=sTIVPrkttlM)
+<br />
+[Link do vídeo](https://www.youtube.com/watch?v=sTIVPrkttlM)
+
+</center>
+
+### Padrões Emergentes
+
+<center>
+
+[![Garimpei](https://img.youtube.com/vi/Tlz20rllSvY/0.jpg)](https://www.youtube.com/watch?v=Tlz20rllSvY)
+<br />
+[Link do vídeo](https://www.youtube.com/watch?v=Tlz20rllSvY)
+
+</center>
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 

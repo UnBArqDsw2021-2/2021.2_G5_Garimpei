@@ -67,3 +67,29 @@
 <iframe width="854" height="480" src="https://www.youtube.com/embed/65TqEnFsJbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
+
+## 3. Desenho de Software (Padrões de Projeto)
+
+### 3.1 GRASPs
+
+<center>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/B3OCGmqmPqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+### 3.2 GOFs
+
+<center>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/sTIVPrkttlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+### 3.3 Padrões Emergentes
+
+<center>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/Tlz20rllSvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
