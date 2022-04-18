@@ -81,7 +81,22 @@
 
 </center>
 
+### 4.4. UC04 - Criar anúncio
+<center>
+![gerenciar-conta](../../assets/anuncio.png)
+<figcaption>Imagem 4: Imagem que contém caso de uso UC04.</figcaption>
+</center>
 
+<center>
+
+| **UC04** | **Informações** |
+| --- | --- |
+| Ator | Usuário (Pessoa que interage com sistema Garimpei) |
+| Pré-condições | Estar logado (Caso de uso UC01) |
+| Descrição | Este presente caso de uso visa contemplar as atividades relacionadas à criação de anúncios e suas atividades relacionadas. Dessa forma, estão representadas atividades como: cadastrar anúncio, editar anúncio, responder perguntas de seus anúncios, excluir anúncio... Entre outros|
+| Rastrabilidade | Requisitos Funcionais 12, 13, 14, 15, 17, 18, 20 e 23 do [Documento de Priorização](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/entrega_I/projeto_nao_orientado_a_abordagens_especificas/priorizacao/)|
+
+</center>
 
 ## 6. Visão Lógica
 
