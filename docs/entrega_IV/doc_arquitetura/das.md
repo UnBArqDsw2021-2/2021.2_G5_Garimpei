@@ -7,7 +7,7 @@
 | Versão | Data       | Descrição                   | Autor         |
 | ------ | ---------- | --------------------------- | ------------- |
 | 0.1    | 17/04/2022 | Criação do documento        | Daniel Barcelos e Matheus Afonso  |
-| 0.2    | 17/04/2022 | Criação da visão de casos de usos | Denys Rógeres e Victor Jorge  |
+| 0.2    | 17/04/2022 | Criação da visão de casos de usos | Denys Rógeres e Victor Gonçalves  |
 
 </center>
 
@@ -42,10 +42,28 @@
 | --- | --- |
 | Ator | Usuário (Pessoa que interage com sistema Garimpei) |
 | Pré-condições | Não se aplica |
-| Descrição | Este presente caso de uso visa contemplar as atividades relacionadas à gerência da conta do usuário. Dessa forma, está descrito atividades que vão desde o cadastro do usuário, acessar ou editar seu perfil... Entre outras atividades.|
-| Rastrabilidade | Requisitos Funcionais 1, 2, 3, 4, 5, 6, 7, 8 do [Documento de Priorização](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/entrega_I/projeto_nao_orientado_a_abordagens_especificas/priorizacao/)|
+| Descrição | Este presente caso de uso visa contemplar as atividades relacionadas à gerência da conta do usuário. Dessa forma, estão descritas as atividades que vão desde o cadastro do usuário, acessar ou editar seu perfil... Entre outras atividades.|
+| Rastrabilidade | Requisitos Funcionais 1, 2, 3, 4, 5, 6 e 7 do [Documento de Priorização](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/entrega_I/projeto_nao_orientado_a_abordagens_especificas/priorizacao/)|
 
 </center>
+
+### 4.2. UC02 - Realizar pedido
+<center>
+![gerenciar-conta](../../assets/pedido.png)
+<figcaption>Imagem 2: Imagem que contém caso de uso UC02.</figcaption>
+</center>
+
+<center>
+
+| **UC02** | **Informações** |
+| --- | --- |
+| Ator | Usuário (Pessoa que interage com sistema Garimpei) |
+| Pré-condições | Estar logado (Caso de uso UC01) |
+| Descrição | Este presente caso de uso visa contemplar as atividades relacionadas à realização de pedidos e suas atividades relacionadas. Dessa forma, estão representadas atividades como, busca de produto, visualizar anúncio, realizar pergunta em anúncios, favoritar anúncio... Entre outros|
+| Rastrabilidade | Requisitos Funcionais 9, 10, 11, 16, 19, 21, 22, 23, 24 e 26 do [Documento de Priorização](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/entrega_I/projeto_nao_orientado_a_abordagens_especificas/priorizacao/)|
+
+</center>
+
 ## 6. Visão Lógica
 
 ## 7. Visão de Processos
