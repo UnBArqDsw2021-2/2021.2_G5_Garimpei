@@ -16,6 +16,8 @@
 | 0.8    | 18/04/2022 | Inserção da visão de implementação, tamanho, desempenho e qualidade | Daniel Barcelos, Thiago Mesquita e Mateus Gomes|
 | 0.9    | 18/04/2022 | Adição da representação arquitetural do Front-End | Juliana Pereira e Paulo Victor  |
 | 0.10    | 18/04/2022 | Adição da introdução, finalidade e visão geral | Juliana Pereira e Denys Rógeres  |
+| 0.11    | 18/04/2022 | Adição das metas, representação arquitetural de banco de dados e finalização da introdução| Juliana Pereira e Vinícius Saturnino  |
+
 
 </center>
 
@@ -26,9 +28,15 @@ Este documento é um documento de arquitetura (DAS) e possui o objetivo de descr
 Este documento tem como finalidade fornecer uma visão arquitetural abrangente do sistema Garimpei, por meio de diversas visões arquiteturais para representar diferentes aspectos da aplicação. Com o propósito de demonstrar as decisões arquiteturais tomadas no desenvolvimento do Garimpei.
 
 ### 2.2 Escopo
+Esse documento se aplica ao sistema de vendas de itens por comunidades e compra por usuários **Garimpei**. Nesse documento estão contemplados os padrões de software, componentes de software, plataformas e frameworks de desenvolvimento, casos de uso e serviços de persistência de dados.
+
+Ademais, este documento também visa direcionar a parte técnica envolvida nas equipes de desenvolvimento do projeto, oferecendo diretrizes quanto às tecnologias utilizadas nesse projeto, assim como seu padrão de utilização.
 
 ### 2.3 Definições, Acrônimos e Abreviações
-
+| Abreviação  | Acrônimo |Definição|
+|-------------|----------|---------|
+|API|Application Program Interface (Interface de Programação de Aplicações)|API é uma interface de programação de aplicações.|
+|WEB|World Wide Web|A World Wide Web designa um sistema de documentos em hipermídia que são interligados e executados na Internet.|
 
 ### 2.4 Visão geral
 Este documento visa detalhar as soluções arquiteturais desenvolvidas no sistema. Deste modo, neste documento serão abordados os seguintes aspectos:
@@ -56,7 +64,7 @@ O **Next.js** é um framework para React. O NextJS habilita recursos como render
 
 - Um sistema de roteamento intuitivo baseado em página (com suporte para rotas dinâmicas);
 
-- Pré-renderização , geração estática (SSG) e renderização do lado do servidor (SSR) são suportadas por página;
+- Pré-renderização, geração estática e renderização do lado do servidor são suportadas por página;
 
 - Divisão automática de código para carregamentos de página mais rápidos
 Roteamento do lado do cliente com pré-busca otimizada;
@@ -66,12 +74,23 @@ Roteamento do lado do cliente com pré-busca otimizada;
 - Ambiente de desenvolvimento com suporte para atualização rápida;
 
 - Rotas de API para criar endpoints de API com funções sem servidor;
+
 - Totalmente extensível" [(NextJS)](https://nextjs.org/learn/basics/create-nextjs-app).
 
 O "**Chakra UI** é uma biblioteca de componentes simples, modular e acessível que fornece os blocos de construção necessários para construir seus aplicativos React" [(Chakra UI)](https://chakra-ui.com/).
 
+### 3.3 Banco de Dados
+O "**PostgreSQL** é um sistema de banco de dados relacional de objeto de código aberto com mais de 30 anos de desenvolvimento ativo que lhe rendeu uma forte reputação de confiabilidade, robustez de recursos e desempenho" [(PostgreSQL)](https://www.postgresql.org/). O banco é divido em schemas, cada microserviço irá interagir com um único esquema, o que contribui para a independência dos microserviços e a diminuição do acoplamento.
+
 
 ## 4. Metas e Restrições da Arquitetura
+A tomada de decisão pela arquitetura de pequena escala (software), foi tomada a partir da Engenharia de Requisitos conciliado com o levantamento de restrições para o desenvolvimento do software e o usuário de destino. Entretanto, existem restrições no funcionamento do software, restrições de design, operacionais e de compatibilidade. Sendo assim, para melhor atender os requisitos definidos e utilizar das melhores tecnologias disponíveis, foram selecionadas as metas e restrições de arquitetura.
+
+### 4.1 Metas
+A usabilidade da aplicação website, podendo ser acessada pelos navegadores modernos, terá interface de um dashboad para fácil entendimento de suas informações em dados visuais intuitivos. Por tanto, a eficiência do site será conceder os dados e suas informações de forma clara e rápida ao usuário, para que assim possa comprar e buscar os itens de forma imediata. Além disso, fazer com que a comunidade cumpra o objetivo de vender itens e operar suas informações de forma clara e simples, tendo como meta uma aplicação eficiente. A manutenibilidade do software será a capacidade de ser modificado para adequa-se a novos requisitos solicitados, para melhorias de funcionalidades ou incrementos de novas funções. Para a execução de suas funções de forma eficiente, as funcionalidades devem ser submetidas a testes, para verificação e validação do seu comportamento e assim possuir um produto de software eficiente e com qualidade.
+
+### 4.2 Restrições
+As restrições de design estão relacionadas às ferramentas e tecnologias escolhidas para para o desenvolvimento do software. A elaboração do projeto, website, utilizando TypeScript, NextJS, ChakraUI, NextJS, FastAPI, Docker e PostgreSQL. Existem restrições referentes ao idioma, uma vez que a aplicação tem idioma somente para o português do Brasil. Além disso, há a restrição de conexão por ser necessário estabelecer conexão com internet para utilização do Garimpei. Também há a restrição de público, no qual sistema deve ser desenvolvido para comunidades brasileiras que querem vender itens de brechó/bazar e consumidores que desejam comprar esses itens.
 
 ## 5. Visão de Casos de Uso
 &emsp;&emsp;Com o intuito de realizar uma representação mais próxima do usuário, a **visão de casos de uso** retrata as interações dos atores descrevendo os diversos cenários de uso da aplicação. Para uma melhor compreensão do sistema, dividimos em quatro casos de uso que contemplam os requisitos elicitados para o desenvolvimento do sistema.
