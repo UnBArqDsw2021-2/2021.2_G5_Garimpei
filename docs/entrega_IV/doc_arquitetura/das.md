@@ -254,7 +254,7 @@ A tomada de decisão pela arquitetura de pequena escala (software), foi tomada a
 </center>
 
 ## 8. Visão de Implantação
-&emsp;&emsp;Garimpei é uma aplicação web que segue um modelo de camadas. Possui a camada do frontend, uma gateway, e o banco de dados. A camada de frontend realiza requisições para a gateway, que, por sua vez, encaminha a requisição para o backend que interage com o banco de dados e retorna a resposta à gateway, que encaminha novamente para o frontend que organiza como essa resposta será visualizada pelo usuário.
+&emsp;&emsp;Garimpei é uma aplicação web que segue um modelo de camadas. Possui a camada do frontend, uma gateway, backend e o banco de dados. A camada de frontend realiza requisições para a gateway, que, por sua vez, encaminha a requisição para o backend que interage com o banco de dados e retorna a resposta à gateway, que encaminha novamente para o frontend que organiza como essa resposta será visualizada pelo usuário.
 <center>
 ![Visão de Implantação](../assets/VisaoImplantaçao.png)
 <figcaption>Imagem 15: Visão de Implantação</figcaption>
