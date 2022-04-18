@@ -15,18 +15,32 @@
 | 0.7    | 18/04/2022 | Adição da representação arquitetural do Back-End | Juliana Pereira e Matheus Afonso  |
 | 0.8    | 18/04/2022 | Inserção da visão de implementação, tamanho, desempenho e qualidade | Daniel Barcelos, Thiago Mesquita e Mateus Gomes|
 | 0.9    | 18/04/2022 | Adição da representação arquitetural do Front-End | Juliana Pereira e Paulo Victor  |
+| 0.10    | 18/04/2022 | Adição da introdução, finalidade e visão geral | Juliana Pereira e Denys Rógeres  |
 
 </center>
 
 ## 2. Introdução
+Este documento é um documento de arquitetura (DAS) e possui o objetivo de descrever a arquitetura da solução de software **Garimpei**. Este sistema busca auxiliar comunidades que desejam abrir um bazar/brechó, com artigos que são doados ou mesmo confeccionados por membros da comunidade.
 
 ### 2.1 Finalidade
+Este documento tem como finalidade fornecer uma visão arquitetural abrangente do sistema Garimpei, por meio de diversas visões arquiteturais para representar diferentes aspectos da aplicação. Com o propósito de demonstrar as decisões arquiteturais tomadas no desenvolvimento do Garimpei.
 
 ### 2.2 Escopo
 
 ### 2.3 Definições, Acrônimos e Abreviações
 
+
 ### 2.4 Visão geral
+Este documento visa detalhar as soluções arquiteturais desenvolvidas no sistema. Deste modo, neste documento serão abordados os seguintes aspectos:
+
+- Representação Arquitetural
+- Restrições e Metas Arquiteturais
+- Visão de Casos de Uso
+- Visão Lógica
+- Visão de Implantação
+- Visão de Implementação
+- Tamanho e Desempenho
+- Qualidade
 
 ## 3. Representação Arquitetural
 
