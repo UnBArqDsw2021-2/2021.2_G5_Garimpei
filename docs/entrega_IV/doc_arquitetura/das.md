@@ -11,6 +11,7 @@
 | 0.3    | 17/04/2022 | Escrita da visão de casos de usos | Denys Rógeres e Victor Gonçalves  |
 | 0.4    | 18/04/2022 | Escrita da visão de processos| Thiago Mesquita e Vinícius Saturnino  |
 | 0.5    | 18/04/2022 | Inserção da visão lógica | Daniel Barcelos e Paulo Victor  |
+| 0.6    | 18/04/2022 | Inserção da visão lógica | Thiago Mesquita e Mateus Gomes  |
 
 </center>
 
@@ -188,6 +189,12 @@
 
 
 ## 8. Visão de Implantação
+&emsp;&emsp;Garimpei é uma aplicação web que segue um modelo de camadas. Possui a camada do frontend, uma gateway, e o banco de dados. A camada de frontend realiza requisições para a gateway, que, por sua vez, encaminha a requisição para o backend que interage com o banco de dados e retorna a resposta à gateway, que encaminha novamente para o frontend que organiza como essa resposta será visualizada pelo usuário.
+<center>
+![Visão de Implantação](../assets/VisaoImplantaçao.png)
+<figcaption>Imagem 1: Visão de Implantação</figcaption>
+<figcaption>Autor: Thiago Mesquita</figcaption>
+</center>
 
 ## 9. Visão de Implementação
 
