@@ -59,10 +59,29 @@
 | --- | --- |
 | Ator | Usuário (Pessoa que interage com sistema Garimpei) |
 | Pré-condições | Estar logado (Caso de uso UC01) |
-| Descrição | Este presente caso de uso visa contemplar as atividades relacionadas à realização de pedidos e suas atividades relacionadas. Dessa forma, estão representadas atividades como, busca de produto, visualizar anúncio, realizar pergunta em anúncios, favoritar anúncio... Entre outros|
+| Descrição | Este presente caso de uso visa contemplar as atividades relacionadas à realização de pedidos e suas atividades relacionadas. Dessa forma, estão representadas atividades como: busca de produto, visualizar anúncio, realizar pergunta em anúncios, favoritar anúncio... Entre outros|
 | Rastrabilidade | Requisitos Funcionais 9, 10, 11, 16, 19, 21, 22, 23, 24 e 26 do [Documento de Priorização](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/entrega_I/projeto_nao_orientado_a_abordagens_especificas/priorizacao/)|
 
 </center>
+
+### 4.3. UC03 - Criar comunidade
+<center>
+![gerenciar-conta](../../assets/comunidade.png)
+<figcaption>Imagem 3: Imagem que contém caso de uso UC03.</figcaption>
+</center>
+
+<center>
+
+| **UC03** | **Informações** |
+| --- | --- |
+| Ator | Usuário (Pessoa que interage com sistema Garimpei) |
+| Pré-condições | Estar logado (Caso de uso UC01) |
+| Descrição | Este presente caso de uso visa contemplar as atividades relacionadas à criação de comunidade e suas atividades relacionadas. Dessa forma, estão representadas atividades como: cadastrar comunidade, alterar informações da comunidade, cadastrar pessoas em uma comunidade... Entre outros|
+| Rastrabilidade | Requisitos Funcionais 25, 27, 28, 29, 30, 31 e 32 do [Documento de Priorização](https://unbarqdsw2021-2.github.io/2021.2_G5_Garimpei/entrega_I/projeto_nao_orientado_a_abordagens_especificas/priorizacao/)|
+
+</center>
+
+
 
 ## 6. Visão Lógica
 
