@@ -87,5 +87,6 @@ nav:
           - Protótipo de Alta Fidelidade: entrega_III/extras/evolucao_prototipo.md
   - Arquitetura de Software e Reutilização:
      - Documento de Arquitetura de Software: entrega_IV/doc_arquitetura/das.md
+     - Reutilização de Software: entrega_IV/doc_reutilizacao/reutilizacao.md
   - Apresentações: apresentacoes/index.md
 dev_addr: "0.0.0.0:8000"
