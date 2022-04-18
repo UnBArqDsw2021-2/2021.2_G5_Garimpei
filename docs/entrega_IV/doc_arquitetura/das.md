@@ -87,10 +87,10 @@ O "**PostgreSQL** é um sistema de banco de dados relacional de objeto de códig
 
 
 ## 4. Metas e Restrições da Arquitetura
-A tomada de decisão pela arquitetura de pequena escala (software), foi tomada a partir da Engenharia de Requisitos conciliado com o levantamento de restrições para o desenvolvimento do software e o usuário de destino. Entretanto, existem restrições no funcionamento do software, restrições de design, operacionais e de compatibilidade. Sendo assim, para melhor atender os requisitos definidos e utilizar das melhores tecnologias disponíveis, foram selecionadas as metas e restrições de arquitetura.
+A tomada de decisão pela arquitetura de pequena escala (software), foi tomada a partir da Engenharia de Requisitos conciliado com o levantamento de restrições para o desenvolvimento do software e o usuário de destino. Entretanto, existem restrições no funcionamento do software, restrições de design, conexão, e público. Sendo assim, para melhor atender os requisitos definidos e utilizar das melhores tecnologias disponíveis, foram selecionadas as metas e restrições de arquitetura.
 
 ### 4.1 Metas
-&emsp;&emsp;A usabilidade da aplicação website, podendo ser acessada pelos navegadores modernos, terá interface de um dashboad para fácil entendimento de suas informações em dados visuais intuitivos. Por tanto, a eficiência do site será conceder os dados e suas informações de forma clara e rápida ao usuário, para que assim possa comprar e buscar os itens de forma imediata. 
+&emsp;&emsp;A usabilidade da aplicação website, podendo ser acessada pelos navegadores modernos, terá interface de um dashboad para fácil entendimento de suas informações em dados visuais intuitivos. Por tanto, a eficiência do site será conceder os dados e suas informações de forma clara e rápida ao usuário, para que assim possa buscar e efetuar compra de itens de forma imediata. 
 
 &emsp;&emsp;Além disso, fazer com que a comunidade cumpra o objetivo de vender itens e operar suas informações de forma clara e simples, tendo como meta uma aplicação eficiente. A manutenibilidade do software será a capacidade de ser modificado para adequa-se a novos requisitos solicitados, para melhorias de funcionalidades ou incrementos de novas funções. Para a execução de suas funções de forma eficiente, as funcionalidades devem ser submetidas a testes, para verificação e validação do seu comportamento e assim possuir um produto de software eficiente e com qualidade.
 
