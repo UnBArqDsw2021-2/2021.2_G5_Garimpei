@@ -58,4 +58,5 @@ Os componentes no React tem o intuito de realizar uma divisão da interface em p
 ## 5. Bibliografia
 
 [1] CimpleO. NestJS modules Design. Disponível em https://cimpleo.com/blog/nestjs-modules-design/. Último acesso em 18/04/2022
+
 [2] DEVMEDIA. Reutilização de Software - Revista Engenharia de Software Magazine 39. Disponível em: https://www.devmedia.com.br/reutilizacao-de-software-revista-engenharia-de-software-magazine-39/21956. Acesso em: 17 de outubro. 2022.
