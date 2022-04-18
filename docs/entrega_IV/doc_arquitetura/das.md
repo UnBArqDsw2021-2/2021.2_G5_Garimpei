@@ -17,6 +17,8 @@
 | 0.9    | 18/04/2022 | Adição da representação arquitetural do Front-End | Juliana Pereira e Paulo Victor  |
 | 0.10    | 18/04/2022 | Adição da introdução, finalidade e visão geral | Juliana Pereira e Denys Rógeres  |
 | 0.11    | 18/04/2022 | Adição das metas, representação arquitetural de banco de dados e finalização da introdução| Juliana Pereira e Vinícius Saturnino  |
+| 0.12    | 18/04/2022 | Adicionando referências | Juliana Pereira e Vinícius Saturnino  |
+
 
 
 </center>
@@ -28,9 +30,9 @@ Este documento é um documento de arquitetura (DAS) e possui o objetivo de descr
 Este documento tem como finalidade fornecer uma visão arquitetural abrangente do sistema Garimpei, por meio de diversas visões arquiteturais para representar diferentes aspectos da aplicação. Com o propósito de demonstrar as decisões arquiteturais tomadas no desenvolvimento do Garimpei.
 
 ### 2.2 Escopo
-Esse documento se aplica ao sistema de vendas de itens por comunidades e compra por usuários **Garimpei**. Nesse documento estão contemplados os padrões de software, componentes de software, plataformas e frameworks de desenvolvimento, casos de uso e serviços de persistência de dados.
+&emsp;&emsp;Esse documento se aplica ao sistema de vendas de itens por comunidades e compra por usuários **Garimpei**. Nesse documento estão contemplados os padrões de software, componentes de software, plataformas e frameworks de desenvolvimento, casos de uso e serviços de persistência de dados.
 
-Ademais, este documento também visa direcionar a parte técnica envolvida nas equipes de desenvolvimento do projeto, oferecendo diretrizes quanto às tecnologias utilizadas nesse projeto, assim como seu padrão de utilização.
+&emsp;&emsp;Ademais, este documento também visa direcionar a parte técnica envolvida nas equipes de desenvolvimento do projeto, oferecendo diretrizes quanto às tecnologias utilizadas nesse projeto, assim como seu padrão de utilização.
 
 ### 2.3 Definições, Acrônimos e Abreviações
 | Abreviação  | Acrônimo |Definição|
@@ -39,16 +41,17 @@ Ademais, este documento também visa direcionar a parte técnica envolvida nas e
 |WEB|World Wide Web|A World Wide Web designa um sistema de documentos em hipermídia que são interligados e executados na Internet.|
 
 ### 2.4 Visão geral
-Este documento visa detalhar as soluções arquiteturais desenvolvidas no sistema. Deste modo, neste documento serão abordados os seguintes aspectos:
+&emsp;&emsp;Este documento visa detalhar as soluções arquiteturais desenvolvidas no sistema. Deste modo, neste documento serão abordados os seguintes aspectos:
 
-- Representação Arquitetural
-- Restrições e Metas Arquiteturais
-- Visão de Casos de Uso
-- Visão Lógica
-- Visão de Implantação
-- Visão de Implementação
-- Tamanho e Desempenho
-- Qualidade
+- [Representação Arquitetural](#3-representacao-arquitetural)
+- [Metas e Restrições da Arquitetura](#4-metas-e-restricoes-da-arquitetural)
+- [Visão de Casos de Uso](#5-visao-de-casos-de-uso) 
+- [Visão Lógica](#6-visao-logica)  
+- [Visão de Processos](#7-visao-de-processos)  
+- [Visão de Implantação](#8-visao-de-implantacao)
+- [Visão de Implementação](#9-visao-de-implementacao)
+- [Tamanho e Desempenho](#10-tamanho-e-desempenho)
+- [Qualidade](#11-qualidade)
 
 ## 3. Representação Arquitetural
 
@@ -87,10 +90,14 @@ O "**PostgreSQL** é um sistema de banco de dados relacional de objeto de códig
 A tomada de decisão pela arquitetura de pequena escala (software), foi tomada a partir da Engenharia de Requisitos conciliado com o levantamento de restrições para o desenvolvimento do software e o usuário de destino. Entretanto, existem restrições no funcionamento do software, restrições de design, operacionais e de compatibilidade. Sendo assim, para melhor atender os requisitos definidos e utilizar das melhores tecnologias disponíveis, foram selecionadas as metas e restrições de arquitetura.
 
 ### 4.1 Metas
-A usabilidade da aplicação website, podendo ser acessada pelos navegadores modernos, terá interface de um dashboad para fácil entendimento de suas informações em dados visuais intuitivos. Por tanto, a eficiência do site será conceder os dados e suas informações de forma clara e rápida ao usuário, para que assim possa comprar e buscar os itens de forma imediata. Além disso, fazer com que a comunidade cumpra o objetivo de vender itens e operar suas informações de forma clara e simples, tendo como meta uma aplicação eficiente. A manutenibilidade do software será a capacidade de ser modificado para adequa-se a novos requisitos solicitados, para melhorias de funcionalidades ou incrementos de novas funções. Para a execução de suas funções de forma eficiente, as funcionalidades devem ser submetidas a testes, para verificação e validação do seu comportamento e assim possuir um produto de software eficiente e com qualidade.
+&emsp;&emsp;A usabilidade da aplicação website, podendo ser acessada pelos navegadores modernos, terá interface de um dashboad para fácil entendimento de suas informações em dados visuais intuitivos. Por tanto, a eficiência do site será conceder os dados e suas informações de forma clara e rápida ao usuário, para que assim possa comprar e buscar os itens de forma imediata. 
+
+&emsp;&emsp;Além disso, fazer com que a comunidade cumpra o objetivo de vender itens e operar suas informações de forma clara e simples, tendo como meta uma aplicação eficiente. A manutenibilidade do software será a capacidade de ser modificado para adequa-se a novos requisitos solicitados, para melhorias de funcionalidades ou incrementos de novas funções. Para a execução de suas funções de forma eficiente, as funcionalidades devem ser submetidas a testes, para verificação e validação do seu comportamento e assim possuir um produto de software eficiente e com qualidade.
 
 ### 4.2 Restrições
-As restrições de design estão relacionadas às ferramentas e tecnologias escolhidas para para o desenvolvimento do software. A elaboração do projeto, website, utilizando TypeScript, NextJS, ChakraUI, NextJS, FastAPI, Docker e PostgreSQL. Existem restrições referentes ao idioma, uma vez que a aplicação tem idioma somente para o português do Brasil. Além disso, há a restrição de conexão por ser necessário estabelecer conexão com internet para utilização do Garimpei. Também há a restrição de público, no qual sistema deve ser desenvolvido para comunidades brasileiras que querem vender itens de brechó/bazar e consumidores que desejam comprar esses itens.
+&emsp;&emsp;As restrições de design estão relacionadas às ferramentas e tecnologias escolhidas para para o desenvolvimento do software. A elaboração do projeto, website, utilizando TypeScript, NextJS, ChakraUI, NextJS, FastAPI, Docker e PostgreSQL. Existem restrições referentes ao idioma, uma vez que a aplicação tem idioma somente para o português do Brasil. 
+
+&emsp;&emsp;Além disso, há a restrição de conexão por ser necessário estabelecer conexão com internet para utilização do Garimpei. Também há a restrição de público, no qual sistema deve ser desenvolvido para comunidades brasileiras que querem vender itens de brechó/bazar e consumidores que desejam comprar esses itens.
 
 ## 5. Visão de Casos de Uso
 &emsp;&emsp;Com o intuito de realizar uma representação mais próxima do usuário, a **visão de casos de uso** retrata as interações dos atores descrevendo os diversos cenários de uso da aplicação. Para uma melhor compreensão do sistema, dividimos em quatro casos de uso que contemplam os requisitos elicitados para o desenvolvimento do sistema.
@@ -282,12 +289,29 @@ As restrições de design estão relacionadas às ferramentas e tecnologias esco
 |Portabilidade| A utilização do docker garante um ambiente estável de desenvolvimento e produção, além de fornecer uma fácil instalação de dependências, configuração e execução. |
 
 ## 12. Referências
-> [1] Diretriz: Visão Arquitetural. Disponível em: [https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html](https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html). Data de acesso: 18/04/2022
+> [1] Diretriz: Visão Arquitetural. Disponível em: [https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html](https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html). Data de acesso: 18/04/2022.
 
-> [2] Qualidade de Software - Engenharia de Software 29. Disponível em: [https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209). Data de acesso: 18/04/2022
+> [2] Qualidade de Software - Engenharia de Software 29. Disponível em: [https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209). Data de acesso: 18/04/2022.
 
 > [3] KOSCIANSKI, André; DOS SANTOS SOARES, Michel. Qualidade de Software-2ª Edição: Aprenda as metodologias e técnicas mais modernas para o desenvolvimento de software. Novatec Editora, 2007.
 
-> [4] Documento de Arquitetura de Software. Disponível em: [https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/guidelines/software_architecture_document_F4C93435.html](https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/guidelines/software_architecture_document_F4C93435.html). Data de acesso: 18/04/2022
+> [4] Documento de Arquitetura de Software. Disponível em: [https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/guidelines/software_architecture_document_F4C93435.html](https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/guidelines/software_architecture_document_F4C93435.html). Data de acesso: 18/04/2022.
 
-> [5] Diretriz: Visão Arquitetural. Disponível em: [https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html](https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html). Data de acesso: 18/04/2022
+> [5] Diretriz: Visão Arquitetural. Disponível em: [https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html](https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html). Data de acesso: 18/04/2022.
+
+> [6] Introduction. Disponível em: [https://docs.nestjs.com/](https://docs.nestjs.com/). Data de acesso: 18/04/2022.
+
+> [7] Create accessible React apps with speed. Disponível em: [https://chakra-ui.com/](https://chakra-ui.com/). Data de acesso: 18/04/2022.
+
+> [8] Create a Next.js App. Disponível em: [https://nextjs.org/learn/basics/create-nextjs-app](https://nextjs.org/learn/basics/create-nextjs-app). Data de acesso: 18/04/2022.
+
+> [9] Docker overview. Disponível em: [https://docs.docker.com/get-started/overview/](https://docs.docker.com/get-started/overview/). Data de acesso: 18/04/2022.
+
+> [10] FastAPI. Disponível em: [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/). Data de acesso: 18/04/2022.
+
+
+
+
+
+
+
