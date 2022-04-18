@@ -14,6 +14,7 @@
 | 0.6    | 18/04/2022 | Inserção da visão de implantação | Thiago Mesquita e Mateus Gomes  |
 | 0.7    | 18/04/2022 | Adição da representação arquitetural do Back-End | Juliana Pereira e Matheus Afonso  |
 | 0.8    | 18/04/2022 | Inserção da visão de implementação, tamanho, desempenho e qualidade | Daniel Barcelos, Thiago Mesquita e Mateus Gomes|
+| 0.9    | 18/04/2022 | Adição da representação arquitetural do Front-End | Juliana Pereira e Paulo Victor  |
 
 </center>
 
@@ -35,6 +36,26 @@ O "**Nest (NestJS)** é uma estrutura para criar aplicativos Node.js eficientes 
 O **FastAPI** é um framework Web para desenvolvimento de APIs RESTful em Python. FastAPI é baseado em Pydantic e dicas de tipo para validar, serializar e desserializar dados e gerar automaticamente documentos OpenAPI. Além disso, suporta programação assíncrona e suas principais caracteristicas são: "rápido, rápido para codificar, menos bugs, intuitivo, fácil, curto, robusto e baseado em padrões" [(FastAPI)](https://fastapi.tiangolo.com/).
 
 O **Docker** é uma plataforma aberta para desenvolvimento, envio e execução de aplicativos. O Docker permite que ocorra separação de aplicativos da infraestrutura para que possa ser entregue software rapidamente. Com o Docker, pode ser feito o gerenciamento da infraestrutura da mesma forma que o gerenciamento de aplicativos. "O Docker fornece a capacidade de empacotar e executar um aplicativo em um ambiente levemente isolado chamado contêiner. O isolamento e a segurança permitem que você execute vários contêineres simultaneamente em um determinado host. Os contêineres são leves e contêm tudo o que é necessário para executar o aplicativo, portanto, você não precisa depender do que está instalado no host. Você pode compartilhar contêineres facilmente enquanto trabalha e garantir que todos com quem você compartilha obtenham o mesmo contêiner que funciona da mesma maneira" [(Docker)](https://docs.docker.com/get-started/overview/).
+
+### 3.2 Front-End
+O **Next.js** é um framework para React. O NextJS habilita recursos como renderização do lado do servidor e geração de site estático para aplicativos da Web baseados em React. É uma estrutura pronta para produção que permite que os desenvolvedores criem rapidamente sites JAMstack estáticos e dinâmicos e é amplamente utilizada por muitas grandes empresas. "O Next.js visa ter a melhor experiência de desenvolvedor da categoria e muitos recursos integrados, como:
+
+- Um sistema de roteamento intuitivo baseado em página (com suporte para rotas dinâmicas);
+
+- Pré-renderização , geração estática (SSG) e renderização do lado do servidor (SSR) são suportadas por página;
+
+- Divisão automática de código para carregamentos de página mais rápidos
+Roteamento do lado do cliente com pré-busca otimizada;
+
+- Suporte integrado a CSS e Sass e suporte para qualquer biblioteca CSS-in-JS;
+
+- Ambiente de desenvolvimento com suporte para atualização rápida;
+
+- Rotas de API para criar endpoints de API com funções sem servidor;
+- Totalmente extensível" [(NextJS)](https://nextjs.org/learn/basics/create-nextjs-app).
+
+O "**Chakra UI** é uma biblioteca de componentes simples, modular e acessível que fornece os blocos de construção necessários para construir seus aplicativos React" [(Chakra UI)](https://chakra-ui.com/).
+
 
 ## 4. Metas e Restrições da Arquitetura
 
