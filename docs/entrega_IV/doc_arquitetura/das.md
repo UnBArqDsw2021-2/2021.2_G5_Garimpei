@@ -10,6 +10,7 @@
 | 0.2    | 17/04/2022 | Criação da visão de casos de usos | Denys Rógeres e Victor Gonçalves  |
 | 0.3    | 17/04/2022 | Escrita da visão de casos de usos | Denys Rógeres e Victor Gonçalves  |
 | 0.4    | 18/04/2022 | Escrita da visão de processos| Thiago Mesquita e Vinícius Saturnino  |
+| 0.5    | 18/04/2022 | Inserção da visão lógica | Daniel Barcelos e Paulo Victor  |
 
 </center>
 
@@ -102,6 +103,24 @@
 </center>
 
 ## 6. Visão Lógica
+
+&emsp;&emsp;A visão lógica descreve como o sistema é estruturado, em termos de unidades de implementação. Os elementos são pacotes, classes e interfaces. O relacionamento entre os elementos mostra as dependências, as realizações de interface, os relacionamentos parte-todo e assim por diante.
+
+### 6.1 Diagrama de Pacotes
+
+<center>
+![Diagrama de Pacotes](../../assets/package-diagrams/diagram1.png)
+<figcaption>Imagem 5: Diagrama de Pacotes.</figcaption>
+<figcaption>Autor: Thiago Mesquita</figcaption>
+</center>
+
+### 6.2 Diagrama de Classes
+
+<center>
+![Diagrama de Classes](../../assets/classes-diagrams/class_diagram.jpg)
+<figcaption>Imagem 6: Diagrama de Classes.</figcaption>
+<figcaption>Autores: Mateus Gomes e Matheus Afonso</figcaption>
+</center>
 
 ## 7. Visão de Processos
 &emsp;&emsp; A Visão de Processos descreve como o sistema de tempo-de-execução é estruturado na forma de um conjunto de elementos que têm interações e comportamento de tempo-de-execução. A estrutura de tempo-de-execução normalmente tem pouca semelhança com a estrutura de código. Consiste de redes de comutação rápida de objetos de comunicação.
