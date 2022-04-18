@@ -6,14 +6,16 @@
 
 | Versão | Data       | Descrição                   | Autor         |
 | ------ | ---------- | --------------------------- | ------------- |
-| 0.1    | 17/04/2022 | Criação do documento        | Denys Rógeres e Paulo Victor  |
-| 0.2    | 17/04/2022 | Escrita reutilização de Software        | Denys Rógeres e Paulo Victor  |
+| 0.1    | 18/04/2022 | Criação do documento        | Denys Rógeres e Paulo Victor  |
+| 0.2    | 18/04/2022 | Escrita reutilização de Software        | Denys Rógeres e Paulo Victor  |
 | 0.3   | 18/04/2022 | Adição da seção sobre back-end | Victor Jorge, Matheus Afonso, Vinicius Saturnino, Thiago Mesquita, Mateus Gomes, Daniel Barcelos e Juliana Valle |
+| 0.4   | 18/04/2022 | Adição da seção de introdução| Victor Jorge, Matheus Afonso, Vinicius Saturnino, Thiago Mesquita, Mateus Gomes, Daniel Barcelos e Juliana Valle |
 
 </center>
 
 ## 2. Introdução
-
+A reutilização de software tem como objetivo abordar os conceitos que tange todo o tipo de reuso ou reaproveitamento de conceitos, produtos ou soluções previamente elaboradas ou adquiridas para a criação de novos. Tem o objetivo de prover formas para se aumentar a qualidade de produtos de softwares bem como a economia e a produtividade durante o processo de desenvolvimento.
+Dessa forma, este documento tem como objetivo elucidar e descrever algumas partes onde se pode observar a utilização da reutilização ao longo do projeto Garimpei.
 ## 3. Reutilização no Back-End
 
 ### NestJS
@@ -37,6 +39,11 @@ No contexto do projeto, a utilização do FastAPI se deve pela decisão arquitet
 
 Os componentes no React tem o intuito de realizar uma divisão da interface em pequenas partes independentes e reutilizáveis. Dessa forma, cada componente é tratado como um bloco individual e independente. Além disso, os componentes podem se referir a outros componentes em sua saída. Isso nos permite usar a mesma abstração de componente para qualquer nível de detalhe.
 
+<center>
+![Components](../../assets/components.png)
+</center>
+
 ## 5. Bibliografia
 
 [1] CimpleO. NestJS modules Design. Disponível em https://cimpleo.com/blog/nestjs-modules-design/. Último acesso em 18/04/2022
+[2] DEVMEDIA. Reutilização de Software - Revista Engenharia de Software Magazine 39. Disponível em: https://www.devmedia.com.br/reutilizacao-de-software-revista-engenharia-de-software-magazine-39/21956. Acesso em: 17 de outubro. 2022.
