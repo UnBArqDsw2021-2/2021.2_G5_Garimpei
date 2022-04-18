@@ -11,8 +11,9 @@
 | 0.3    | 17/04/2022 | Escrita da visão de casos de usos | Denys Rógeres e Victor Gonçalves  |
 | 0.4    | 18/04/2022 | Escrita da visão de processos| Thiago Mesquita e Vinícius Saturnino  |
 | 0.5    | 18/04/2022 | Inserção da visão lógica | Daniel Barcelos e Paulo Victor  |
-| 0.6    | 18/04/2022 | Inserção da visão lógica | Thiago Mesquita e Mateus Gomes  |
+| 0.6    | 18/04/2022 | Inserção da visão de implantação | Thiago Mesquita e Mateus Gomes  |
 | 0.7    | 18/04/2022 | Adição da representação arquitetural do Back-End | Juliana Pereira e Matheus Afonso  |
+| 0.8    | 18/04/2022 | Inserção da visão de implementação, tamanho, desempenho e qualidade | Daniel Barcelos, Thiago Mesquita e Mateus Gomes|
 
 </center>
 
@@ -24,10 +25,7 @@
 
 ### 2.3 Definições, Acrônimos e Abreviações
 
-### 2.4 Referências
-> [1] Diretriz: Visão Arquitetural. Disponível em: [https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html](https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html). Data de acesso: 18/04/2022
-
-### 2.5 Visão geral
+### 2.4 Visão geral
 
 ## 3. Representação Arquitetural
 
@@ -41,7 +39,7 @@ O **Docker** é uma plataforma aberta para desenvolvimento, envio e execução d
 ## 4. Metas e Restrições da Arquitetura
 
 ## 5. Visão de Casos de Uso
-&emsp;&emsp; Com o intuito de realizar uma representação mais próxima do usuário, a **visão de casos de uso** retrata as interações dos atores descrevendo os diversos cenários de uso da aplicação. Para uma melhor compreensão do sistema, dividimos em quatro casos de uso que contemplam os requisitos elicitados para o desenvolvimento do sistema.
+&emsp;&emsp;Com o intuito de realizar uma representação mais próxima do usuário, a **visão de casos de uso** retrata as interações dos atores descrevendo os diversos cenários de uso da aplicação. Para uma melhor compreensão do sistema, dividimos em quatro casos de uso que contemplam os requisitos elicitados para o desenvolvimento do sistema.
 
 ### 5.1. UC01 - Gerenciar conta
 <center>
@@ -132,14 +130,14 @@ O **Docker** é uma plataforma aberta para desenvolvimento, envio e execução d
 </center>
 
 ## 7. Visão de Processos
-&emsp;&emsp; A Visão de Processos descreve como o sistema de tempo-de-execução é estruturado na forma de um conjunto de elementos que têm interações e comportamento de tempo-de-execução. A estrutura de tempo-de-execução normalmente tem pouca semelhança com a estrutura de código. Consiste de redes de comutação rápida de objetos de comunicação.
+&emsp;&emsp;A Visão de Processos descreve como o sistema de tempo-de-execução é estruturado na forma de um conjunto de elementos que têm interações e comportamento de tempo-de-execução. A estrutura de tempo-de-execução normalmente tem pouca semelhança com a estrutura de código. Consiste de redes de comutação rápida de objetos de comunicação.
 
 ### 7.1 Diagrama de Comunicação
 
 <strong>Interação do Usuário</strong>
 <center>
 ![Interação do Usuário](../../entrega_II/assets/diagrama_de_comunicacao/communication_diagram_user.png)
-<figcaption>Imagem 1: Diagrama de comunicação - Usuário</figcaption>
+<figcaption>Imagem 7: Diagrama de comunicação - Usuário</figcaption>
 <figcaption>Autor: Denys Rógeres</figcaption>
 </center>
 
@@ -148,64 +146,94 @@ O **Docker** é uma plataforma aberta para desenvolvimento, envio e execução d
 <strong>Cadastro de Usuário</strong>
 <center>
 ![Cadastro de Usuário](../../entrega_II/assets/activity-diagrams/user_register.png)
-<figcaption>Imagem 1: Diagrama de atividades - Cadastro de Usuário.</figcaption>
+<figcaption>Imagem 8: Diagrama de atividades - Cadastro de Usuário.</figcaption>
 <figcaption>Autor: Thiago Mesquita</figcaption>
 </center>
 
 <strong>Adicionar Usuário à Comunidade</strong>
 <center>
 ![Adicionar Usuário à Comunidade](../../entrega_II/assets/activity-diagrams/add-to-community.png)
-<figcaption>Imagem 2: Diagrama de atividades - Adicionar Usuário à Comunidade.</figcaption>
+<figcaption>Imagem 9: Diagrama de atividades - Adicionar Usuário à Comunidade.</figcaption>
 <figcaption>Autor: Thiago Mesquita</figcaption>
 </center>
 
 <strong>Comprar Produto</strong>
 <center>
 ![Comprar Produto](../../entrega_II/assets/activity-diagrams/buy-item.png)
-<figcaption>Imagem 3: Diagrama de atividades - Comprar Produto.</figcaption>
+<figcaption>Imagem 10: Diagrama de atividades - Comprar Produto.</figcaption>
 <figcaption>Autor: Thiago Mesquita</figcaption>
 </center> 
 
 <strong>Denunciar Vendedor</strong>
 <center>
 ![Denunciar Vendedor](../../entrega_II/assets/activity-diagrams/report.png)
-<figcaption>Imagem 4: Diagrama de atividades - Denunciar Vendedor.</figcaption>
+<figcaption>Imagem 11: Diagrama de atividades - Denunciar Vendedor.</figcaption>
 <figcaption>Autor: Thiago Mesquita</figcaption>
 </center>
 
 <strong>Cadastro de Comunidade</strong>
 <center>
 ![Cadastro de Comunidade](../../entrega_II/assets/activity-diagrams/community_register.png)
-<figcaption>Imagem 5: Diagrama de atividades - Cadastro de Comunidade.</figcaption>
+<figcaption>Imagem 12: Diagrama de atividades - Cadastro de Comunidade.</figcaption>
 <figcaption>Autor: Daniel Barcelos</figcaption>
 </center>
 
 <strong>Anunciar Produto</strong>
 <center>
 ![Anunciar Produto](../../entrega_II/assets/activity-diagrams/product_announcement.png)
-<figcaption>Imagem 6: Diagrama de atividades - Anunciar Produto.</figcaption>
+<figcaption>Imagem 13: Diagrama de atividades - Anunciar Produto.</figcaption>
 <figcaption>Autor: Daniel Barcelos</figcaption>
 </center>
 
 <strong>Avaliar Vendedor</strong>
 <center>
 ![Avaliar Vendedor](../../entrega_II/assets/activity-diagrams/evaluate_seller.png)
-<figcaption>Imagem 7: Diagrama de atividades - Avaliar Vendedor.</figcaption>
+<figcaption>Imagem 14: Diagrama de atividades - Avaliar Vendedor.</figcaption>
 <figcaption>Autor: Daniel Barcelos</figcaption>
 </center>
-
-
 
 ## 8. Visão de Implantação
 &emsp;&emsp;Garimpei é uma aplicação web que segue um modelo de camadas. Possui a camada do frontend, uma gateway, e o banco de dados. A camada de frontend realiza requisições para a gateway, que, por sua vez, encaminha a requisição para o backend que interage com o banco de dados e retorna a resposta à gateway, que encaminha novamente para o frontend que organiza como essa resposta será visualizada pelo usuário.
 <center>
 ![Visão de Implantação](../assets/VisaoImplantaçao.png)
-<figcaption>Imagem 1: Visão de Implantação</figcaption>
+<figcaption>Imagem 15: Visão de Implantação</figcaption>
 <figcaption>Autor: Thiago Mesquita</figcaption>
 </center>
 
 ## 9. Visão de Implementação
 
+&emsp;&emsp;A visão de implementação descreve como os artefatos de desenvolvimento estão organizados no sistema de arquivos. Os elementos são arquivos e diretórios (quaisquer itens de configuração). Isto inclui os artefatos de desenvolvimento e os artefatos de implantação.
+
+<center>
+![Diagrama de Componentes](../../assets/component-diagram/diagrama-componentes.png)
+<figcaption>Imagem 16: Diagrama de Componentes Garimpei.</figcaption>
+<figcaption>Autores: Paulo Victor e Vinicius Saturnino</figcaption>
+</center>
+
 ## 10. Tamanho e Desempenho
 
+&emsp;&emsp;Considerando todos os repositórios do projeto, o somatório de todos é menor do que 1GB. Para acessar a aplicação, não é necessário a instalação de nenhum programa, apenas acesso a internet e um dispositivo mobile ou computador. Em relação ao desempenho da aplicação, a mesma possui uma otimização em relação as respostas de requisições, suporta usuários simultâneos e o carregamento das páginas ocorre em alguns milisegundos.
+
 ## 11. Qualidade
+
+&emsp;&emsp;Foi utilizada a norma ISO/IEC 9126, cujo objetivo é definir um conjunto de parâmetros que visam padronizar a avaliação da qualidade de software.
+
+| Critérios| Descrição|
+|-------|---------|
+|Funcionalidade| A aplicação foi construída segundo os requisitos que foram levantados no começo do projeto.|
+|Confiabilidade| O sistema possui tolerância a falhas e uma boa recuperabilidade, visto que o banco de dados dos microserviços possuem um backup automático.|
+|Usabilidade| O sistema possui uma interface simples, clara, intuitiva e foi construído com base no protótipo de alta fidelidade. Também segue um padrões de cores e fontes definidos no manual de identidade visual. |
+|Eficiência| A aplicação suporta usuários simultâneos e possui uma otimização em relação ao tempo de respostas de requisições.|
+|Manutenibilidade| Os padrões de projeto aplicados durante o desenvolvimento facilitam a identificação de defeitos, na correção e evolução do código. |
+|Portabilidade| A utilização do docker garante um ambiente estável de desenvolvimento e produção, além de fornecer uma fácil instalação de dependências, configuração e execução. |
+
+## 12. Referências
+> [1] Diretriz: Visão Arquitetural. Disponível em: [https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html](https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html). Data de acesso: 18/04/2022
+
+> [2] Qualidade de Software - Engenharia de Software 29. Disponível em: [https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209). Data de acesso: 18/04/2022
+
+> [3] KOSCIANSKI, André; DOS SANTOS SOARES, Michel. Qualidade de Software-2ª Edição: Aprenda as metodologias e técnicas mais modernas para o desenvolvimento de software. Novatec Editora, 2007.
+
+> [4] Documento de Arquitetura de Software. Disponível em: [https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/guidelines/software_architecture_document_F4C93435.html](https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/guidelines/software_architecture_document_F4C93435.html). Data de acesso: 18/04/2022
+
+> [5] Diretriz: Visão Arquitetural. Disponível em: [https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html](https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html). Data de acesso: 18/04/2022
