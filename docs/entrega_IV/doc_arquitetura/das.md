@@ -9,6 +9,7 @@
 | 0.1    | 17/04/2022 | Criação do documento        | Daniel Barcelos e Matheus Afonso  |
 | 0.2    | 17/04/2022 | Criação da visão de casos de usos | Denys Rógeres e Victor Gonçalves  |
 | 0.3    | 17/04/2022 | Escrita da visão de casos de usos | Denys Rógeres e Victor Gonçalves  |
+| 0.4    | 18/04/2022 | Escrita da visão de processos| Thiago Mesquita e Vinícius Saturnino  |
 
 </center>
 
@@ -21,6 +22,7 @@
 ### 2.3 Definições, Acrônimos e Abreviações
 
 ### 2.4 Referências
+> [1] Diretriz: Visão Arquitetural. Disponível em: [https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html](https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html). Data de acesso: 18/04/2022
 
 ### 2.5 Visão geral
 
@@ -102,6 +104,69 @@
 ## 6. Visão Lógica
 
 ## 7. Visão de Processos
+&emsp;&emsp; A Visão de Processos descreve como o sistema de tempo-de-execução é estruturado na forma de um conjunto de elementos que têm interações e comportamento de tempo-de-execução. A estrutura de tempo-de-execução normalmente tem pouca semelhança com a estrutura de código. Consiste de redes de comutação rápida de objetos de comunicação.
+
+### 7.1 Diagrama de Comunicação
+
+<strong>Interação do Usuário</strong>
+<center>
+![Interação do Usuário](../../entrega_II/assets/diagrama_de_comunicacao/communication_diagram_user.png)
+<figcaption>Imagem 1: Diagrama de comunicação - Usuário</figcaption>
+<figcaption>Autor: Denys Rógeres</figcaption>
+</center>
+
+### 7.2 Diagramas de Atividades
+
+<strong>Cadastro de Usuário</strong>
+<center>
+![Cadastro de Usuário](../../entrega_II/assets/activity-diagrams/user_register.png)
+<figcaption>Imagem 1: Diagrama de atividades - Cadastro de Usuário.</figcaption>
+<figcaption>Autor: Thiago Mesquita</figcaption>
+</center>
+
+<strong>Adicionar Usuário à Comunidade</strong>
+<center>
+![Adicionar Usuário à Comunidade](../../entrega_II/assets/activity-diagrams/add-to-community.png)
+<figcaption>Imagem 2: Diagrama de atividades - Adicionar Usuário à Comunidade.</figcaption>
+<figcaption>Autor: Thiago Mesquita</figcaption>
+</center>
+
+<strong>Comprar Produto</strong>
+<center>
+![Comprar Produto](../../entrega_II/assets/activity-diagrams/buy-item.png)
+<figcaption>Imagem 3: Diagrama de atividades - Comprar Produto.</figcaption>
+<figcaption>Autor: Thiago Mesquita</figcaption>
+</center> 
+
+<strong>Denunciar Vendedor</strong>
+<center>
+![Denunciar Vendedor](../../entrega_II/assets/activity-diagrams/report.png)
+<figcaption>Imagem 4: Diagrama de atividades - Denunciar Vendedor.</figcaption>
+<figcaption>Autor: Thiago Mesquita</figcaption>
+</center>
+
+<strong>Cadastro de Comunidade</strong>
+<center>
+![Cadastro de Comunidade](../../entrega_II/assets/activity-diagrams/community_register.png)
+<figcaption>Imagem 5: Diagrama de atividades - Cadastro de Comunidade.</figcaption>
+<figcaption>Autor: Daniel Barcelos</figcaption>
+</center>
+
+<strong>Anunciar Produto</strong>
+<center>
+![Anunciar Produto](../../entrega_II/assets/activity-diagrams/product_announcement.png)
+<figcaption>Imagem 6: Diagrama de atividades - Anunciar Produto.</figcaption>
+<figcaption>Autor: Daniel Barcelos</figcaption>
+</center>
+
+<strong>Avaliar Vendedor</strong>
+<center>
+![Avaliar Vendedor](../../entrega_II/assets/activity-diagrams/evaluate_seller.png)
+<figcaption>Imagem 7: Diagrama de atividades - Avaliar Vendedor.</figcaption>
+<figcaption>Autor: Daniel Barcelos</figcaption>
+</center>
+
+
 
 ## 8. Visão de Implantação
 
