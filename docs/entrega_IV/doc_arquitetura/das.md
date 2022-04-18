@@ -8,6 +8,7 @@
 | ------ | ---------- | --------------------------- | ------------- |
 | 0.1    | 17/04/2022 | Criação do documento        | Daniel Barcelos e Matheus Afonso  |
 | 0.2    | 17/04/2022 | Criação da visão de casos de usos | Denys Rógeres e Victor Gonçalves  |
+| 0.3    | 17/04/2022 | Escrita da visão de casos de usos | Denys Rógeres e Victor Gonçalves  |
 
 </center>
 
@@ -30,7 +31,7 @@
 ## 5. Visão de Casos de Uso
 &emsp;&emsp; Com o intuito de realizar uma representação mais próxima do usuário, a **visão de casos de uso** retrata as interações dos atores descrevendo os diversos cenários de uso da aplicação. Para uma melhor compreensão do sistema, dividimos em quatro casos de uso que contemplam os requisitos elicitados para o desenvolvimento do sistema.
 
-### 4.1. UC01 - Gerenciar conta
+### 5.1. UC01 - Gerenciar conta
 <center>
 ![gerenciar-conta](../../assets/gerenciar-conta.png)
 <figcaption>Imagem 1: Imagem que contém caso de uso UC01.</figcaption>
@@ -47,7 +48,7 @@
 
 </center>
 
-### 4.2. UC02 - Realizar pedido
+### 5.2. UC02 - Realizar pedido
 <center>
 ![gerenciar-conta](../../assets/pedido.png)
 <figcaption>Imagem 2: Imagem que contém caso de uso UC02.</figcaption>
@@ -64,7 +65,7 @@
 
 </center>
 
-### 4.3. UC03 - Criar comunidade
+### 5.3. UC03 - Criar comunidade
 <center>
 ![gerenciar-conta](../../assets/comunidade.png)
 <figcaption>Imagem 3: Imagem que contém caso de uso UC03.</figcaption>
@@ -81,7 +82,7 @@
 
 </center>
 
-### 4.4. UC04 - Criar anúncio
+### 5.4. UC04 - Criar anúncio
 <center>
 ![gerenciar-conta](../../assets/anuncio.png)
 <figcaption>Imagem 4: Imagem que contém caso de uso UC04.</figcaption>
