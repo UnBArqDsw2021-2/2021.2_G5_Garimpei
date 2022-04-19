@@ -10,6 +10,7 @@
 | 0.2    | 18/04/2022 | Escrita reutilização de Software        | Denys Rógeres e Paulo Victor  |
 | 0.3   | 18/04/2022 | Adição da seção sobre back-end | Victor Jorge, Matheus Afonso, Vinicius Saturnino, Thiago Mesquita, Mateus Gomes, Daniel Barcelos e Juliana Valle |
 | 0.4   | 18/04/2022 | Adição da seção de introdução| Victor Jorge, Matheus Afonso, Vinicius Saturnino, Thiago Mesquita, Mateus Gomes, Daniel Barcelos e Juliana Valle |
+| 0.5   | 18/04/2022 | Adição de referências| Mateus Gomes, Daniel Barcelos, Juliana Valle, Matheus Afonso e Vinícius Saturnino |
 
 </center>
 
@@ -53,10 +54,18 @@ Os componentes no React tem o intuito de realizar uma divisão da interface em p
 
 <center>
 ![Components](../../assets/components.png)
+<figcaption>Imagem 4: Componentes da interface do projeto</figcaption>
+<figcaption>Estrutura de pastas tirada do projeto</figcaption>
 </center>
 
 ## 5. Bibliografia
 
 [1] CimpleO. NestJS modules Design. Disponível em https://cimpleo.com/blog/nestjs-modules-design/. Último acesso em 18/04/2022
 
-[2] DEVMEDIA. Reutilização de Software - Revista Engenharia de Software Magazine 39. Disponível em: https://www.devmedia.com.br/reutilizacao-de-software-revista-engenharia-de-software-magazine-39/21956. Acesso em: 17 de outubro. 2022.
+[2] DEVMEDIA. Reutilização de Software - Revista Engenharia de Software Magazine 39. Disponível em: https://www.devmedia.com.br/reutilizacao-de-software-revista-engenharia-de-software-magazine-39/21956. Acesso em: 18/04/2022.
+
+[3] NestJs. NestJs Docs. Disponível em: https://docs.nestjs.com. Acesso em: 18/04/2022.
+
+[4] FastAPI. FastAPI Docs. Disponível em: https://fastapi.tiangolo.com. Acesso em: 18/04/2022.
+
+[5] ReactJs. ReactJs Docs. Disponível em: https://pt-br.reactjs.org. Acesso em: 18/04/2022.
