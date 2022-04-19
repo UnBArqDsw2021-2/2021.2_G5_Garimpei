@@ -125,8 +125,6 @@ Adicione o(s)s vídeo(s) da Segunda Entrega.
 
 ## Vídeo(s) Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 
-Adicione o(s)s vídeo(s) da Terceira Entrega.
-
 ### GRASPs
 
 <center>
@@ -159,25 +157,71 @@ Adicione o(s)s vídeo(s) da Terceira Entrega.
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+![Screenshot do documento de arquitetura de software](docs/entrega_IV/assets/screenshots/screenshot_das.png)
+![Screenshot do documento de reutilização de software](docs/entrega_IV/assets/screenshots/screenshot_reutilização.png)
+![Screenshot da home](docs/entrega_IV/assets/screenshots/screenshot_home.png)
+![Screenshot de novo anúncio](docs/entrega_IV/assets/screenshots/screenshot_novo_anuncio.png)
+![Screenshot da minha conta](docs/entrega_IV/assets/screenshots/screenshot_minha_conta.png)
 
 ## Vídeo(s) Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 
-Adicione o(s)s vídeo(s) da Entrega Final.
+### Documento de Arquitetura de Software
+
+<center>
+
+[![Garimpei](https://img.youtube.com/vi/LXrETEvrEts/0.jpg)](https://www.youtube.com/watch?v=LXrETEvrEts)
+<br />
+[Link do vídeo](https://www.youtube.com/watch?v=LXrETEvrEts)
+
+</center>
+
+### Reutilização de Software
+
+<center>
+
+[![Garimpei](https://img.youtube.com/vi/XQqpwKlctHM/0.jpg)](https://www.youtube.com/watch?v=XQqpwKlctHM)
+<br />
+[Link do vídeo](https://www.youtube.com/watch?v=XQqpwKlctHM)
+
+</center>
 
 ## Descritivo dos Principais Aspectos Técnicos
 
-**Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
-**Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
+**Principal(is) Metodologia(s) Adotada(s)**: Scrum, Kanban e XP<br>
+**Principais Linguagens Utilizadas e/ou Pretendidas**: Python, Javascript e Typescript<br>
+**Principais Tecnologias Utilizadas e/ou Pretendidas**: NextJS, NestJS, FastAPI, PostgreSQL, Docker e ChakraUI<br>
+**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: GRASP's controlador, especialista, alta coesão e baixo acoplamento. GoF's singleton, state, iterator, chain of responsability, decorator, composite, facade. Microserviços, Single-page application e Gateway<br>
 
 ## O Projeto está rodando?
 
-( ) SIM
+(X) SIM
 ( ) NÃO
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
 
-## Informações Complementares
+---
 
-Quaisquer outras informações sobre seu projeto podem ser descritas nessa seção.
+## 🔧 Pré-requisitos
+
+- NodeJS
+- Recomendado: Yarn
+
+---
+
+## 🌟 Como usar o projeto
+
+```sh
+
+  # Clone o repositório
+  $ git clone https://github.com/UnBArqDsw2021-2/2021.2_G5_Garimpei_Frontend.git
+
+  # Acessar pasta do repositório
+  $ cd 2021.2_G5_Garimpei_Frontend
+
+  # Instalar as dependências
+  $ npm install ou yarn
+
+  # Iniciar a aplicação
+  $ npm dev ou yarn dev
+
+```
+
+---

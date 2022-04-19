@@ -7,6 +7,7 @@
 | 0.1    | 04/02/2022 | Criação do documento                                      | Paulo Victor |
 | 0.2    | 06/02/2022 | Adição do link dos vídeos relacionados a primeira entrega | Paulo Victor |
 | 0.3    | 21/02/2022 | Adição do link dos vídeos relacionados a segunda entrega | Daniel Barcelos |
+| 0.4    | 18/04/2022 | Adição do link dos vídeos relacionados a quarta entrega | Daniel Barcelos |
 
 ## 1. Desenho de Software (Base)
 
@@ -91,5 +92,23 @@
 <center>
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/Tlz20rllSvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+## 4. Arquitetura de Software e Reutilização de Software
+
+### 4.1 Documento de Arquitetura de Software
+
+<center>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/LXrETEvrEts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+### 4.2 Reutilização de Software
+
+<center>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/XQqpwKlctHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
