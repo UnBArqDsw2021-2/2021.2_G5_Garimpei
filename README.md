@@ -203,13 +203,16 @@ Adicione o(s)s vídeo(s) da Segunda Entrega.
 
 - NodeJS
 - Recomendado: Yarn
+- Docker
+- Docker-Compose
 
 ---
 
 ## 🌟 Como usar o projeto
 
-```sh
+### Front-End
 
+```sh
   # Clone o repositório
   $ git clone https://github.com/UnBArqDsw2021-2/2021.2_G5_Garimpei_Frontend.git
 
@@ -224,4 +227,20 @@ Adicione o(s)s vídeo(s) da Segunda Entrega.
 
 ```
 
+### Back-End
+```sh
+  # Clone o repositório
+  $ git clone <url_do_repositorio>
+
+  # Acessar pasta do repositório
+  $ cd <nome_repositorio>
+
+  # Rodar a aplicação
+  $ docker-compose up --build
+  
+  ou
+
+  $ make run
+
+```
 ---
