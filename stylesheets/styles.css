@@ -1,0 +1,74 @@
+.md-header {
+  background: #2a2a2a;
+}
+
+p img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+p {
+  text-align: justify;
+}
+
+thead tr {
+  background: #d7323f !important;
+  color: white;
+}
+
+tr:nth-child(odd) {
+  background: #f8f8f8;
+}
+
+td,
+th {
+  text-align: center !important;
+  vertical-align: middle !important;
+}
+
+img[alt="drawing"] {
+  width: 3rem;
+  object-fit: cover;
+}
+
+img[alt="persona"] {
+  width: 15rem;
+  object-fit: cover;
+}
+
+img[alt="caption"] {
+  width: 20rem;
+  object-fit: cover;
+}
+
+img[alt="logo"] {
+  width: 20rem;
+  object-fit: cover;
+}
+
+img[alt="cromatic circle"] {
+  width: 20rem;
+  object-fit: cover;
+}
+
+img[alt="subtitle state diagram"] {
+  width: 15rem;
+  object-fit: cover;
+}
+
+img[alt="chat"] {
+  width: 30rem;
+  object-fit: cover;
+}
+
+img[alt="meeting"] {
+  width: 10rem;
+  object-fit: cover;
+}
+
+img[alt="folder"] {
+  width: 15rem;
+  object-fit: cover;
+}
